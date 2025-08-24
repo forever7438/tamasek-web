@@ -1,0 +1,2354 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="With increasing temperatures and a shifting regulatory and technological landscape, climate change presents an urgent sustainability-related risk." />
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="msapplication-square150x150logo" content="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/mstile-150x150.png">
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="apple-mobile-web-app-title" content="Temasek Corporate">
+    <meta name="application-name" content="Temasek Corporate">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/android-chrome-192x192.png">
+    <link rel="mask-icon" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/clientlibs/base.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/blacksunplc.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/is.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.js"></script>
+<script src="/etc.clientlibs/temasek-corporate/clientlibs/base.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/imagesloaded.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/timeago.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.js"></script>
+<script src="/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.js"></script>
+
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.css" type="text/css">
+<script src="/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.js"></script>
+
+<script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/datepicker.js"></script>
+<script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
+<script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
+<link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
+    <title>Scenario Analysis and Resilience - Temasek</title>
+
+    <meta property="og:title" content="Scenario Analysis and Resilience" />
+    <meta property="og:site_name" content="Temasek Corporate Website English" />
+    <meta property="og:url" content="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="With increasing temperatures and a shifting regulatory and technological landscape, climate change presents an urgent sustainability-related risk." />
+    <meta property="og:image" content="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/related-content-620x280/related-06-1-scenario-analysis-and-resillience-620x280.png.downloadasset.png" />
+     <meta property="og:locale" content="en" />
+
+    <meta name="twitter:title" content="Scenario Analysis and Resilience" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@testing_16nov" />
+    <meta name="twitter:url" content="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" />
+    <meta name="twitter:description" content="With increasing temperatures and a shifting regulatory and technological landscape, climate change presents an urgent sustainability-related risk." />
+    <meta name="twitter:creator" content="@testing_16nov" />
+    <meta name="twitter:image" content="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/related-content-620x280/related-06-1-scenario-analysis-and-resillience-620x280.png.downloadasset.png" />
+
+    <meta property="fb:app_id" content="1086722744796138" />
+
+
+             <script type="text/javascript" id="lightning_bolt" src="//cdn-akamai.mookie1.com/LB/LightningBolt.js"></script>
+
+             <script type="text/javascript"> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWJ89FF');  </script>
+
+             <script type="text/javascript">
+_linkedin_partner_id = "778555";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=778555&fmt=gif"/>
+</noscript>
+
+             <script type="text/javascript" src="/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.js"></script>
+
+             <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10111606'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+             <meta name="facebook-domain-verification" content="ty2ud0xlzerdvns539qke6837meywt" />
+
+             
+<script data-obct type="text/javascript">
+  /** DO NOT MODIFY THIS CODE**/
+  !function(_window, _document) {
+    var OB_ADV_ID = '0093ea5a97ad7890bfed25d9ca4251ba35';
+    if (_window.obApi) {
+      var toArray = function(object) {
+        return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];
+      };
+      _window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));
+      return;
+    }
+    var api = _window.obApi = function() {
+      api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);
+    };
+    api.version = '1.1';
+    api.loaded = true;
+    api.marketerId = OB_ADV_ID;
+    api.queue = [];
+    var tag = _document.createElement('script');
+    tag.async = true;
+    tag.src = '//amplify.outbrain.com/cp/obtp.js';
+    tag.type = 'text/javascript';
+    var script = _document.getElementsByTagName('script')[0];
+    script.parentNode.insertBefore(tag, script);
+  }(window, document);
+
+  obApi('track', 'PAGE_VIEW');
+</script>
+
+
+
+
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="m7c7geaxy6lzc2ej4bma-f-a50288e1b-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"365029","ak.ai":parseInt("246172",10),"ak.ol":"0","ak.cr":37,"ak.ipv":4,"ak.proto":"h2","ak.rid":"811f219","ak.r":47325,"ak.a2":e,"ak.m":"ksd","ak.n":"essl","ak.bpcip":"103.197.243.0","ak.cport":52860,"ak.gh":"23.211.252.177","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1753866328","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==4RcPq0GhGQWo/zhZYhoQ86ddQAZ/a9gPxhsutgimRqD1eKHDi/eZ84lt21TnuzEw4mcbJovbcqO7cevQJ2IcFR8slfnp7OWnQv4mNSs6kclmMP/Ofxil5BlB34eO8zXkbAenaVIPRp4oxU5VC50IL0/CLBdGyH7zrpdzoldJiIHQsEmuCMBCY1j3thTMMIRfLwE8TXU5ZshIyEsYsXBmLaAdhrp4PYWrfhsKEmVvdAqd1ESePTf98imHuzNovwd04IrD/1GU3RnGbD/7DBttVpdKwfiiwj5hT4jMIjHubATwU27jqKLitRcVJ+4WAiIFkPpInUsVOEyEzH2kwg0wl0lJc1YvDQWniRATS8ZDJEXawF8onMIu58dGRo1kSnPCqFIM530iRVWpA8lF2ON4EjAwtvvOWPmb+tni8IDSPx4=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+
+<body class="scenario-analysis-and-resilience content-page en sustainability  " data-language-name="en">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWJ89FF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="cookiewarning">
+
+<div id="cookie-control-ui" class="hidden"
+    data-cookieconsentstorageid="temasek-corporate-en-cookieConsentStorageID">
+
+    <div class="cookie-outer-wrapper">
+        <div class="cookie-inner-wrapper">
+            
+            <div class="cookie-content">
+                <div class="cookie-body">
+                    
+                    
+                        <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them see our <a></a><a target="_blank"></a><a href="https://localhost:8087/en/site-services/cookies.html">cookie policy</a>.</p>
+
+                    
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn-accept">ACCEPT</button>
+                    <button class="btn-decline"> DECLINE</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/etc.clientlibs/temasek-commons/components/includes/cookiewarning/clientlibs.min.js"></script>
+
+</div>
+
+
+
+    <div class="page">
+
+
+
+    <header class="fixed-header">
+
+
+
+        <div class="top">
+            <div class="logo-wrapper">
+<div class="dynamic-logo-header dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="/en/index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="/en/index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+            </div>
+
+            <div class="topmenu-wrapper">
+                <div class="link-1 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="https://www.temasekreview.com.sg/" class='temasek-review'>
+        Temasek Review
+        <img src="" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-t50 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="/en/about-us/t50" class='link-t50'>
+        Commemorating 50 Years
+        <img src="/content/dam/temasek-corporate/T50/t50-logo-only.svg" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-2 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="/en/news-and-resources/stories" class=''>
+        Stories
+        <img src="" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-3 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="/en/contact-us" class='link-contact-us'>
+        Contact Us
+        <img src="" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="search-button"></div>
+                <div class="language-switch parbase">
+    <ul class="language-switch-links">
+
+        <li class="selected">
+            <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" rel="canonical">
+                En
+            </a>
+        </li>
+        <li>
+            <a href="/zh/sustainability" rel="alternative" hreflang="zh">
+                中文
+            </a>
+        </li>
+    </ul>
+
+    <div class="cookie-enable">
+        <button class="cookie-enable-open"></button>
+        <div class="cookie-enable-content hidden">
+            <button class="cookie-enable-close"></button>
+            <div class="cookie-enable-body">
+                <div class="cookie-on">
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="#">Turn cookies on</a>. </p>
+<p><a></a>View our <a href="https://localhost:8087/en/site-services/cookies" target="_blank">privacy notice</a> for more information</p>
+
+                </div>
+
+                <div class="cookie-off hidden">
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="#">Turn cookies off.</a> </p>
+<p><a></a>View our <a href="https://localhost:8087/en/site-services/cookies" target="_blank">privacy notice</a> for more information</p>
+
+                </div>
+            </div>
+        </div>
+    </div></div>
+
+            </div>
+        </div>
+
+        <div class="bottom">
+
+            <!-- <div class="search-button"></div> -->
+
+<div class="mega-menu">
+    <div class="mega-menu mega-menu-default">
+    <nav class="mega-menu-navigation">
+        <ul class="mega-menu-navigation-list">
+            <li><a class="mega-menu-navigation-link about-us  has-menu-item" href="/en/about-us" data-section="mega-menu-about-us">About Us</a></li>
+            <li><a class="mega-menu-navigation-link our-financials  has-menu-item" href="/en/our-financials" data-section="mega-menu-our-financials">Our Financials</a></li>
+            <li><a class="mega-menu-navigation-link our-investments  has-menu-item" href="/en/our-investments" data-section="mega-menu-our-investments">Our Investments</a></li>
+            <li><a class="mega-menu-navigation-link sustainability active has-menu-item" href="/en/sustainability" data-section="mega-menu-sustainability">Sustainability</a></li>
+            <li><a class="mega-menu-navigation-link our-community  has-menu-item" href="/en/our-community" data-section="mega-menu-our-community">Our Community</a></li>
+            <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item" href="/en/news-and-resources" data-section="mega-menu-news-and-resources">News &amp; Resources</a></li>
+        </ul>
+    </nav>
+    <div class="mega-menu-items-wrapper" style="display:none">
+        <div id="mega-menu-about-us" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item40 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>About Us</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>A global investment company delivering sustainable returns&nbsp;over the long term<br>
+</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="/en/about-us/t50">Commemorating 50 Years</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/temasek-at-a-glance">Temasek at a Glance</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/our-t2030-strategy">Our T2030 Strategy</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/our-board">Our Board</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/our-leadership">Our Leadership</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/our-global-advisory-network">Our Global Advisory Network</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/corporate-governance">Corporate Governance</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/managing-risks">Managing Risks</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/history-of-temasek">History of Temasek</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/careers">Careers</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/about-us/faqs">FAQs</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys"><div class="teaser parbase section">
+</div>
+
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-financials" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item30 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Financials</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Building a disciplined institution</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="/en/our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-financials/portfolio-performance">Portfolio Performance</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-financials/wealth-added">Wealth Added</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/our-financials/group-financials">Group Financials</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-financials/cost-discipline">Cost Discipline​</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-financials/credit-profile">Credit Profile</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/our-financials/temasek-bonds">Temasek Bonds</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+                            
+                            </li>
+                            <li><a class="has-fourth-level-links" href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+                            
+                                    <ul class="mega-menu-item-fourth-level-links " style="display:none">
+
+                                        <li><a class="" href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+
+                                       </li>
+                                    </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/our-financials/library">Investor Library</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/our-financials/library/temasek-review">Temasek Review</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-investments" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item41 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Investments</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Investing with tomorrow in mind</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="/en/our-investments/investment-approach">Investment Approach​</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-investments/our-portfolio">Our Portfolio</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-sustainability" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item38 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Sustainability</h2>
+            <div class="menuitempar-left parsys"><div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/index/jcr:content/mega-menu/mega-menu/mega_menu_item38/menuitempar-left/image" class="img-width-100 default image" data-tooltip-content="null">
+
+        <a href="/content/temasek-corporate/en/news-and-resources/resources#sustainability-report.html"><a href="/en/news-and-resources/resources#sustainability-report"><img src="/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-download-thumbnail-900x600.png" alt="darker-sus-download-thumbnail-900x600.png" title="darker-sus-download-thumbnail-900x600.png" class="cq-dd-image"></a></a>
+
+    </figure></div>
+
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p><a href="/en/news-and-resources/resources#sustainability-report">Sustainability Report 2025</a></p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="/en/sustainability/key-highlights">Key Highlights</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-strategy">Sustainability Strategy </a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="/en/sustainability/sustainability-governance"> Sustainability Governance</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-operations/people">People</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys"><div class="teaser parbase section">
+</div>
+
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-community" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item5 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Community</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Building communities, uplifting lives</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="/en/our-community/our-approach">Our Approach</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-community/knowledge-centres">Knowledge Centres</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/our-community/staff-volunteers">Staff Volunteers</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="/en/our-community/temasek-foundations">Temasek Foundation</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" target="_blank" href="/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+                            
+                            </li>
+                            <li><a class="" href="/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-news-and-resources" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item39 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>News &amp; Resources</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Stay informed and keep abreast of the latest news</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="/en/news-and-resources/news-room">Newsroom</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="/en/news-and-resources/scam-alerts">Scam Alerts</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/news-and-resources/stories">Stories</a>
+                    </li>
+                    <li>
+                        <a class="" href="/en/news-and-resources/resources">Resources</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+    </div></div>
+
+    <script src="/etc.clientlibs/temasek-commons/components/includes/mega-menu/clientlibs.min.js"></script>
+
+</div>
+
+
+            <div class="search-row">
+                <div class="searchfield">
+                    <div class="search-field-outer">
+<div class="search-field">
+    <div class="search-field search-field-default">
+    <div class="search-field-wrapper">
+        <form action="/en/site-services/search-results" class="search-field-form" data-style="/etc/designs/temasek-corporate/jcr:content/content-page/search-field/search-field" data-pagepath="/content/temasek-corporate/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">
+            <input autocomplete="off" class="search-field-input" name="q" id="q" type="text" placeholder="What are you searching for?" />
+            <input class="search-field-button" type="submit" />
+        </form>
+    </div></div>
+
+</div>
+
+                    </div>
+                </div>
+                <div class="close-search-row"><span>Close</span></div>
+            </div>
+
+<div class="mobile-menu">
+
+
+
+
+<div class="mobilemenu-trigger">
+    <span></span>
+</div>
+<div class="mobilemenu-wrapper" data-backlabel="Back">
+    <div class="mobilemenu menu">
+        <ul class="dl-menu">
+            
+
+
+        <li>
+            <a href="/en/index">Home</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us">About Us</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="/en/about-us/t50">Commemorating 50 Years</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/temasek-at-a-glance">Temasek at a Glance</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/our-t2030-strategy">Our T2030 Strategy</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/our-board">Our Board</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/our-leadership">Our Leadership</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/our-global-advisory-network">Our Global Advisory Network</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/corporate-governance">Corporate Governance</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/managing-risks">Managing Risks</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/history-of-temasek">History of Temasek</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/careers">Careers</a>
+
+        </li>
+
+        <li>
+            <a href="/en/about-us/faqs">FAQs</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials">Our Financials</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="/en/our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/portfolio-performance">Portfolio Performance</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/wealth-added">Wealth Added</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials">Group Financials</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/cost-discipline">Cost Discipline​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/credit-profile">Credit Profile</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/temasek-bonds">Temasek Bonds</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+
+            <ul class="dl-submenu level-2">
+                
+
+
+        <li>
+            <a href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/library">Investor Library</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/our-financials/library/temasek-review">Temasek Review</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/our-investments">Our Investments</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="/en/our-investments/investment-approach">Investment Approach​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-investments/our-portfolio">Our Portfolio</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li class="opened">
+            <a href="/en/sustainability">Sustainability</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="/en/sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/key-highlights">Key Highlights</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-strategy">Sustainability Strategy </a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-governance"> Sustainability Governance</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li class="opened">
+            <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li class="current">
+            <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-operations/people">People</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/our-community">Our Community</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="/en/our-community/our-approach">Our Approach</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-community/knowledge-centres">Knowledge Centres</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-community/staff-volunteers">Staff Volunteers</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-community/temasek-foundations">Temasek Foundation</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+
+        </li>
+
+        <li>
+            <a href="/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="/en/news-and-resources">News &amp; Resources</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="/en/news-and-resources/news-room">Newsroom</a>
+
+        </li>
+
+        <li>
+            <a href="/en/news-and-resources/scam-alerts">Scam Alerts</a>
+
+        </li>
+
+        <li>
+            <a href="/en/news-and-resources/stories">Stories</a>
+
+        </li>
+
+        <li>
+            <a href="/en/news-and-resources/resources">Resources</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+        </ul>
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.css" type="text/css">
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/components/includes/mobile-menu/clientlibs.min.js"></script>
+</div>
+
+
+        </div>
+    </header>
+
+
+<div class="sectionbanner image-video-banner">
+
+
+<div class='image-video-banner-wrapper ' data-mobile-image-path="/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-banner-mobile-800x400.png"
+       data-desktop-image-path="/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-banner-desktop-2736x768.png"
+    
+            style="background-image: url('/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-banner-desktop-2736x768.png');"
+    >
+
+    <div class="banner-content-wrapper">
+
+        
+
+        <div class="image-video-banner-wrapper-detail">
+            <p class="image-video-banner-title">Scenario Analysis and Resilience</p>
+        
+        
+        </div>
+    </div>
+    
+</div>
+
+
+
+</div>
+
+<div class="breadcrumbs parbase">
+
+<div class="footer-links breadcrumbs-default">
+    <nav class="breadcrumbs">
+        <a href="/en/index">Home</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <a href="/en/sustainability">Sustainability</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <span class="breadbrumbs-current">Scenario Analysis and Resilience</span>
+    </nav>
+</div>
+</div>
+
+
+<div class="main-wrapper">
+	<div class="share share-left sharelink">
+		<div class="socialshare">
+
+<div class="socialshare-content">
+   <div class="share-links-menu">
+      <ul class="socialshare-list share-links">
+      
+         <li class="socialshare-item__linkedin linkedin"><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" aria-label="Share this page on LinkedIn" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__facebook facebook"><a href="http://www.facebook.com/sharer.php?u=https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" aria-label="Share this page on Facebook" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__twitter twitter"><a href="https://twitter.com/intent/tweet?url=https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" aria-label="Share this page on Twitter" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__email email"><a href="mailto:?subject=Scenario Analysis and Resilience&body=https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" aria-label="Share this page on Email" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__whatsapp whatsapp"><a href="https://wa.me/?text=https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience" aria-label="Share this page on Whatsapp" target="_blank"><i></i></a></li>
+      
+      </ul>
+   </div>
+ </div>
+
+<script src="/etc.clientlibs/temasek-corporate/components/includes/socialshare/clientlibs.min.js"></script>
+
+</div>
+
+		<div class="share-inner">
+			<a class="tool-share"></a>
+			<div class="share-links-menu">
+				<div class="addthis_inline_share_toolbox"
+					data-title="Scenario Analysis and Resilience"
+					data-url="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience.html"
+					
+					
+						data-description="With increasing temperatures and a shifting regulatory and technological landscape, climate change presents an urgent sustainability-related risk."
+					
+
+					
+						data-media="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/related-content-620x280/related-06-1-scenario-analysis-and-resillience-620x280.png.downloadasset.png"
+					
+					>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="title"><h1>Scenario Analysis and Resilience</h1>
+</div>
+
+	<div class="par parsys"><div class="text parbase section">
+
+
+
+<div class="default"><h3><b>With increasing temperatures, more frequent extreme weather events, and a shifting regulatory&nbsp;and technological landscape, climate change presents an urgent sustainability-related risk.</b></h3>
+</div>
+
+
+</div>
+<div class="parsys_column column_2"><div class="parsys_column column_2-c0"><div class="text parbase section">
+
+
+
+<div class="default"><p>The future climate is expected to be significantly warmer, with&nbsp;global average temperatures projected to rise by up to 4°C by the&nbsp;end of the century if greenhouse gas (GHG) emissions continue at&nbsp;their current rate. This warming will lead to more frequent and&nbsp;severe weather events, such as heatwaves, storms, and heavy&nbsp;rainfall. Additionally, sea levels are expected to rise, causing coastal&nbsp;flooding and erosion.</p>
+<p>These changes will lead to significant economic losses. The impacts&nbsp;will not be evenly distributed, with some regions experiencing more&nbsp;intense effects than others. Given these projections, it is crucial to&nbsp;expand our focus beyond climate mitigation and enhance resilience&nbsp;to these changes.</p>
+</div>
+
+
+</div>
+</div><div class="parsys_column column_2-c1"><div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience/jcr:content/par/image_copy" class="img-width-100 default image" data-tooltip-content="null">
+
+<img src="/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/images/06-1-scenario-analysis-and-resillience-900x600%20.png" alt="06-1-scenario-analysis-and-resillience-900x600 .png" title="06-1-scenario-analysis-and-resillience-900x600 .png" class="cq-dd-image">
+
+    </figure></div>
+</div></div><div style="clear:both"></div><div class="parsys_column cq-colctrl-default"><div class="parsys_column cq-colctrl-default-c0"></div></div><div style="clear:both"></div><div class="accordion parbase section">
+
+
+    <div id="accordion-592699" class="accordion-wrapper default"
+        data-start="0"
+        data-mode="separate">
+
+        <div class="accordionparsys parsys"><div class="accordion-item parbase section">
+        <div id="accordion-592699-overview-of-scenario-analysis" class="accordion-item-wrapper" data-alias="overview-of-scenario-analysis">
+            <a href="#overview-of-scenario-analysis" class="accordion-item-link">
+                <h3 class="accordion-item-header">Overview of Scenario Analysis</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>Scenario analysis is a key tool for generational investors like&nbsp;Temasek to manage and assess climate-related risks and&nbsp;opportunities under various policies, social and technology&nbsp;pathways, and associated temperature outcomes. This information&nbsp;enables us to evaluate the implications on our portfolio of different&nbsp;climate scenarios and make informed investment decisions.&nbsp;</p>
+<p>From a top-down perspective, the climate scenario analysis is&nbsp;applied as an overlay on our macroeconomic forecasts alongside&nbsp;other geopolitical events in our Temasek Geometric Expected&nbsp;Return Model (T-GEM), which uses a scenario-based approach to&nbsp;simulate our 20-year long-term expected returns.</p>
+<p>From a bottom-up perspective, we apply our Climate Value Impact&nbsp;tool, utilising a scenario-based approach to estimate potential&nbsp;climate-related impacts. In addition, our internal carbon price takes&nbsp;into account various climate scenarios’ carbon price assumptions.&nbsp;</p>
+<p>Combining both a top-down and bottom-up approach in our&nbsp;climate risk assessment, anchored by a consistent set of scenarios,&nbsp;facilitates a deeper understanding of the climate risks and&nbsp;opportunities our portfolio may face.</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-592699-climate-scenarios" class="accordion-item-wrapper" data-alias="climate-scenarios">
+            <a href="#climate-scenarios" class="accordion-item-link">
+                <h3 class="accordion-item-header">Climate Scenarios</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>Our most recent climate scenario analysis was carried out in 2023. We use three climate scenarios to assess the potential climate-related physical and transition risks and impacts on our portfolio.</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/components/functional/separator/clientlibs.min.css" type="text/css">
+
+
+<div class="separator-wrapper small">
+</div>    </div>
+<div class="html parbase section">
+
+<div class="scrollbar-top">
+<table cellpadding="1" cellspacing="0" border="1">
+    <tbody><tr><th class="small">Name</th>
+    <th class="small">Scenario</th>
+    <th class="small big">Assumptions</th>
+    <th class="small">Temperature Increase&nbsp;<br>
+     (by 2100)</th>
+    </tr><tr><td class="small"><b>Low Ambition</b></td>
+    <td class="small">Network for Greening the Financial System (NGFS) Hot House World</td>
+    <td class="small big"><p><b>Low Transition Costs, High Physical Costs</b></p>
+    <ul>
+    <li style="margin-bottom: 10px;">No further climate mitigation efforts from 2022, such that regulatory policies, energy use, and energy mix remain largely consistent with the actual state of the world in 2022.</li>
+    <li style="margin-bottom: 10px;">Slow and insignificant progress on green transition technology changes, given the lack of policy impetus and demand, with low uptake of carbon dioxide removal.</li>
+    <li style="margin-bottom: 10px;">Significantly larger physical costs given the lack of policy traction, with greater climate sensitivities than initially assumed in climate models, which result in a worse temperature outcome.</li>
+    </ul>
+    </td>
+    <td class="small">&gt;4.0°C</td>
+    </tr><tr><td class="small"><b>Medium Ambition</b></td>
+    <td class="small">Inevitable Policy Response Forecast Policy Scenario (IPR FPS)</td>
+    <td class="small big"><p><b>Medium Transition Costs and Physical Costs</b></p>
+    <ul>
+    <li style="margin-bottom: 10px;">Significant acceleration in policy by 2025, with the speed and intensity of regulatory change, in addition to the forecasted policy levers, varying across economies depending on assessed readiness.</li>
+    <li style="margin-bottom: 10px;">Higher transition costs upfront, resulting in lower physical costs compared to the Low Ambition Scenario.</li>
+    <li style="margin-bottom: 10px;">Consistent total energy consumption, with an energy mix shift resultant from decreased fossil fuel demand and fast growth in renewables generation.</li>
+    <li style="margin-bottom: 10px;">For ease of modelling, assumes governments across all economies recycle carbon tax revenues equally between personal tax cuts, investments, and debt reduction. Also assumes central banks react to inflation changes.</li>
+    <li style="margin-bottom: 10px;">Post 2050, no new breakthroughs in technology and land-use constraints limit negative emission technologies.</li>
+    </ul>
+    </td>
+    <td class="small">~1.8°C<sup>1</sup></td>
+    </tr><tr><td class="small"><b>High Ambition</b></td>
+    <td class="small">NGFS Net Zero</td>
+    <td class="small big"><p><b>High Transition Costs, Low Physical Costs</b></p>
+    <ul>
+    <li style="margin-bottom: 10px;">Immediate enactment of stringent climate policies and green innovation, in line with more ambitious global efforts to mitigate climate change. This supports the transition to net zero carbon emissions around 2050, with some jurisdictions reaching net zero for all greenhouse gases by this point.</li>
+    <li style="margin-bottom: 10px;">Rapid adoption of technology, including carbon capture and storage, to accelerate decarbonisation.&nbsp;</li>
+    <li style="margin-bottom: 10px;"><span>Physical costs are relatively lower than the Medium and Low Ambition scenarios.</span></li>
+    <li style="margin-bottom: 10px;">Initial interest rate spikes caused by immediate transition policies, with stabilisation over time. Assumes negative short-term impact on GDP, with initial losses offset by future cost savings.</li>
+    <li style="margin-bottom: 10px;">Transition away from fossil fuels with renewables and biomass delivering above 80% of global primary energy needs by 2050.</li>
+    </ul>
+    </td>
+    <td class="small">1.5°C</td>
+    </tr></tbody></table>
+</div>
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h6><sup>1 </sup>Post 31 March 2025, we will be revising the associated temperature of the IPR FPS to reflect the latest developments.</h6>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>The Medium Ambition scenario, which references the IPR FPS,&nbsp;constitutes our baseline. The IPR FPS was commissioned by the&nbsp;UN-supported Principles for Responsible Investment (PRI) and&nbsp;the climate scenarios were jointly developed by a consortium of&nbsp;technical partners. It receives strong endorsement from the&nbsp;financial sector, which it was designed for.</p>
+<p>The IPR FPS represents a high conviction policy forecast scenario&nbsp;and is not a normative scenario. It possesses transparency and&nbsp;granularity with detailed policy and technological assumptions that allows for signposting. We regularly refresh our assessment of the&nbsp;baseline climate scenario to reflect latest developments. Post 31&nbsp;March 2025, we will be revising the associated temperature of the&nbsp;IPR FPS to reflect the latest developments.</p>
+<p>Given that the forecasts and climate sensitivities are subject to&nbsp;considerable uncertainty, we also model two alternative scenarios&nbsp;to simulate the range of plausible outcomes. First, the High Ambition&nbsp;Scenario simulates a net zero outcome, where the more ambitious&nbsp;goal set out in the Paris Agreement, to limit temperature increase&nbsp;to 1.5°C, is achieved. At the other end of the spectrum, the Low&nbsp;Ambition scenario simulates an outcome where climate policy&nbsp;traction is very weak such that global temperature increase rises&nbsp;above 4.0°C.</p>
+<p>In our climate scenario analysis, the two climate risk impact&nbsp;channels assessed are physical risk and transition risk.&nbsp;</p>
+<p>For physical risk, we apply a top-down approach to assess&nbsp;impact on GDP growth and inflation. This includes assessing&nbsp;acute risks such as extreme weather events and chronic risks such&nbsp;as the consequences of long-term shifts in climate patterns on&nbsp;productivity. For transition risk, we apply top-down and bottom-up&nbsp;approaches. At the country level, we assess the impact of carbon&nbsp;taxes on government revenues and take into account second-order&nbsp;impacts. This includes three-channel fiscal recycling of carbon tax&nbsp;revenues (personal tax cuts, investments, and debt reduction) and&nbsp;monetary policy response to changes in growth and inflation.</p>
+<p>Similarly, from a bottom-up perspective, on top of the demand&nbsp;creation and destruction effects that carbon taxes elicit, we consider&nbsp;second-order impacts via company responses. This includes&nbsp;abatement, cost pass-through, and competition effects. The&nbsp;incorporation of second-order impacts enhances the realism of the simulations.</p>
+<p>We recognise the trade-off between transition risks in the&nbsp;shorter term and physical risks in the longer term. While greater&nbsp;policy action may increase transition risks in the shorter term, this&nbsp;will reduce the magnitude of physical risks in the longer term. As a&nbsp;result, we adopt differing time horizons for the two categories of&nbsp;risk. For physical risks, we consider up to 2050 as short term and&nbsp;2050–2100 as long term. For transition risks, we consider a five-year&nbsp;time horizon as short term, a 10-year time horizon as medium term,&nbsp;and a 20-year time horizon as long term. However, as implied by&nbsp;the differing time frames adopted for physical and transition risks,&nbsp;we generally expect the effects of climate-related transition risks to&nbsp;occur across a shorter time horizon, over the next 20 years, and the&nbsp;effects of climate-related physical risks to occur across a&nbsp;comparatively longer time horizon, up until 2100.</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+
+
+<div class="separator-wrapper default">
+</div>    </div>
+<div class="text parbase section">
+
+
+
+<div class="text-quote"><p><i>As a generational investor, Temasek closely monitors climate-related risks and opportunities across different time horizons by incorporating climate scenario analysis in our investment process and expected returns simulations. Our financial discipline in maintaining a strong balance sheet gives us the investment flexibility to reshape and rebalance our investment holdings as we build a resilient portfolio and deliver sustainable returns over the long term</i>.</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+
+
+<div class="separator-wrapper default">
+</div>    </div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>Using the risk inputs we assess as part of our scenario analysis, we mapped out the climate risk impact channels in further detail.</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+
+
+<div class="separator-wrapper small">
+</div>    </div>
+<div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience/jcr:content/par/accordion/accordionpar/accordion_item_871563153/par/image_1834150058_cop" class="img-width-100 popup image" data-tooltip-content="null">
+
+        <a href="/content/dam/temasek-corporate/sustainability/2024/managing-sustainability-and-climate-risk-and-performance/TEM-SR~2.SVG"><a href="/content/dam/temasek-corporate/sustainability/2024/managing-sustainability-and-climate-risk-and-performance/TEM-SR~2.SVG"><img src="/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/svg/06-1-diagram-climate-risks-key-drivers-and-impact-channels.svg" alt=" " style="display: block;margin-left: auto;margin-right: auto;" title=" " class="cq-dd-image"></a></a>
+
+    </figure></div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-592699-climate-value-impact-assessment" class="accordion-item-wrapper" data-alias="climate-value-impact-assessment">
+            <a href="#climate-value-impact-assessment" class="accordion-item-link">
+                <h3 class="accordion-item-header">Climate Value Impact Assessment</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="parsys_column column_1"><div class="parsys_column column_1-c0"><div class="text parbase section">
+
+
+
+<div class="default"><p>As part of Temasek’s ongoing risk monitoring initiatives under our Organisational Risk Management&nbsp;Framework, the climate resilience of our portfolio is also assessed on an annual basis using a bottom-up&nbsp;approach, where the overall value impact contribution from individual portfolio companies is considered.&nbsp;</p>
+<p>The climate value impact assessment focuses on direct investments from our listed portfolio and our&nbsp;20 largest unlisted assets by value (hereafter referred to as “Temasek’s aggregated portfolio”). Together,&nbsp;these investments represent over 75% of our direct investments. We demonstrate the expected&nbsp;valuation impact of the IPR FPS scenario on Temasek’s aggregated portfolio. The impact is further&nbsp;broken down into channels, which indicate how transition and physical climate impacts are transmitted&nbsp;from changes in physical climate, policy, and technology to the financial performance of companies.</p>
+<p><b>Modelling Framework</b></p>
+<p>In assessing the climate resilience of Temasek’s aggregated portfolio using a bottom-up approach,&nbsp;we follow a modelling framework that starts by adopting a consistent set of climate scenarios as&nbsp;per the top-down approach, factoring in economic, energy system, and climate variables. It then&nbsp;analyses how economic shocks under different scenarios would impact the annual earnings of our&nbsp;assets, considering a time horizon of up to 2050, to project changes in asset value.</p>
+<p>The model accounts for company-specific characteristics, such as the markets in which the company&nbsp;operates, revenue segmentation, and emissions intensity. In simulating the company’s response to&nbsp;shocks, the model considers the adoption of economically optimal abatement opportunities, and&nbsp;captures the effects of competition dynamics, such as changes in market share and cost pass-through&nbsp;to consumers.</p>
+<p>The output from the model includes changes in the current value of the company under the selected&nbsp;climate scenario, disaggregated into impact channels. This supports the identification of climate risk and&nbsp;opportunity drivers at portfolio, sector, region, and company level.</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+
+
+<div class="separator-wrapper small">
+</div>    </div>
+<div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience/jcr:content/par/accordion/accordionpar/accordion_item_12777/par/image" class="img-width-100 default image" data-tooltip-content="null">
+
+<img src="/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/svg/06-1-diagram-physical-and-transition-risk-seven-impact-channels.svg" alt="06-1-diagram-physical-and-transition-risk-seven-impact-channels.svg" title="06-1-diagram-physical-and-transition-risk-seven-impact-channels.svg" class="cq-dd-image">
+
+    </figure></div>
+</div></div><div style="clear:both"></div><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Scenario Analysis Results and Insights</b></p>
+<p>The modelling outputs showing the indicative assessment of climate&nbsp;adjusted value impact are illustrated in the chart below.&nbsp;</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h4>Valuation Impact for Temasek’s Aggregated Portfolio Under IPR FPS, by Physical and Transition Impact Channels</h4>
+</div>
+
+
+</div>
+<div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience/jcr:content/par/accordion/accordionpar/accordion_item_12777/par/image_964793577_copy" class="img-width-100 default image" data-tooltip-content="null">
+
+<img src="/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/svg/06-1-chart-valuation-impact-aggregated-portfolio.svg" alt="06-1-chart-valuation-impact-aggregated-portfolio.svg" title="06-1-chart-valuation-impact-aggregated-portfolio.svg" class="cq-dd-image">
+
+    </figure></div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h5 style="text-align: right;"><b>(as at 31 March 2025)</b></h5>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>The results demonstrate that the expected overall valuation&nbsp;impact of climate change on Temasek’s aggregated portfolio,&nbsp;considering physical and transition driven economic shocks up&nbsp;to 2050, is broadly neutral under the IPR FPS scenario.&nbsp;</p>
+<p>Negative impacts to the climate adjusted value are largely&nbsp;driven by direct carbon costs imposed on our operating companies&nbsp;in transition-sensitive sectors, such as transportation and utilities.&nbsp;However, companies may be able to offset these effects by passing&nbsp;the carbon costs to customers or taking market share from more&nbsp;emission-intensive competitors, or both.</p>
+<p>It is important to note that limitations remain in climate scenario&nbsp;modelling, including potential gaps in the quality, availability,&nbsp;and scope of climate data for particular regions and sectors.&nbsp;</p>
+<p>Proxies may be employed to address such gaps, which limits the precision of analysis. Accurately modelling the impact from low-carbon&nbsp;technologies is a further challenge given inherent technological uncertainty. Additionally, the results from climate scenario analysis are&nbsp;sensitive to the baseline scenario employed.</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+
+
+<div class="separator-wrapper small">
+</div>    </div>
+<div class="text parbase section">
+
+
+
+<div class="grey-bg"><h3><b><a id="internal-carbon-price"></a>Spotlight on Temasek’s Internal Carbon Price (ICP)</b></h3>
+<p>Temasek set an initial ICP of US$42 per tCO<sub style="font-weight: normal;">2</sub><span style="font-weight: normal;">e in 2021 to embed&nbsp;the cost of carbon in our investment and operating decisions,&nbsp;and to further align our portfolio and business to our net zero&nbsp;target. This was subsequently increased to US$50 per tCO</span><sub style="font-weight: normal;">2</sub><span style="font-weight: normal;">e in&nbsp;2022 and to US$65 per tCO</span><sub style="font-weight: normal;">2</sub><span style="font-weight: normal;">e in 2024, with a view for the&nbsp;carbon price to reach US$100 per tCO</span><sub style="font-weight: normal;">2</sub><span style="font-weight: normal;">e by 2030. A review of&nbsp;the ICP is performed every two years that takes into account&nbsp;the carbon price projections by international bodies.</span></p>
+<p>Our ICP serves various purposes. It not only informs our&nbsp;transition risk analysis, thereby strengthening portfolio&nbsp;resilience, but also helps us build a forward-looking portfolio in&nbsp;alignment with the global ambition for net zero.</p>
+<p>Furthermore, our ICP has been incorporated into various internal management tools in an effort to align our institutional practices and&nbsp;encourage climate-aligned decisions and behaviour among our employees.</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><table>
+<tbody><tr><th style="background: #f7f7f7; font-size: 16px;">Objectives</th>
+<th style="background: #f7f7f7; font-size: 16px;">Related use cases</th>
+</tr><tr><td style="background: #efefef; border-left: 1.0px solid rgb(217,217,217); border-right: 1.0px solid rgb(217,217,217); border-bottom: 1.0px solid rgb(217,217,217); font-size: 16px;"><p style="font-size: 16px;"><b>Portfolio Resilience</b></p>
+<p style="font-size: 16px;">Appropriately identify and account for transition risk in investment decisions to ensure acceptable exposure at asset and portfolio level</p>
+</td>
+<td style="background: #f7f7f7; vertical-align: middle; border-bottom: 1.0px solid rgb(217,217,217); font-size: 16px;" rowspan="2"><ul>
+<li style="font-size: 16px;">Evaluation of new investments where our return requirements take into account an external carbon spread</li>
+</ul>
+</td>
+</tr><tr><td style="background: #f7f7f7; border-left: 1.0px solid rgb(217,217,217); border-bottom: 1.0px solid rgb(217,217,217); font-size: 16px;"><p style="font-size: 16px;"><b>Portfolio Alignment</b></p>
+<p style="font-size: 16px;">Increasingly align our portfolio to help meet our net carbon emissions target of half the 2010 levels by 2030 and net zero carbon emissions by 2050</p>
+</td>
+</tr><tr><td style="background: #efefef; border-left: 1.0px solid rgb(217,217,217); border-right: 1.0px solid rgb(217,217,217); font-size: 16px;"><p style="font-size: 16px;"><b>Institutional/Ecosystem Alignment</b></p>
+<p style="font-size: 16px;">Encourage behaviours and outcomes across the organisation that lead to progressive emissions reductions</p>
+</td>
+<td style="background: #efefef; font-size: 16px;"><ul>
+<li style="font-size: 16px;">Carbon charge taken against Wealth Added incentive pool</li>
+<li style="font-size: 16px;">Carbon charge taken against business travel operating budget</li>
+</ul>
+</td>
+</tr></tbody></table>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+
+
+<div class="separator-wrapper small">
+</div>    </div>
+<div class="separator parbase section">
+
+
+
+
+<div class="separator-wrapper small">
+</div>    </div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-592699-impact-on-expected-returns" class="accordion-item-wrapper" data-alias="impact-on-expected-returns">
+            <a href="#impact-on-expected-returns" class="accordion-item-link">
+                <h3 class="accordion-item-header">Impact on Expected Returns</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>Our Central Scenario incorporates the Medium Ambition Climate&nbsp;Change Scenario and offers higher 20-year expected returns for the&nbsp;Temasek Portfolio compared to the Low Ambition Climate Change&nbsp;Scenario, but lower 20-year expected returns compared to the High&nbsp;Ambition Climate Change Scenario, where there is concerted effort&nbsp;and strong actions to mitigate climate change and carbon emissions&nbsp;for a more liveable world. These results reaffirm our belief in the&nbsp;importance of looking beyond portfolio decarbonisation and working&nbsp;to drive real economy carbon reduction through collaboration on&nbsp;climate action with our portfolio companies and our wider ecosystem.</p>
+<p>It is important to recognise that whilst T-GEM simulates a range of&nbsp;possible returns for our portfolio over a 20-year period, these should&nbsp;not be viewed as predictions of actual outcomes. Rather, the climate&nbsp;assumptions incorporated into T-GEM assist us in understanding the&nbsp;potential implications of different climate scenarios and importance of&nbsp;building a resilient portfolio. There are several significant areas of&nbsp;uncertainty that we consider in assessing the overall resilience of&nbsp;our strategy to the climate-related risks identified and the potential&nbsp;impact on expected returns. This includes the complex nature of&nbsp;climate scenario analysis, which requires assumptions to be made&nbsp;on the inputs used, as well as continuous updates as data becomes&nbsp;more robust.</p>
+<p>In addition, the extended time horizon of scenario analysis&nbsp;increases uncertainty regarding the assumptions relied upon.&nbsp;Our assessment also depends on and makes assumptions&nbsp;around the response of companies to conditions or circumstances&nbsp;of the climate scenarios considered. Combined, these significant&nbsp;uncertainties increase the degree of judgement necessary to assess&nbsp;our climate resilience.</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h4>Likelihood of Geometric Returns (Compounded Annualised) at the End of 20-year Period, by Potential Scenario</h4>
+</div>
+
+
+</div>
+<div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience/jcr:content/par/accordion/accordionpar/accordion_item_1277724836/par/image_964793577_copy" class="img-width-100 default image" data-tooltip-content="null">
+
+<img src="/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/svg/06-1-chart-likelihood-of-geometric-returns-by-potential-scenario.svg" alt="06-1-chart-likelihood-of-geometric-returns-by-potential-scenario.svg" title="06-1-chart-likelihood-of-geometric-returns-by-potential-scenario.svg" class="cq-dd-image">
+
+    </figure></div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-592699-nature-related-risk" class="accordion-item-wrapper" data-alias="nature-related-risk">
+            <a href="#nature-related-risk" class="accordion-item-link">
+                <h3 class="accordion-item-header">Nature-Related Risk​</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="parsys_column column_1"><div class="parsys_column column_1-c0"><div class="text parbase section">
+
+
+
+<div class="default"><p>We conducted a heatmap assessment to understand the potential exposure of our investments to sectors with financially material impacts and dependencies. This sector-level analysis enables us to understand our exposure to natural capital risks by identifying the highest exposures to key drivers of biodiversity loss and dependencies on ecosystem services. </p>
+<p>The analysis also enables us to identify priority nature-related topics. Loss or degradation of natural capital may expose our portfolio companies to potential physical and transition-related risks, disrupt business processes, and lead to financial losses. We are focused on the topics of biodiversity, water, other natural resource use, waste, and pollution as the key areas of nature engagement with our portfolio companies. </p>
+<p>The heatmap assessment provides a top-down industry view and serves as a first step in understanding our exposure to nature risk. We are advancing our efforts to further this capability, leveraging physical asset location data, assessing how individual portfolio companies impact and depend on nature, the actions they are taking to mitigate their risks, and expanding the analysis into their value chains.</p>
+</div>
+
+
+</div>
+</div></div><div style="clear:both"></div>
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+
+</div>
+
+    </div>
+
+    <script src="/etc.clientlibs/temasek-commons/components/functional/accordion/clientlibs.min.js"></script>
+
+</div>
+
+</div>
+
+	
+		
+
+<button class="sticky-button">
+    <a href="/content/dam/temasek-corporate/sustainability/2025/Temasek-Sustainability-Report-2025.pdf" target="_blank" rel="noopener noreferrer">
+        <span class="button-icon"></span><span class="text"> DOWNLOAD REPORT</span>
+    </a>
+</button>
+
+	
+	
+<div class="back-to-top-wrapper">
+    <div class="back-to-top">
+        <div class="inner">Top</div>
+    </div>
+</div>
+
+</div>
+
+
+<div class="related-content">
+<div class="relatedpar parsys"><div class="text parbase section">
+
+
+
+<div class="default"><h3>Related Content</h3>
+</div>
+
+
+</div>
+<div class="parsys_column column_2"><div class="parsys_column column_2-c0"><div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">
+            <div class="teaser-image-wrapper">
+<img src="/content/dam/temasek-corporate/sustainability/2025/06-managing-sustainability-and-climate-risk-and-performance/related-content-620x280/related-06-2-portfolio-metrics-and-targets-620x280.png" alt="Portfolio Metrics and Targets - related content thumbnail" title="Portfolio Metrics and Targets - related content thumbnail" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">Portfolio Metrics and Targets</h2>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+</div><div class="parsys_column column_2-c1"><div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="/en/sustainability/sustainability-in-our-operations">
+            <div class="teaser-image-wrapper">
+<img src="/content/dam/temasek-corporate/sustainability/2025/07-sustainability-in-our-operations/related-content-620x280/related-07-susti-in-our-operations-620x280.png" alt="Sustainability in Our Operations - related content thumbnail" title="Sustainability in Our Operations - related content thumbnail" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">Sustainability in Our Operations</h2>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+</div></div><div style="clear:both"></div>
+</div>
+
+</div>
+
+
+
+<footer>
+    <div id="footer-icons">
+        <div class="dynamic-logo-footer dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="/en/index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="/en/index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+        <a id="footer-sitemap-button" href="/en/site-services/sitemap">
+            Site Map
+        </a>
+    </div>
+    
+    <div id="footer-highlights">
+<div class="footer-links-1 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="/en/about-us">About Us</a></h3>
+        <ul>
+            <li><a href="/en/about-us/temasek-at-a-glance">Temasek at a Glance</a></li>
+            <li><a href="/en/about-us/our-leadership">Our Leadership</a></li>
+            <li><a href="/en/about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a></li>
+            <li><a href="/en/our-community">Our Community</a></li>
+            <li><a href="/en/about-us/careers">Careers</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-2 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="/en/our-investments">Our Investments</a></h3>
+        <ul>
+            <li><a href="/en/our-investments/investment-approach">Investment Approach​</a></li>
+            <li><a href="/en/our-investments/our-portfolio">Our Portfolio</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-3 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="/en/our-financials">Our Financials</a></h3>
+        <ul>
+            <li><a href="/en/our-financials/portfolio-performance">Portfolio Performance</a></li>
+            <li><a href="/en/our-financials/credit-profile">Credit Profile</a></li>
+            <li><a href="/en/our-financials/library/temasek-review">Temasek Review</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-4 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="/en/sustainability">Sustainability</a></h3>
+        <ul>
+            <li><a href="/en/sustainability/sustainability-at-the-core">Sustainability at the Core</a></li>
+            <li><a href="/en/sustainability/key-highlights">Key Highlights</a></li>
+            <li><a href="/en/sustainability/sustainability-strategy">Sustainability Strategy </a></li>
+            <li><a href="/en/sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a></li>
+            <li><a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a></li>
+            <li><a href="/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-5 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3>Stay Informed</h3>
+        <ul>
+            <li><a href="/en/news-and-resources">News &amp; Resources</a></li>
+            <li><a href="/en/contact-us">Contact Us</a></li>
+            <li><a href="#news-insights-overlay">Subscribe to our Newsletter</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-social">
+<div class="social-links-footer social-links">
+    <div class="social-links social-links-default">
+    <nav class="social-links">
+        <a class="social-links-facebook" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_FB.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.facebook.com/temasekholdings"></a>
+
+
+        <a class="social-links-instagram" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://instagram.com/temasekseen/"></a>
+
+
+        <a class="social-links-linkedin" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_LinkedIn.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://sg.linkedin.com/company/temasek-holdings"></a>
+
+
+        <a class="social-links-telegram" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Telegram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://t.me/temasekholdings"></a>
+
+
+        <a class="social-links-tiktok" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+
+
+        <a class="social-links-wechat" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="#"></a>
+
+        <div class="wechat-code">
+            <img src="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>
+            <p class="instructions">WeChat ID: temasek_digital</p>
+            <button></button>
+        </div>
+
+
+        <a class="social-links-whatsapp" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Whatsapp.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p"></a>
+
+
+        <a class="social-links-twitter" target="_blank" style="background-size: 100%; background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_X.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://x.com/Temasek"></a>
+
+
+        <a class="social-links-youtube" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.youtube.com/user/TemasekDigital"></a>
+
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-details">
+<div class="footer-links-system footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <ul>
+            <li><a href="/en/site-services/terms">Terms Of Use</a></li>
+            <li><a href="/en/site-services/accessibility">Accessibility</a></li>
+            <li><a href="/en/site-services/cookies">Privacy &amp; Cookies Notice</a></li>
+            <li><a href="/en/about-us/faqs">FAQs</a></li>
+            <li><a href="/en/site-services/nictemasek">.Temasek</a></li>
+            <li><a href="https://vdp.temasek.com.sg/p/Policy">Report a Vulnerability</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+        <div class="copyright">
+             <div class="copyright fixed-copyright">
+    <div class="fixed-copyright fixed-copyright-default">
+
+
+
+</div>
+
+</div>
+
+             
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+<div class="news-insights-overly">
+        <div class="news-insights-wrapper">
+            <button class="close"></button>
+            <div class="news-insights-wrapper--content">
+                <form action="https://temasek.us13.list-manage.com/subscribe/post?u=c6e8202786088f7032c129736&amp;amp;id=c091adf093" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                    <div class="news-insights-wrapper--form-row news-insights-wrapper--header">
+                        <div class="circle-blend-mode one"></div>
+                        <div class="circle-blend-mode one purple-mask"></div>
+                        <h2>Subscribe to our newsletter</h2>
+                        
+                            <p>Stay up to date with our latest news, insights and stories </p>
+                        
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-FULLNAME" name="FULLNAME" type="text" placeholder="Your name" />
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-EMAIL" name="EMAIL" type="text" placeholder="Your email address" />
+                    </div>
+
+                    <div class="news-insights-wrapper--form-row">
+                        <label>Which type(s) of content are you interested in?</label>
+                        <div class="news-insights-wrapper--dropdown">
+                            Select a type of content
+                        </div>
+                        <ul id="interestedList" class="news-insights-wrapper--check-box-list">
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-1" name="group[17329][2]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-1">50th Anniversary</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-2" name="group[17329][4]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-2">Values & People</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-3" name="group[17329][8]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-3">Community</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-4" name="group[17329][16]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-4">Future & Trends</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-5" name="group[17329][32]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-5">Sustainability </label>
+                                    </li>
+                            
+                        </ul>
+                        <ul class="selected-list"></ul>
+                    </div>
+                    <div class="news-insights-wrapper--form-row consent-field">
+                        <span><input id="consent" name="consent" type="checkbox" /></span>
+                        <label for="consent">
+                            
+                                <p>By checking this box, I agree to the <a href="/en/site-services/cookies" target="_blank">privacy terms</a> on the website.</p>
+
+                            
+                        </label>
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <div class="g-recaptcha" data-sitekey="6LeBlDoUAAAAAHZs9IEvYhZLBK-TrLHmmAGH2A_v"></div>
+                    </div>
+                    <div id="errorInterestedMsg" class="error-msg">
+                        Please select Stories you are interested in.
+                    </div>
+                    <div id="errorConsentMsg" class="error-msg">
+                        Please give us your consent.
+                    </div>
+                    <div id="errorCaptchaMsg" class="error-msg">
+                        Please confirm that you are not a robot.
+                    </div>
+                    <div class="news-insights-wrapper--button">
+                        <button type="submit">SUBSCRIBE</button>
+                    </div>
+                </form>
+            </div>
+            <div class="news-insights-wrapper--background">
+                <!-- <div class="circle one"></div> -->
+                <div class="circle two"></div>
+                <div class="circle three"></div>
+                <div class="circle four"></div>
+                <div class="circle-with-border one"></div>
+                <div class="circle-with-border two"></div>
+            </div>
+        </div>
+    </div>        
+        <div class="measurement"> </div>
+    </div>
+
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1754896371409820&amp;ev=PageView&amp;noscript=1"/></noscript>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif"/></noscript>
+</body>
+</html>

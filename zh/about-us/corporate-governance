@@ -1,0 +1,1995 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="我们的治理架构强调实质重于形式，长期利益胜于短期利益，并把机构置于个人之上。" />
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="msapplication-square150x150logo" content="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/mstile-150x150.png">
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="apple-mobile-web-app-title" content="Temasek Corporate">
+    <meta name="application-name" content="Temasek Corporate">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/android-chrome-192x192.png">
+    <link rel="mask-icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/blacksunplc.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/is.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/imagesloaded.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/timeago.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.js"></script>
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.js"></script>
+
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/datepicker.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
+<link rel="stylesheet" href="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
+    <title>公司治理 - Temasek</title>
+
+    <meta property="og:title" content="公司治理" />
+    <meta property="og:site_name" content="Temasek Corporate Website 中文" />
+    <meta property="og:url" content="https://localhost:8087/zh/about-us/corporate-governance" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="我们的治理架构强调实质重于形式，长期利益胜于短期利益，并把机构置于个人之上。" />
+    <meta property="og:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Our%20Investments.jpg.downloadasset.jpg" />
+     <meta property="og:locale" content="zh" />
+
+    <meta name="twitter:title" content="公司治理" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@testing_16nov" />
+    <meta name="twitter:url" content="https://localhost:8087/zh/about-us/corporate-governance" />
+    <meta name="twitter:description" content="我们的治理架构强调实质重于形式，长期利益胜于短期利益，并把机构置于个人之上。" />
+    <meta name="twitter:creator" content="@testing_16nov" />
+    <meta name="twitter:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Our%20Investments.jpg.downloadasset.jpg" />
+
+    <meta property="fb:app_id" content="1086722744796138" />
+
+
+             <script type="text/javascript" id="lightning_bolt" src="https://cdn-akamai.mookie1.com/LB/LightningBolt.js"></script>
+
+             <script type="text/javascript" src="https://script.crazyegg.com/pages/scripts/0085/0358.js" async="async"></script>
+
+             <script type="text/javascript"> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWJ89FF');  </script>
+
+             <script type="text/javascript" src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.js"></script>
+
+
+
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="f7wcvaaxgjlkw2ejytcq-f-b05f2ee0f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"365029","ak.ai":parseInt("246172",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c903637d","ak.r":44715,"ak.a2":e,"ak.m":"ksd","ak.n":"essl","ak.bpcip":"47.236.42.0","ak.cport":59698,"ak.gh":"23.44.214.6","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1753859269","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==SEJKWX0VIujOKwilfXCjh/mBne2ZwA8C11f3IidqmMyyT+5AgsU+ejP7n17UMM4VDHNkBsVsKd3IygPcoRlKJhHSnDLsekj8f6kaENMNdhfpnjm9LQBLFwJr7rA+UQsRwivFlM0zqUGeVK6OGjeTohCb6B0+XDT22KlYrjTtgGJP5sNmghfPIrCPwONYBUg0MyKWaaldGeksNNWwqb4jmv9xokidkIPCY3/IgXCGx9UoAYVyDWv+fbF6Uw1HRj/9M1PIlObrhGxLbhd9elo9IJ5Nc8Ipf6LkEyMprzo2KlFn4o+oEo9rs1l3u5s/95yu50Xlc16cXowX9OXIELsnSTZVY6dWH0c6Si7yt0eij7dzmke6tK2j1ZRNM+D86o+z9wb9/X8qRp+CEyAsa84Awl5YAP4fckSQZr3AHZRY2ro=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+
+<body class="content-zh-page about-us corporate-governance zh  " data-language-name="zh">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWJ89FF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="cookiewarning">
+
+<div id="cookie-control-ui" class="hidden"
+    data-cookieconsentstorageid="temasek-corporate-zh-cookieConsentStorageID">
+
+    <div class="cookie-outer-wrapper">
+        <div class="cookie-inner-wrapper">
+            
+            <div class="cookie-content">
+                <div class="cookie-body">
+                    
+                    
+                        <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。浏览我们的<a href="https://www.temasekreview.com.sg/zh/privacy.html">隐私声明</a>，了解更多信息。</p>
+
+                    
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn-accept">同意</button>
+                    <button class="btn-decline"> 拒绝</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/cookiewarning/clientlibs.min.js"></script>
+
+</div>
+
+
+
+    <div class="page">
+
+
+
+    <header class="fixed-header">
+
+
+
+        <div class="top">
+            <div class="logo-wrapper">
+<div class="dynamic-logo-header dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+            </div>
+
+            <div class="topmenu-wrapper">
+                <div class="link-1 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+</div>
+
+</div>
+
+                <div class="link-t50 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+</div>
+
+</div>
+
+                <div class="link-2 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="https://www.temasekreview.com.sg/zh/" class='temasek-review'>
+        淡马锡年度报告
+        <img src="corporate-governance" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-3 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="../contact-us" class='link-contact-us'>
+        联络我们
+        <img src="corporate-governance" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="search-button"></div>
+                <div class="language-switch parbase">
+    <ul class="language-switch-links">
+
+        <li>
+            <a href="https://localhost:8087/en/about-us/corporate-governance" rel="alternative" hreflang="en">
+                En
+            </a>
+        </li>
+        <li class="selected">
+            <a href="corporate-governance" rel="canonical">
+                中文
+            </a>
+        </li>
+    </ul>
+
+    <div class="cookie-enable">
+        <button class="cookie-enable-open"></button>
+        <div class="cookie-enable-content hidden">
+            <button class="cookie-enable-close"></button>
+            <div class="cookie-enable-body">
+                <div class="cookie-on">
+                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a></a><a href="corporate-governance#">开启cookies</a><a href="../site-services/cookies" target="_blank"></a></p>
+<p><a></a>浏览我们的<a href="https://www.temasekreview.com.sg/zh/privacy.html">隐私声明</a>，了解更多信息。</p>
+
+                </div>
+
+                <div class="cookie-off hidden">
+                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a href="corporate-governance#">关闭</a><a>cookies</a></p>
+<p><a></a>浏览我们的<a href="../site-services/cookies" target="_blank">隐私声明</a>，了解更多信息。</p>
+<p> </p>
+
+                </div>
+            </div>
+        </div>
+    </div></div>
+
+            </div>
+        </div>
+
+        <div class="bottom">
+
+            <!-- <div class="search-button"></div> -->
+
+<div class="mega-menu">
+    <div class="mega-menu mega-menu-default">
+    <nav class="mega-menu-navigation">
+        <ul class="mega-menu-navigation-list">
+            <li><a class="mega-menu-navigation-link about-us active has-menu-item" href="../about-us" data-section="mega-menu-about-us">关于淡马锡</a></li>
+            <li><a class="mega-menu-navigation-link our-financials  has-menu-item" href="../our-financials" data-section="mega-menu-our-financials">我们的财务状况</a></li>
+            <li><a class="mega-menu-navigation-link our-investments  has-menu-item" href="../our-investments" data-section="mega-menu-our-investments">我们的投资</a></li>
+            <li><a class="mega-menu-navigation-link sustainability  has-menu-item" href="../sustainability" data-section="mega-menu-sustainability">可持续发展</a></li>
+            <li><a class="mega-menu-navigation-link our-community  has-menu-item" href="../our-community" data-section="mega-menu-our-community">对社群的承诺</a></li>
+            <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item" href="https://localhost:8087/zh/news-and-resources" data-section="mega-menu-news-and-resources">新闻与资料</a></li>
+        </ul>
+    </nav>
+    <div class="mega-menu-items-wrapper" style="display:none">
+        <div id="mega-menu-about-us" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item33 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>关于淡马锡</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>创造长期可持续回报的国际投资公司</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="temasek-at-a-glance">淡马锡概览</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-purpose-charter-values">我们的使命、宪章和价值观</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-t2030-strategy">淡马锡2030战略 </a>
+                    </li>
+                    <li>
+                        <a class="" href="our-board">董事会</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-leadership">领导团队</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-global-advisory-network">淡马锡全球顾问网络</a>
+                    </li>
+                    <li>
+                        <a class="" href="corporate-governance">公司治理</a>
+                    </li>
+                    <li>
+                        <a class="" href="managing-risks">管理风险</a>
+                    </li>
+                    <li>
+                        <a class="" href="history-of-temasek">淡马锡的历史</a>
+                    </li>
+                    <li>
+                        <a class="" href="careers">职业机会</a>
+                    </li>
+                    <li>
+                        <a class="" href="faqs">常见问题</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-financials" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item28 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>我们的财务状况</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>构建自律的机构</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../our-financials/ins-outs-temasek">淡马锡的收支</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/portfolio-performance">投资组合表现</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/wealth-added">财富增值</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/group-financials">集团财务</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/group-financials/adopting-international-accounting-standards">采用国际会计准则</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-financial-summary">集团财务概要</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/statement-by-auditors">审计师声明</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/statement-by-directors">董事声明</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-income-statements">集团损益表</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-balance-sheets">集团资产负债表</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-cash-flow-statements">集团现金流量表</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/-group-statements-of-changes-in-equity"> 集团股东权益变动表</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/cost-discipline">成本自律</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/credit-profile">信用概览</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/temasek-bonds">淡马锡债券概览</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/temasek-bonds/considerations-before-investing-in-bonds">投资债券前的考量</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/temasek-bonds/overview-of-temasek-bonds">淡马锡债券概览</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/temasek-bonds/temasek-financial-i-bonds">淡马锡金融(I)债券</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/temasek-bonds/temasek-financial-iv-bonds">淡马锡金融(IV)债券</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/euro-commercial-paper">欧元商业票据项目</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/library">投资者资料库</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/library/temasek-review">淡马锡年度报告</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/library/credit-rating-reports">信贷评级报告</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-investments" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item31 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>我们的投资</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>放眼未来的投资</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../our-investments/investment-approach">投资理念和策略</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-investments/20-year-returns-outlook">20年期投资组合回报展望</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-investments/our-portfolio">我们的投资组合</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-sustainability" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item30 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>可持续发展</h2>
+            <div class="menuitempar-left parsys"><div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/zh/index/jcr:content/mega-menu/mega-menu/mega_menu_item30/menuitempar-left/image_copy" class="img-width-100 default image" data-tooltip-content="null">
+
+        <a href="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/Temasek-Sustainability-Report-2025.pdf"><a href="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/Temasek-Sustainability-Report-2025.pdf"><img src="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/ZH-darker-sus-download-thumbnail-900x600.png" alt=" " title=" " class="cq-dd-image"></a></a>
+
+    </figure></div>
+
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p><a href="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/Temasek-Sustainability-Report-2025.pdf">2025可持续发展报告（英文版)</a></p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../sustainability/key-highlights">主要进展</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/sustainability/sustainability-at-the-core">以可持续发展为核心理念</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-community" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item5 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>对社群的承诺</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>建设社群，帮扶生命</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/our-community/our-approach">我们的回馈方式</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/our-community/knowledge-centres">知识中心</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/our-community/staff-volunteers">员工义工</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/zh/our-community/temasek-foundations">淡马锡基金会</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-news-and-resources" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item32 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>新闻与资料</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>了解最新动态</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/news-and-resources/news-room">新闻消息</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/zh/news-and-resources/scam-alerts">诈骗警示通知</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/news-and-resources/resources">资料</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+    </div></div>
+
+    <script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mega-menu/clientlibs.min.js"></script>
+
+</div>
+
+
+            <div class="search-row">
+                <div class="searchfield">
+                    <div class="search-field-outer">
+<div class="search-field">
+    <div class="search-field search-field-default">
+    <div class="search-field-wrapper">
+        <form action="https://localhost:8087/zh/site-services/search-results" class="search-field-form" data-style="/etc/designs/temasek-corporate/jcr:content/content-page/search-field/search-field" data-pagepath="/content/temasek-corporate/zh/about-us/corporate-governance">
+            <input autocomplete="off" class="search-field-input" name="q" id="q" type="text" placeholder="搜索" />
+            <input class="search-field-button" type="submit" />
+        </form>
+    </div></div>
+
+</div>
+
+                    </div>
+                </div>
+                <div class="close-search-row"><span>Close</span></div>
+            </div>
+
+<div class="mobile-menu">
+
+
+
+
+<div class="mobilemenu-trigger">
+    <span></span>
+</div>
+<div class="mobilemenu-wrapper" data-backlabel="返回">
+    <div class="mobilemenu menu">
+        <ul class="dl-menu">
+            
+
+
+        <li>
+            <a href="../index.html">首页</a>
+
+        </li>
+
+        <li class="opened">
+            <a href="../about-us">关于淡马锡</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="temasek-at-a-glance">淡马锡概览</a>
+
+        </li>
+
+        <li>
+            <a href="our-purpose-charter-values">我们的使命、宪章和价值观</a>
+
+        </li>
+
+        <li>
+            <a href="our-t2030-strategy">淡马锡2030战略 </a>
+
+        </li>
+
+        <li>
+            <a href="our-board">董事会</a>
+
+        </li>
+
+        <li>
+            <a href="our-leadership">领导团队</a>
+
+        </li>
+
+        <li>
+            <a href="our-global-advisory-network">淡马锡全球顾问网络</a>
+
+        </li>
+
+        <li class="current">
+            <a href="corporate-governance">公司治理</a>
+
+        </li>
+
+        <li>
+            <a href="managing-risks">管理风险</a>
+
+        </li>
+
+        <li>
+            <a href="history-of-temasek">淡马锡的历史</a>
+
+        </li>
+
+        <li>
+            <a href="careers">职业机会</a>
+
+        </li>
+
+        <li>
+            <a href="faqs">常见问题</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials">我们的财务状况</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../our-financials/ins-outs-temasek">淡马锡的收支</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/portfolio-performance">投资组合表现</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/wealth-added">财富增值</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials">集团财务</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/group-financials/adopting-international-accounting-standards">采用国际会计准则</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-financial-summary">集团财务概要</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/statement-by-auditors">审计师声明</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/statement-by-directors">董事声明</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-income-statements">集团损益表</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-balance-sheets">集团资产负债表</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-cash-flow-statements">集团现金流量表</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/-group-statements-of-changes-in-equity"> 集团股东权益变动表</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/cost-discipline">成本自律</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/credit-profile">信用概览</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds">淡马锡债券概览</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/temasek-bonds/considerations-before-investing-in-bonds">投资债券前的考量</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/overview-of-temasek-bonds">淡马锡债券概览</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-i-bonds">淡马锡金融(I)债券</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-iv-bonds">淡马锡金融(IV)债券</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/euro-commercial-paper">欧元商业票据项目</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/library">投资者资料库</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/library/temasek-review">淡马锡年度报告</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/library/credit-rating-reports">信贷评级报告</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-investments">我们的投资</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../our-investments/investment-approach">投资理念和策略</a>
+
+        </li>
+
+        <li>
+            <a href="../our-investments/20-year-returns-outlook">20年期投资组合回报展望</a>
+
+        </li>
+
+        <li>
+            <a href="../our-investments/our-portfolio">我们的投资组合</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability">可持续发展</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../sustainability/key-highlights">主要进展</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/sustainability/sustainability-at-the-core">以可持续发展为核心理念</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-community">对社群的承诺</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/our-approach">我们的回馈方式</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/knowledge-centres">知识中心</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/staff-volunteers">员工义工</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/temasek-foundations">淡马锡基金会</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources">新闻与资料</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources/news-room">新闻消息</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources/scam-alerts">诈骗警示通知</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources/resources">资料</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+        </ul>
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mobile-menu/clientlibs.min.js"></script>
+</div>
+
+
+        </div>
+    </header>
+
+
+<div class="sectionbanner image-video-banner">
+
+
+<div class='image-video-banner-wrapper ' data-mobile-image-path="/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png"
+       data-desktop-image-path="/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png"
+    
+            style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png');"
+    >
+
+    <div class="banner-content-wrapper">
+
+        
+
+        <div class="image-video-banner-wrapper-detail">
+            <p class="image-video-banner-title">公司治理</p>
+        
+        
+        </div>
+    </div>
+    
+</div>
+
+
+
+</div>
+
+<div class="breadcrumbs parbase">
+
+<div class="footer-links breadcrumbs-default">
+    <nav class="breadcrumbs">
+        <a href="../index.html">首页</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <a href="../about-us">关于淡马锡</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <span class="breadbrumbs-current">公司治理</span>
+    </nav>
+</div>
+</div>
+
+
+<div class="main-wrapper">
+	<div class="share share-left sharelink">
+		<div class="socialshare">
+
+<div class="socialshare-content">
+   <div class="share-links-menu">
+      <ul class="socialshare-list share-links">
+      
+         <li class="socialshare-item__linkedin linkedin"><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://localhost:8087/zh/about-us/corporate-governance" aria-label="Share this page on LinkedIn" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__facebook facebook"><a href="http://www.facebook.com/sharer.php?u=https://localhost:8087/zh/about-us/corporate-governance" aria-label="Share this page on Facebook" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__twitter twitter"><a href="https://twitter.com/intent/tweet?url=https://localhost:8087/zh/about-us/corporate-governance" aria-label="Share this page on Twitter" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__email email"><a href="mailto:?subject=公司治理&body=https://localhost:8087/zh/about-us/corporate-governance" aria-label="Share this page on Email" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__whatsapp whatsapp"><a href="https://wa.me/?text=https://localhost:8087/zh/about-us/corporate-governance" aria-label="Share this page on Whatsapp" target="_blank"><i></i></a></li>
+      
+      </ul>
+   </div>
+ </div>
+
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/includes/socialshare/clientlibs.min.js"></script>
+
+</div>
+
+		<div class="share-inner">
+			<a class="tool-share"></a>
+			<div class="share-links-menu">
+				<div class="addthis_inline_share_toolbox"
+					data-title="公司治理"
+					data-url="https://localhost:8087/zh/about-us/corporate-governance.html"
+					
+					
+						data-description="我们的治理架构强调实质重于形式，长期利益胜于短期利益，并把机构置于个人之上。"
+					
+
+					
+						data-media="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Our%20Investments.jpg.downloadasset.jpg"
+					
+					>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="title"><h1>公司治理</h1>
+</div>
+
+	<div class="par parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>我们以“延延世代，欣欣向荣”的<a href="our-purpose-charter-values#our-purpose">使命</a>和<a href="our-purpose-charter-values#charter">淡马锡宪章</a>为指导，明确我们承担的角色，阐明我们所信、所行的原因和努力的意义。</p>
+<p>根据<a href="https://sso.agc.gov.sg/Act/CoA1967">《新加坡公司法》</a>，<span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;淡马锡控股(私人)有限公司。&quot;}">淡马锡</span>于1974年6月25日成立，由<span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;依据1959年《新加坡财政部长(成立)法》，财政部长为法人团体。&quot;}">新加坡财政部长</span>全资拥有。</p>
+<p>按照<a href="https://sso.agc.gov.sg/Act/CONS1963">《新加坡宪法》</a>规定，淡马锡作为<span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;《新加坡宪法》第五附表所列的法定机构及政府公司包括：新加坡政府投资公司(负责管理新加坡政府的储备金)、中央公积金局、新加坡金融管理局、建屋发展局和裕廊镇管理局。&quot;}">第五附表机构</span>之一，有宪法责任保护淡马锡<span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;每一届政府就任日的前一天，淡马锡的总储备金(包括换届之际的过去所积累的储备金和当期储备金)就被锁定为过去所累积的储备金。每次大选后政府换届时，这样的周期就会重复。\n&quot;}">过去所累积的储备金</span>。淡马锡储备金是<span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;国家的储备金包括1) 新加坡政府储备金；2) 淡马锡储备金；和3) 其他《新加坡宪法》第五附表机构的储备金。&quot;}">国家储备金</span>的组成部分。</p>
+<p>淡马锡是资产的所有者——不是基金管理者。淡马锡不管理新加坡的公积金储蓄、新加坡政府的资产和新加坡的外汇储备。淡马锡也不管理任何其他第五附表机构的资产，它们由宪法第五附表各相关机构独立管理。</p>
+<p>淡马锡并非由国家指导。除非关系到保护淡马锡过去所累积的储备金，不论是<span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;依据《新加坡宪法》，新加坡总统具有独立的监护角色，以保障新加坡政府和《新加坡宪法》第五附表机构(包括淡马锡)各自过去所累积的储备金。\n&quot;}">新加坡总统</span>或新加坡政府，均不参与或指导淡马锡的投资战略、投资决策或其他商业决策。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h3><b>与新加坡总统的关系</b></h3>
+<p>在《新加坡宪法》规定下，我们的董事长、首席执行长和每名董事会成员有责任保护淡马锡过去所累积的储备金。</p>
+<p>在出现淡马锡总储备金低于过去所累积的储备金的情况之前，我们的董事会和首席执行长有责任征得总统的批准。如果淡马锡总储备金等于或高于过去所累积的储备金，就意味着过去所累积的储备金得到了保护。任何现有投资按市值计算下跌，不会导致总储备金低于过去所累积的储备金。我们有责任确保每项脱售均基于<span style="border-bottom: 1.0px dotted;color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;市场公允价值是指买卖双方在公平交易和自愿情况下所达成一致的价格。&quot;}">市场公允价值</span>。基于市场公允价值进行脱售所带来的变现亏损，不会导致总储备金低于过去所累积的储备金。</p>
+</div>
+
+
+</div>
+<div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/zh/about-us/corporate-governance/jcr:content/par/image_copy" class="img-width-100 default image" data-tooltip-content="null">
+
+<img src="https://localhost:8087/content/dam/temasek-corporate/about-us/corporate-governance/TRM24_Protection_of_Temaseks_past_reserves_zh.svg" alt=" " title=" " class="cq-dd-image">
+
+    </figure></div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>每年，淡马锡董事会和高级管理层向总统和总统顾问理事会汇报淡马锡的业绩表现和投资战略。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h3><b>与股东的关系</b><br />
+</h3>
+<p>我们的股东通过评估淡马锡的长期回报来要求<a href="https://www.temasekreview.com.sg/zh/institution.html#board">董事会</a>对淡马锡整体业绩负责。董事会授权淡马锡的<a href="https://www.temasekreview.com.sg/zh/institution.html#senior-management">高级管理层</a>负责淡马锡的日常管理。</p>
+<p><a href="https://www.temasekreview.com.sg/zh/institution.html#ldcc">董事会下设的领袖培育与薪酬委员会</a>负责建议董事会及管理层的领袖发展计划。我们的股东可在《新加坡公司法》下行使对淡马锡董事会成员任免或续任的权力，这项行使权必须得到<span style="border-bottom: 1.0px dotted;color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;新加坡总统无须按内阁建议而独立决定是否同意。&quot;}">总统的同意</span>。董事会对首席执行长的任免也必须获得总统的同意。作为“第二把钥匙”理念的一部分，这些约束确保淡马锡董事会成员和首席执行长的诚信，以保护我们过去所累积的储备金。</p>
+<p>淡马锡每年依据股息政策派发股息。董事会制定股息政策，我们的利润一部分以股息的形式可持续地派发给股东，另一部分留存用于再投资以获取未来回报，在这两者之间取得平衡。股息政策也会兼顾我们保护淡马锡过去所累积的储备金的宪法责任。董事会建议派发股息金额，并在年度股东大会上提交以待股东接纳。</p>
+<p>在国家储备净投资回报框架下，新加坡政府获准使用新加坡政府投资公司、新加坡金融管理局以及淡马锡的预期长期实际回报，比例最高不超过50%。这一框架不会影响或改变淡马锡保护我们过去所累积的储备金的责任、股息政策、作为长期投资者的战略和运营。</p>
+<p>每年，淡马锡董事会和高级管理层都会与财政部长及财政部官员会面，审视淡马锡的业绩表现和投资战略。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h3><b>我们的内部治理方针</b></h3>
+<p>根据《新加坡公司法》，<span style="border-bottom: 1.0px dotted;color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot; 淡马锡控股(私人)有限公司。&quot;}">淡马锡</span>是享有豁免权的<span style="border-bottom: 1.0px dotted;color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;根据1967年《新加坡公司法》，享有豁免权的私人公司的定义之一是拥有至多20名股东且其股权不得由任何公司持有的私人公司。具有偿付能力的豁免私人公司无需向新加坡会计与企业管理局申报其财务报表。财务部长不属于此法案下定义的“公司”，因此淡马锡属于享有豁免权的私人公司。&quot;}">私人公司</span>，无需向公众披露任何财务信息。尽管如此，自2004年起，我们选择在<a href="https://www.temasekreview.com.sg/zh/">《淡马锡年度报告》</a>中发布投资组合业绩，以及在债券发售通告中披露集团的合并财务信息。作为商业投资公司，我们的年度法定财务报表由大型国际审计事务所审计。</p>
+<p>我们遵守新加坡法律与法规所约束的所有义务，同时遵守投资或运营所在地的法律与法规。</p>
+<p>董事会对淡马锡有受信责任，全权并灵活地指导投资组合公司的管理事务。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h3><b>淡马锡董事会</b></h3>
+<p>我们的董事会为管理层提供全面指导和政策指引。</p>
+<p>董事会按商业模式运作，鉴于淡马锡是《新加坡宪法》<span style="border-bottom: 1px dotted; color: #15af9b;" class="tooltip" title="《新加坡宪法》第五附表所列的法定机构及政府公司包括：新加坡政府投资公司(负责管理新加坡政府的储备金)、中央公积金局、新加坡金融管理局、建屋发展局和裕廊镇管理局。" data-content="{&quot;description&quot;:&quot;《新加坡宪法》第五附表所列的法定机构及政府公司包括：新加坡政府投资公司(负责管理新加坡政府的储备金)、中央公积金局、新加坡金融管理局、建屋发展局和裕廊镇管理局。&quot;}">第五附表机构</span>，董事会成员和我们的董事长与首席执行长共同肩负保护淡马锡过去所累积的储备金的额外宪法责任。淡马锡董事会中没有新加坡政府或其他政府提名的成员。</p>
+<p>董事会每季度召开一次为期两天的会议。董事会在必要时会增开会议，例如对大额投资进行审议。</p>
+<p>董事会就下列事项保留决策权：</p>
+<ul>
+<li>整体长远战略目标</li>
+<li>年度预算</li>
+<li>年度经审计的法定财务报表</li>
+<li>重大投资与脱售建议</li>
+<li>重大融资建议</li>
+<li>首席执行长的委任及继任计划</li>
+<li>董事会变动</li>
+<li>投资组合风险偏好与风险承受能力</li>
+</ul>
+<p>下设各委员会的主席均由一名独立于管理层的非执行董事担任，各委员会被授予特定权力：</p>
+<ul>
+<li>执行委员会</li>
+<li>审计委员会</li>
+<li>领袖培育与薪酬委员会</li>
+<li>风险与可持续发展委员会</li>
+</ul>
+<p>董事会拥有不同的独立信息渠道以助审慎考量，包括要求管理层提供补充信息或说明。管理层持续向董事会提供信息，包括管理委员会重要会议的记录，使董事会能够有效履行职责。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+
+
+</div>
+<div class="accordion parbase section">
+
+
+    <div id="accordion-334989" class="accordion-wrapper default"
+        data-start="0"
+        data-mode="separate">
+
+        <div class="expand-control-wrapper">
+            <a class="expand-all-accordion" href="corporate-governance">扩展全部</a>
+            <a class="collapse-all-accordion" style="display:none;" href="corporate-governance">关闭全部</a>
+        </div>
+
+        <div class="accordionparsys parsys"><div class="accordion-item parbase section">
+        <div id="accordion-334989-exco" class="accordion-item-wrapper" data-alias="exco">
+            <a href="corporate-governance#exco" class="accordion-item-link">
+                <h3 class="accordion-item-header">执行委员会</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>执行委员会被授权在规定限额之内批准新的投资与脱售决定，超出规定限额的交易则由董事会审议批准。执行委员会提供会议记录供董事会成员传阅。</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-334989-ac" class="accordion-item-wrapper" data-alias="ac">
+            <a href="corporate-governance#ac" class="accordion-item-link">
+                <h3 class="accordion-item-header">审计委员会</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>审计委员会全部由独立董事组成，其职责包括审查内控体系、财务报告流程、审计流程以及法律条例合规性的监控流程等，以协助董事会履行监督职责。审计委员会也审核外部审计的范畴与结果，以及外部审计师的独立性。</p>
+<p>审计委员会的工作由公司内部审计部门支持。为确保其独立性，内审部门在职能上向审计委员会报告，在行政上则向淡马锡控股首席执行长办公室报告。</p>
+<p>为了有效地履行职能，内审部门有权不受限制地全面接触所有记录、财产和人员。内审部门对所有办公室的关键控制程序进行定期审查。</p>
+<p>为了信息保密，对核心薪酬流程相关财务报告的关键控制由外部审计师进行，作为我们集团财务声明法定审计的一部分。内审部门也可能在董事会、审计委员会或高级管理层的要求下进行特别审计。审计委员会的会议记录会发给董事会传阅。</p>
+<p>审计委员会与外部审计师及内部审计部门有独立的会议，管理层不参与会议。</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-334989-ldcc" class="accordion-item-wrapper" data-alias="ldcc">
+            <a href="corporate-governance#ldcc" class="accordion-item-link">
+                <h3 class="accordion-item-header">领袖培育与薪酬委员会</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>领袖培育与薪酬委员会负责向董事会推荐董事及管理层的领袖发展计划，包括董事及首席执行长的继任计划，以及提供有关业绩衡量与薪酬计划的指导方针与政策。</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-334989-rsc" class="accordion-item-wrapper" data-alias="rsc">
+            <a href="corporate-governance#rsc" class="accordion-item-link">
+                <h3 class="accordion-item-header">风险与可持续发展委员会</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>我们在纷繁复杂的全球环境运营，受多重地缘政治和社会经济力量的影响。风险与可持续发展委员会的成立旨在进一步重视可持续发展趋势所带来的机遇和风险，包括气候变化以及财务、名誉、运营与网络风险。</p>
+<p>风险与可持续发展委员会协助董事会履行监督职责，审议投资组合的风险偏好和风险承受能力，重大的环境、社会和治理(ESG)事项，风险管理和可持续发展框架及政策，与风险、可持续发展和ESG相关的重要公开声明等。针对风险和可持续发展相关事项，委员会在需要时会与审计委员会、领袖培育与薪酬委员会等董事会其他常设委员会进行协调。</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+
+</div>
+
+    </div>
+
+    <script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/functional/accordion/clientlibs.min.js"></script>
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h4>董事会治理</h4>
+<p>董事会和下设委员会会议上的决议采用简单多数制的投票方式，成员也可通过电话与/或视频会议的方式参加表决。传阅形式的董事会决议则须至少三分之二的董事批准方可生效。</p>
+<p>若董事会成员的利益与淡马锡的特定利益有所冲突，他们会回避相关的信息、审议与决策。</p>
+<p>董事会的季度会议包括只限非执行董事出席而管理层不参与的“执行会议”。首席执行长继任计划年度审核是“执行会议”议程的一部分。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><div class="scrollbar-top"><table border="0" cellpadding="0" cellspacing="0" width="900" class="set-width" style="width: 900.0px;">
+<tbody><tr><td height="19" width="67">&nbsp;</td>
+<td width="67">董事会</td>
+<td width="67">执行委员会</td>
+<td width="67">审计委员会</td>
+<td width="67">领袖培育与薪酬委员会</td>
+<td width="67">风险与可持续发展委员会</td>
+</tr><tr><td height="19">林文兴</td>
+<td>董事长</td>
+<td>主席</td>
+<td>&nbsp;</td>
+<td>主席</td>
+<td>&nbsp;</td>
+</tr><tr><td height="19">张志贤</td>
+<td>副董事长</td>
+<td>委员</td>
+<td>&nbsp;</td>
+<td>委员</td>
+<td>&nbsp;</td>
+</tr><tr><td height="19">陈育宠</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>主席</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr><tr><td height="19">李宏玮</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>委员</td>
+</tr><tr><td height="19">李腾傑</td>
+<td>董事</td>
+<td>委员</td>
+<td>&nbsp;</td>
+<td>委员</td>
+<td>委员</td>
+</tr><tr><td>王邦泰</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>委员</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr><tr><td>吉姆·哈格曼·思纳博</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>委员</td>
+</tr><tr><td height="19">陈志明</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>委员</td>
+<td>&nbsp;</td>
+<td>委员</td>
+</tr><tr><td>陈聪敏</td>
+<td>董事</td>
+<td>委员</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr><tr><td height="19">傅赛</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>委员</td>
+<td>主席</td>
+</tr><tr><td>黄义旗</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>委员</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr><tr><td height="19">海梅·索韦尔·德·阿亚拉</td>
+<td>董事</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>委员</td>
+</tr><tr><td>狄澜</td>
+<td>执行董事兼首席执行长</td>
+<td>委员</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr></tbody></table>
+</div>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>董事会成员的完整信息可参阅<a href="our-board">这里</a>。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h3><b>淡马锡高级管理层</b></h3>
+<p>淡马锡高级管理层确定了机构风格与企业文化基调，引领淡马锡实现愿景与使命。</p>
+<p>淡马锡管理团队执行董事会制定的战略与政策方向，致力于实现长期可持续的回报，并在董事会授权范围内进行投资、脱售及运营。</p>
+<p>更多信息请参阅<a href="our-leadership">我们的领导层</a>。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h3><b>与投资组合公司的关系</b></h3>
+<p>我们与投资组合公司交流合作，提升股东价值、倡导良好治理、可持续发展和企业实践。</p>
+<h4>治理</h4>
+<p>淡马锡投资组合公司的日常管理与商业决策由其各自的董事会与管理层负责。淡马锡不指导其商业决策或运营。</p>
+<p>高效的董事会治理是公司成功和长期发展的基石。董事会成员有受信责任，以保障各自公司和全体股东的利益。我们寄望投资组合公司的董事会制定公司战略、监督管理层的表现、实施有效监管，并对其决策和行动结果向利益相关群体负责。</p>
+<p>我们支持由高素质和高效人才所组成的董事会。高效的董事会应能做出独立判断，同时具备专业能力和知识，维持董事会的多元化并且担当尽责。我们鼓励投资组合公司根据公司不断变化的需求，定期评估董事会继任计划。</p>
+<p>我们支持主要由独立董事组成的董事会，他们具备必要技能和经验，能为公司的成功做出显著贡献。我们主张公司的董事长和首席执行长应该由相互独立的不同人选担任，以确保能平衡得当地做出独立决策，这也有利于董事会加强对管理层的监督能力。</p>
+<p>作为股东，我们通过投票对投资组合公司的治理和管理方式表达我们的看法，并寄望公司的董事会和高层对其行动、决策和业绩表现负责。投票也有助于确保投资与我们的道德和环境价值观相契合，并促进可持续发展和负责任的商业实践。我们行使投票权，旨在推动健全治理，保障我们作为投资者的利益，同时支持长期财务价值的创造。</p>
+<p>我们不会为投资组合公司的责任和义务提供任何财务担保，正如新加坡政府不会为我们的责任和义务提供任何财务担保。</p>
+<h4>交流</h4>
+<p>我们不指导投资组合公司的商业决策和运营，但作为积极参与的股东，我们与投资组合公司交流合作以期为股东增值，倡导良好治理、可持续发展和企业实践。我们坚信建设性交流的重要性，并致力与投资组合公司合作，确保战略与业绩表现、回报与奖励保持高度一致。</p>
+<p>作为股东，我们致力于为投资组合公司增值，在公司治理、网络安全、行业与科技趋势、法律与合规、名誉风险管理和<a href="https://www.temasekreview.com.sg/zh/sustainability.html#advancing-sustainability-through-our-portfolio">可持续发展</a>等领域交流见解、分享最佳实践、举办圆桌会议和交流活动。我们也时时关注可能影响投资组合公司的行业发展动态和趋势，与他们分享我们在这些领域的专业知识和见解。<a href="https://www.temasekreview.com.sg/zh/performance-portfolio.html#cybersecurity-risk"></a><a href="https://www.temasekreview.com.sg/zh/performance-portfolio.html#cybersecurity-risk"></a></p>
+<p>我们(和我们的董事会)无权取得淡马锡投资组合公司持有的任何非公开技术信息和个人数据。</p>
+<h4>期望</h4>
+<p>作为建设性交流的一部分，我们与投资组合公司的董事会分享作为股东的期望。我们鼓励他们灵活应变和开拓创新，做好准备应对挑战，同时把握新机遇。作为<a href="our-t2030-strategy">淡马锡2030战略</a>的一部分，他们发挥重要作用，助力我们塑造具有韧性和前瞻性的投资组合，最终实现长期可持续的回报。</p>
+<p>我们期望投资组合公司遵守相关法律，推行健全的公司治理，遵守恰当的行为和道德守则。我们不容忍任何形式的不当和渎职行为，寄望投资组合公司的董事会对其经营活动负责。</p>
+<p>董事会应确定基调，积极指导管理层制定和执行战略，进行有效监督，以确保公司得到稳健的治理并具有完备的合规体系与流程。这些体系和流程需不断评估和更新，以确保合适并符合实际需要。</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/separator/clientlibs.min.css" type="text/css">
+
+
+<div class="separator-wrapper default">
+</div>    </div>
+<div class="whistleblowing-form parbase section">
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/whistleblowing-form/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/whistleblowing-form/clientlibs.min.js"></script>
+
+
+<script src="https://www.google.com/recaptcha/api.js?hl=zh"></script>
+
+<div>
+	<h2>检举信息表</h2>
+<p>无论作为机构还是个体，我们讲求诚信，以淡马锡价值观为指引。</p>
+<p>淡马锡以外的外部人士如希望检举淡马锡董事会成员或雇员任何被指控的不当行为，可通过填写此表格告知我们。不当行为包括违反法律、法规或商业道德的行为。</p>
+<p>对于淡马锡作为投资者或股东参股的公司，如您需检举这些公司的董事或员工的不当行为，请向所涉公司直接检举报告。这些公司的日常管理和业务决策由其各自的董事会和管理层负责，淡马锡不直接指导其业务决策和日常经营。如果您认为已出现违法犯罪行为，请向相关的执法机构举报。</p>
+<p>淡马锡致力于以诚信、适宜、独立和保密的方式处理这些报告。外部人士应本着善意如实举报。除非因法律或法规所需，举报者身份将被严格保密。</p>
+<p><i>带星号*的项目为必填内容</i></p>
+
+</div>
+<form id="whistleblowing-form" action="https://localhost:8087/bin/public/temasek-corporate/whistleblowing-form" method="post">
+    <input type="hidden" name="resourcepath" value="/content/temasek-corporate/zh/about-us/corporate-governance/jcr:content/par/whistleblowing_form_" />
+
+    <div class="row">
+        <div class="col-xs-12 col-md-12">
+            <div class="row">
+                
+
+                <div class="form-group col-xs-12 col-md-6">
+                    <label for="fld-name">您的姓名</label>
+                    <input id="fld-name" name="name" type="text"/>
+                </div>
+                <div class="form-group required col-xs-12 col-md-6">
+                    <label for="fld-email">您的电邮地址*</label>
+                    <input id="fld-email" name="email" type="text"/>
+                    <span id="fld-email_error-missing" class="error-message" style="display: none;">请填写您的邮址</span>
+                    <span id="fld-email_error-invalid" class="error-message" style="display: none;">您填写的邮址不存在</span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group required col-xs-12 col-md-6">
+                    <label for="fld-country">您的联络电话</label>
+                    <input id="fld-country" name="country" type="text" placeholder="国家代号"/>
+                	<span id="fld-country_error-missing" class="error-message" style="display: none;">请填写国家代号</span>
+                </div>
+                <div class="form-group required col-xs-12 col-md-6">
+                    <label for="fld-phone">&nbsp;</label>
+                    <input id="fld-phone" name="phonenumber" type="text" placeholder="电话号码"/>
+                    <span id="fld-phone_error-missing" class="error-message" style="display: none;">请填写电话号码</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group required form-group-gap-sm col-xs-12 col-md-12">
+            <label for="fld-message"><p>描述被指控的不当行为* – 提供相关事件的详尽信息至关重要，例如：</p>
+<ul>
+<li>相关人员/知情者的信息（姓名、部门、公司）；</li>
+<li>涉嫌不当行为的日期、时间和地点；</li>
+<li>判断依据等。</li>
+</ul>
+</label>
+            <textarea id="fld-message" name="message"></textarea>
+            <span id="fld-message_error-missing" class="error-message" style="display: none;">请提供您的询问详情</span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12 col-md-12">
+            <div class="form-group form-group-gap-sm required">
+                <input id="fld-pdpa-disclaimer" type="checkbox"/>
+                <label for="fld-pdpa-disclaimer"><p>通过提供此表格所需的信息并点击 &quot;提交&quot;，本人特此同意《<a href="../site-services/cookies">隐私声明</a>》中所规定的对我的个人数据所进行的收集、处理和披露。*</p>
+</label>
+                <span id="fld-pdpa-disclaimer_error-missing" class="error-message" style="display: none;">请确认以上条款</span>
+            </div>
+
+            <div class="form-group form-group-gap-sm required">
+                
+
+                <div class="g-recaptcha" data-sitekey="6LeBlDoUAAAAAHZs9IEvYhZLBK-TrLHmmAGH2A_v"></div>
+                <span id="g-recaptcha_error-missing" class="error-message" style="display: none;">验证码无效!</span>
+            </div>
+
+            <input type="submit" value="提交"/>
+        </div>
+    </div>
+</form>
+
+<div id="whistleblowing-form-success-message" class="alert alert-success" style="display: none">
+    <p>您的询问已成功提交，谢谢。</p>
+</div>
+
+<div id="whistleblowing-form-error-message" class="alert alert-danger" style="display: none;">抱歉，您提交的询问出现问题。请稍后再试。</div>
+
+</div>
+<div class="html parbase section">
+
+<style>
+input[type="checkbox"] {
+    display: none;
+}
+ input[type="checkbox"]:checked + label:before {
+	 background-position: center bottom;
+}
+ input[type="checkbox"] + label {
+	 position: relative;
+	 padding-left: 22px;
+}
+ input[type="checkbox"] + label:before {
+	 content: "";
+	 position: absolute;
+	 left: 0;
+	 top: 0;
+	 display: block;
+	 width: 12px;
+	 height: 12px;
+	 top: 1px;
+	 display: inline-block;
+	 margin-right: 0;
+	 background: url('https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/icons/checkbox.png') center top no-repeat;
+	 background-size: 12px 24px;
+}
+ 
+</style>
+</div>
+
+</div>
+
+	
+	
+<div class="back-to-top-wrapper">
+    <div class="back-to-top">
+        <div class="inner">前</div>
+    </div>
+</div>
+
+</div>
+
+
+<div class="related-content">
+<div class="relatedpar parsys"><div class="text parbase section">
+
+
+
+<div class="default"><h3>相关内容</h3>
+</div>
+
+
+</div>
+<div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="temasek-at-a-glance">
+            <div class="teaser-image-wrapper">
+<img src="https://localhost:8087/content/dam/temasek-corporate/related-links-images-640-320/who-we-are/New%20Project%20(12).jpg" alt="temasek_office" title="temasek_office" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">关于淡马锡</h2>
+
+
+            <p>淡马锡概览</p>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+<div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="our-leadership">
+            <div class="teaser-image-wrapper">
+<img src="https://localhost:8087/content/dam/temasek-corporate/related-links-images-640-320/who-we-are/related-handshake.jpg" alt="related-handshake" title="related-handshake" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">领导团队</h2>
+
+
+            <p>我们的董事会为管理层提供全面指导。</p>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+
+</div>
+
+</div>
+
+
+
+<footer>
+    <div id="footer-icons">
+        <div class="dynamic-logo-footer dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+        <a id="footer-sitemap-button" href="https://localhost:8087/zh/site-services/sitemap">
+            网站导航 
+        </a>
+    </div>
+    
+    <div id="footer-highlights">
+<div class="footer-links-1 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../about-us">关于淡马锡</a></h3>
+        <ul>
+            <li><a href="temasek-at-a-glance">淡马锡概览</a></li>
+            <li><a href="our-leadership">领导团队</a></li>
+            <li><a href="our-purpose-charter-values">我们的使命、宪章和价值观</a></li>
+            <li><a href="../our-community">对社群的承诺</a></li>
+            <li><a href="careers">职业机会</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-2 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../our-investments">我们的投资</a></h3>
+        <ul>
+            <li><a href="../our-investments/investment-approach">投资理念和策略</a></li>
+            <li><a href="../our-investments/our-portfolio">我们的投资组合</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-3 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../our-financials">我们的财务状况</a></h3>
+        <ul>
+            <li><a href="../our-financials/portfolio-performance">投资组合表现</a></li>
+            <li><a href="../our-financials/credit-profile">信用概览</a></li>
+            <li><a href="../our-financials/library/temasek-review">淡马锡年度报告</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-4 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../sustainability">可持续发展</a></h3>
+        <ul>
+            <li><a href="../sustainability/key-highlights">主要进展</a></li>
+            <li><a href="https://localhost:8087/zh/sustainability/sustainability-at-the-core">以可持续发展为核心理念</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-5 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3>掌握最新消息</h3>
+        <ul>
+            <li><a href="https://localhost:8087/zh/news-and-resources">新闻与资料</a></li>
+            <li><a href="../contact-us">联络我们</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-social">
+<div class="social-links-footer social-links">
+    <div class="social-links social-links-default">
+    <nav class="social-links">
+        <a class="social-links-facebook" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_FB.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.facebook.com/temasekholdings"></a>
+
+
+        <a class="social-links-instagram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://instagram.com/temasekseen/"></a>
+
+
+        <a class="social-links-linkedin" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_LinkedIn.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://sg.linkedin.com/company/temasek-holdings"></a>
+
+
+        <a class="social-links-telegram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Telegram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://t.me/temasekholdings"></a>
+
+
+        <a class="social-links-tiktok" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+
+
+        <a class="social-links-wechat" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="corporate-governance#"></a>
+
+        <div class="wechat-code">
+            <img src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>
+            <p class="instructions">微信服务号：淡马锡</p>
+            <button></button>
+        </div>
+
+
+        <a class="social-links-whatsapp" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Whatsapp.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p"></a>
+
+
+        <a class="social-links-twitter" target="_blank" style="background-size: 100%; background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_X.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+
+
+        <a class="social-links-youtube" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.youtube.com/user/TemasekDigital"></a>
+
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-details">
+<div class="footer-links-system footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <ul>
+            <li><a href="https://localhost:8087/zh/site-services/terms">使用条款</a></li>
+            <li><a href="https://localhost:8087/zh/site-services/accessibility">便捷使用途径</a></li>
+            <li><a href="../site-services/cookies">隐私声明</a></li>
+            <li><a href="faqs">常见问题</a></li>
+            <li><a href="https://localhost:8087/zh/site-services/nictemasek">.淡马锡</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+        <div class="copyright">
+             <div class="copyright fixed-copyright">
+    <div class="fixed-copyright fixed-copyright-default">
+
+
+
+</div>
+
+</div>
+
+             
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+<div class="news-insights-overly">
+        <div class="news-insights-wrapper">
+            <button class="close"></button>
+            <div class="news-insights-wrapper--content">
+                <form action="https://temasek.us13.list-manage.com/subscribe/post?u=c6e8202786088f7032c129736&amp;amp;id=c091adf093" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                    <div class="news-insights-wrapper--form-row news-insights-wrapper--header">
+                        <div class="circle-blend-mode one"></div>
+                        <div class="circle-blend-mode one purple-mask"></div>
+                        <h2>Subscribe to our newsletter</h2>
+                        
+                            <p>Stay up to date with our latest news, insights and stories </p>
+                        
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-FULLNAME" name="FULLNAME" type="text" placeholder="Your name" />
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-EMAIL" name="EMAIL" type="text" placeholder="Your email address" />
+                    </div>
+
+                    <div class="news-insights-wrapper--form-row">
+                        <label>Which type(s) of content are you interested in?</label>
+                        <div class="news-insights-wrapper--dropdown">
+                            Select a type of content
+                        </div>
+                        <ul id="interestedList" class="news-insights-wrapper--check-box-list">
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-1" name="group[17329][2]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-1">50th Anniversary</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-2" name="group[17329][4]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-2">Values & People</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-3" name="group[17329][8]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-3">Community</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-4" name="group[17329][16]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-4">Future & Trends</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-5" name="group[17329][32]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-5">Sustainability </label>
+                                    </li>
+                            
+                        </ul>
+                        <ul class="selected-list"></ul>
+                    </div>
+                    <div class="news-insights-wrapper--form-row consent-field">
+                        <span><input id="consent" name="consent" type="checkbox" /></span>
+                        <label for="consent">
+                            
+                                <p>By checking this box, I agree to the <a href="https://localhost:8087/en/site-services/cookies" target="_blank">privacy terms</a> on the website.</p>
+
+                            
+                        </label>
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <div class="g-recaptcha" data-sitekey="6LeBlDoUAAAAAHZs9IEvYhZLBK-TrLHmmAGH2A_v"></div>
+                    </div>
+                    <div id="errorInterestedMsg" class="error-msg">
+                        Please select Stories you are interested in.
+                    </div>
+                    <div id="errorConsentMsg" class="error-msg">
+                        Please give us your consent.
+                    </div>
+                    <div id="errorCaptchaMsg" class="error-msg">
+                        Please confirm that you are not a robot.
+                    </div>
+                    <div class="news-insights-wrapper--button">
+                        <button type="submit">SUBSCRIBE</button>
+                    </div>
+                </form>
+            </div>
+            <div class="news-insights-wrapper--background">
+                <!-- <div class="circle one"></div> -->
+                <div class="circle two"></div>
+                <div class="circle three"></div>
+                <div class="circle four"></div>
+                <div class="circle-with-border one"></div>
+                <div class="circle-with-border two"></div>
+            </div>
+        </div>
+    </div>        
+        <div class="measurement"> </div>
+    </div>
+
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1754896371409820&amp;ev=PageView&amp;noscript=1"/></noscript>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif"/></noscript>
+</body>
+</html>

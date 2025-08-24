@@ -1,0 +1,2554 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="msapplication-square150x150logo" content="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/mstile-150x150.png">
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="apple-mobile-web-app-title" content="Temasek Corporate">
+    <meta name="application-name" content="Temasek Corporate">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/android-chrome-192x192.png">
+    <link rel="mask-icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/blacksunplc.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/is.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/imagesloaded.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/timeago.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.js"></script>
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.js"></script>
+
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/datepicker.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
+<link rel="stylesheet" href="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
+    <title>Our Board - Temasek</title>
+
+    <meta property="og:title" content="Our Board" />
+    <meta property="og:site_name" content="Temasek Corporate Website English" />
+    <meta property="og:url" content="https://localhost:8087/en/about-us/our-board" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Logo.jpg.downloadasset.jpg" />
+     <meta property="og:locale" content="en" />
+
+    <meta name="twitter:title" content="Our Board" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@testing_16nov" />
+    <meta name="twitter:url" content="https://localhost:8087/en/about-us/our-board" />
+    <meta name="twitter:description" content=" " />
+    <meta name="twitter:creator" content="@testing_16nov" />
+    <meta name="twitter:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Logo.jpg.downloadasset.jpg" />
+
+    <meta property="fb:app_id" content="1086722744796138" />
+
+
+             <script type="text/javascript" id="lightning_bolt" src="https://cdn-akamai.mookie1.com/LB/LightningBolt.js"></script>
+
+             <script type="text/javascript"> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWJ89FF');  </script>
+
+             <script type="text/javascript">
+_linkedin_partner_id = "778555";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=778555&fmt=gif"/>
+</noscript>
+
+             <script type="text/javascript" src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.js"></script>
+
+             <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10111606'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+             <meta name="facebook-domain-verification" content="ty2ud0xlzerdvns539qke6837meywt" />
+
+             
+<script data-obct type="text/javascript">
+  /** DO NOT MODIFY THIS CODE**/
+  !function(_window, _document) {
+    var OB_ADV_ID = '0093ea5a97ad7890bfed25d9ca4251ba35';
+    if (_window.obApi) {
+      var toArray = function(object) {
+        return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];
+      };
+      _window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));
+      return;
+    }
+    var api = _window.obApi = function() {
+      api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);
+    };
+    api.version = '1.1';
+    api.loaded = true;
+    api.marketerId = OB_ADV_ID;
+    api.queue = [];
+    var tag = _document.createElement('script');
+    tag.async = true;
+    tag.src = '//amplify.outbrain.com/cp/obtp.js';
+    tag.type = 'text/javascript';
+    var script = _document.getElementsByTagName('script')[0];
+    script.parentNode.insertBefore(tag, script);
+  }(window, document);
+
+  obApi('track', 'PAGE_VIEW');
+</script>
+
+
+
+
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="f7wcvaaxgjlkw2ej2y7q-f-6e073d161-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"365029","ak.ai":parseInt("246172",10),"ak.ol":"0","ak.cr":4,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"cb160137","ak.r":44715,"ak.a2":e,"ak.m":"ksd","ak.n":"essl","ak.bpcip":"47.236.42.0","ak.cport":45626,"ak.gh":"23.44.214.6","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1753863743","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==eQ8+nZaMJlXerwQs45i8/uWdTzNz6aeqOcL0thG5WMLdGnO9vH7R7Fm6B7i0wcWpMheOdkHqnxabkvwAvYuDQsThRusn53kLC0FmMgrPl42eVMaL1xUhdl/jVq648N419O/r+eRhQLKaPKTYaU4beHOR8jjn1rGhw43Ko0il1907TGuomISfwZn1MgOAMTCMcDtPI0gWAsEhwzPWu81ztqq1fnOnWncAlEt7/CD9SCeSZAHOCY4KAZ1z+MU/fmUp2LwEsgCaeytL02ius+gWGFyYqDvncy+GzJBRBMIstgqBunY4edhtXUQstxi0Mq4FZJFALqN0x+KYIaPT6GIQlxqg+TElMIpOgLl6yagcpp3/ajnIoieMD82ENaX1RqnYXnHeldsmQukL6b8r+JzEQZ1cDELkILRmzGsIV9yObZc=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+
+<body class="content-page en our-board about-us  " data-language-name="en">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWJ89FF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="cookiewarning">
+
+<div id="cookie-control-ui" class="hidden"
+    data-cookieconsentstorageid="temasek-corporate-en-cookieConsentStorageID">
+
+    <div class="cookie-outer-wrapper">
+        <div class="cookie-inner-wrapper">
+            
+            <div class="cookie-content">
+                <div class="cookie-body">
+                    
+                    
+                        <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them see our <a></a><a target="_blank"></a><a href="../site-services/cookies.html">cookie policy</a>.</p>
+
+                    
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn-accept">ACCEPT</button>
+                    <button class="btn-decline"> DECLINE</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/cookiewarning/clientlibs.min.js"></script>
+
+</div>
+
+
+
+    <div class="page">
+
+
+
+    <header class="fixed-header">
+
+
+
+        <div class="top">
+            <div class="logo-wrapper">
+<div class="dynamic-logo-header dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+            </div>
+
+            <div class="topmenu-wrapper">
+                <div class="link-1 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="https://www.temasekreview.com.sg/" class='temasek-review'>
+        Temasek Review
+        <img src="our-board" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-t50 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="t50" class='link-t50'>
+        Commemorating 50 Years
+        <img src="https://localhost:8087/content/dam/temasek-corporate/T50/t50-logo-only.svg" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-2 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="../news-and-resources/stories" class=''>
+        Stories
+        <img src="our-board" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-3 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="../contact-us" class='link-contact-us'>
+        Contact Us
+        <img src="our-board" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="search-button"></div>
+                <div class="language-switch parbase">
+    <ul class="language-switch-links">
+
+        <li class="selected">
+            <a href="our-board" rel="canonical">
+                En
+            </a>
+        </li>
+        <li>
+            <a href="https://localhost:8087/zh/about-us/our-board" rel="alternative" hreflang="zh">
+                中文
+            </a>
+        </li>
+    </ul>
+
+    <div class="cookie-enable">
+        <button class="cookie-enable-open"></button>
+        <div class="cookie-enable-content hidden">
+            <button class="cookie-enable-close"></button>
+            <div class="cookie-enable-body">
+                <div class="cookie-on">
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="our-board#">Turn cookies on</a>. </p>
+<p><a></a>View our <a href="../site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
+
+                </div>
+
+                <div class="cookie-off hidden">
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="our-board#">Turn cookies off.</a> </p>
+<p><a></a>View our <a href="../site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
+
+                </div>
+            </div>
+        </div>
+    </div></div>
+
+            </div>
+        </div>
+
+        <div class="bottom">
+
+            <!-- <div class="search-button"></div> -->
+
+<div class="mega-menu">
+    <div class="mega-menu mega-menu-default">
+    <nav class="mega-menu-navigation">
+        <ul class="mega-menu-navigation-list">
+            <li><a class="mega-menu-navigation-link about-us active has-menu-item" href="https://localhost:8087/en/about-us" data-section="mega-menu-about-us">About Us</a></li>
+            <li><a class="mega-menu-navigation-link our-financials  has-menu-item" href="../our-financials" data-section="mega-menu-our-financials">Our Financials</a></li>
+            <li><a class="mega-menu-navigation-link our-investments  has-menu-item" href="../our-investments" data-section="mega-menu-our-investments">Our Investments</a></li>
+            <li><a class="mega-menu-navigation-link sustainability  has-menu-item" href="../sustainability" data-section="mega-menu-sustainability">Sustainability</a></li>
+            <li><a class="mega-menu-navigation-link our-community  has-menu-item" href="../our-community" data-section="mega-menu-our-community">Our Community</a></li>
+            <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item" href="https://localhost:8087/en/news-and-resources" data-section="mega-menu-news-and-resources">News &amp; Resources</a></li>
+        </ul>
+    </nav>
+    <div class="mega-menu-items-wrapper" style="display:none">
+        <div id="mega-menu-about-us" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item40 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>About Us</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>A global investment company delivering sustainable returns&nbsp;over the long term<br>
+</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="t50">Commemorating 50 Years</a>
+                    </li>
+                    <li>
+                        <a class="" href="temasek-at-a-glance">Temasek at a Glance</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-t2030-strategy">Our T2030 Strategy</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-board">Our Board</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-leadership">Our Leadership</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-global-advisory-network">Our Global Advisory Network</a>
+                    </li>
+                    <li>
+                        <a class="" href="corporate-governance">Corporate Governance</a>
+                    </li>
+                    <li>
+                        <a class="" href="managing-risks">Managing Risks</a>
+                    </li>
+                    <li>
+                        <a class="" href="history-of-temasek">History of Temasek</a>
+                    </li>
+                    <li>
+                        <a class="" href="careers">Careers</a>
+                    </li>
+                    <li>
+                        <a class="" href="faqs">FAQs</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys"><div class="teaser parbase section">
+</div>
+
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-financials" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item30 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Financials</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Building a disciplined institution</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/portfolio-performance">Portfolio Performance</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/wealth-added">Wealth Added</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/group-financials">Group Financials</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/cost-discipline">Cost Discipline​</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/credit-profile">Credit Profile</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/temasek-bonds">Temasek Bonds</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+                            
+                            </li>
+                            <li><a class="has-fourth-level-links" href="../our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+                            
+                                    <ul class="mega-menu-item-fourth-level-links " style="display:none">
+
+                                        <li><a class="" href="../our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+
+                                       </li>
+                                    </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/library">Investor Library</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/library/temasek-review">Temasek Review</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-investments" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item41 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Investments</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Investing with tomorrow in mind</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../our-investments/investment-approach">Investment Approach​</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-investments/our-portfolio">Our Portfolio</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-sustainability" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item38 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Sustainability</h2>
+            <div class="menuitempar-left parsys"><div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/index/jcr:content/mega-menu/mega-menu/mega_menu_item38/menuitempar-left/image" class="img-width-100 default image" data-tooltip-content="null">
+
+        <a href="https://localhost:8087/content/temasek-corporate/en/news-and-resources/resources#sustainability-report.html"><a href="../news-and-resources/resources#sustainability-report"><img src="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-download-thumbnail-900x600.png" alt="darker-sus-download-thumbnail-900x600.png" title="darker-sus-download-thumbnail-900x600.png" class="cq-dd-image"></a></a>
+
+    </figure></div>
+
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p><a href="../news-and-resources/resources#sustainability-report">Sustainability Report 2025</a></p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../sustainability/key-highlights">Key Highlights</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/sustainability-strategy">Sustainability Strategy </a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../sustainability/sustainability-governance"> Sustainability Governance</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/people">People</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys"><div class="teaser parbase section">
+</div>
+
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-community" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item5 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Community</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Building communities, uplifting lives</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/en/our-community/our-approach">Our Approach</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/en/our-community/knowledge-centres">Knowledge Centres</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/en/our-community/staff-volunteers">Staff Volunteers</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/en/our-community/temasek-foundations">Temasek Foundation</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="https://localhost:8087/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" target="_blank" href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-news-and-resources" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item39 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>News &amp; Resources</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Stay informed and keep abreast of the latest news</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/en/news-and-resources/news-room">Newsroom</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/en/news-and-resources/scam-alerts">Scam Alerts</a>
+                    </li>
+                    <li>
+                        <a class="" href="../news-and-resources/stories">Stories</a>
+                    </li>
+                    <li>
+                        <a class="" href="../news-and-resources/resources">Resources</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+    </div></div>
+
+    <script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mega-menu/clientlibs.min.js"></script>
+
+</div>
+
+
+            <div class="search-row">
+                <div class="searchfield">
+                    <div class="search-field-outer">
+<div class="search-field">
+    <div class="search-field search-field-default">
+    <div class="search-field-wrapper">
+        <form action="https://localhost:8087/en/site-services/search-results" class="search-field-form" data-style="/etc/designs/temasek-corporate/jcr:content/content-page/search-field/search-field" data-pagepath="/content/temasek-corporate/en/about-us/our-board">
+            <input autocomplete="off" class="search-field-input" name="q" id="q" type="text" placeholder="What are you searching for?" />
+            <input class="search-field-button" type="submit" />
+        </form>
+    </div></div>
+
+</div>
+
+                    </div>
+                </div>
+                <div class="close-search-row"><span>Close</span></div>
+            </div>
+
+<div class="mobile-menu">
+
+
+
+
+<div class="mobilemenu-trigger">
+    <span></span>
+</div>
+<div class="mobilemenu-wrapper" data-backlabel="Back">
+    <div class="mobilemenu menu">
+        <ul class="dl-menu">
+            
+
+
+        <li>
+            <a href="../index">Home</a>
+
+        </li>
+
+        <li class="opened">
+            <a href="https://localhost:8087/en/about-us">About Us</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="t50">Commemorating 50 Years</a>
+
+        </li>
+
+        <li>
+            <a href="temasek-at-a-glance">Temasek at a Glance</a>
+
+        </li>
+
+        <li>
+            <a href="our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+
+        </li>
+
+        <li>
+            <a href="our-t2030-strategy">Our T2030 Strategy</a>
+
+        </li>
+
+        <li class="current">
+            <a href="our-board">Our Board</a>
+
+        </li>
+
+        <li>
+            <a href="our-leadership">Our Leadership</a>
+
+        </li>
+
+        <li>
+            <a href="our-global-advisory-network">Our Global Advisory Network</a>
+
+        </li>
+
+        <li>
+            <a href="corporate-governance">Corporate Governance</a>
+
+        </li>
+
+        <li>
+            <a href="managing-risks">Managing Risks</a>
+
+        </li>
+
+        <li>
+            <a href="history-of-temasek">History of Temasek</a>
+
+        </li>
+
+        <li>
+            <a href="careers">Careers</a>
+
+        </li>
+
+        <li>
+            <a href="faqs">FAQs</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials">Our Financials</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/portfolio-performance">Portfolio Performance</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/wealth-added">Wealth Added</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials">Group Financials</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/cost-discipline">Cost Discipline​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/credit-profile">Credit Profile</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds">Temasek Bonds</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+
+            <ul class="dl-submenu level-2">
+                
+
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/library">Investor Library</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/library/temasek-review">Temasek Review</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-investments">Our Investments</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../our-investments/investment-approach">Investment Approach​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-investments/our-portfolio">Our Portfolio</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability">Sustainability</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/key-highlights">Key Highlights</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy">Sustainability Strategy </a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-governance"> Sustainability Governance</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/people">People</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-community">Our Community</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/our-approach">Our Approach</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/knowledge-centres">Knowledge Centres</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/staff-volunteers">Staff Volunteers</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-foundations">Temasek Foundation</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/news-and-resources">News &amp; Resources</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/news-and-resources/news-room">Newsroom</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/news-and-resources/scam-alerts">Scam Alerts</a>
+
+        </li>
+
+        <li>
+            <a href="../news-and-resources/stories">Stories</a>
+
+        </li>
+
+        <li>
+            <a href="../news-and-resources/resources">Resources</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+        </ul>
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mobile-menu/clientlibs.min.js"></script>
+</div>
+
+
+        </div>
+    </header>
+
+
+<div class="sectionbanner image-video-banner">
+
+
+<div class='image-video-banner-wrapper ' data-mobile-image-path="/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png"
+       data-desktop-image-path="/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png"
+    
+            style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png');"
+    >
+
+    <div class="banner-content-wrapper">
+
+        
+
+        <div class="image-video-banner-wrapper-detail">
+            <p class="image-video-banner-title">Our Board</p>
+        
+        
+        </div>
+    </div>
+    
+</div>
+
+
+
+</div>
+
+<div class="breadcrumbs parbase">
+
+<div class="footer-links breadcrumbs-default">
+    <nav class="breadcrumbs">
+        <a href="../index">Home</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <a href="https://localhost:8087/en/about-us">About Us</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <span class="breadbrumbs-current">Our Board</span>
+    </nav>
+</div>
+</div>
+
+
+<div class="main-wrapper">
+	<div class="share share-left sharelink">
+		<div class="socialshare">
+
+<div class="socialshare-content">
+   <div class="share-links-menu">
+      <ul class="socialshare-list share-links">
+      
+         <li class="socialshare-item__linkedin linkedin"><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://localhost:8087/en/about-us/our-board" aria-label="Share this page on LinkedIn" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__facebook facebook"><a href="http://www.facebook.com/sharer.php?u=https://localhost:8087/en/about-us/our-board" aria-label="Share this page on Facebook" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__twitter twitter"><a href="https://twitter.com/intent/tweet?url=https://localhost:8087/en/about-us/our-board" aria-label="Share this page on Twitter" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__email email"><a href="mailto:?subject=Our Board&body=https://localhost:8087/en/about-us/our-board" aria-label="Share this page on Email" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__whatsapp whatsapp"><a href="https://wa.me/?text=https://localhost:8087/en/about-us/our-board" aria-label="Share this page on Whatsapp" target="_blank"><i></i></a></li>
+      
+      </ul>
+   </div>
+ </div>
+
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/includes/socialshare/clientlibs.min.js"></script>
+
+</div>
+
+		<div class="share-inner">
+			<a class="tool-share"></a>
+			<div class="share-links-menu">
+				<div class="addthis_inline_share_toolbox"
+					data-title="Our Board"
+					data-url="https://localhost:8087/en/about-us/our-board.html"
+					
+					
+
+					
+						data-media="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Logo.jpg.downloadasset.jpg"
+					
+					>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="title"><h1>Our Board</h1>
+</div>
+
+	<div class="par parsys"><div class="text parbase section">
+
+
+
+<div class="intro"><p>Our Board provides overall guidance and policy directions to management.</p>
+</div>
+
+
+</div>
+<div class="gridtabs section">
+
+
+
+<div class="link-grid-items default">
+    <div class="wrapper" data-rows-config='{}'>
+
+        <div class="element">
+            <div class="item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="bod-lim-boon-heng">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/LIM%20Boon%20Heng_500x500_Approved.jpg" alt="LIM Boon Heng_500x500_Approved" title="LIM Boon Heng_500x500_Approved" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>LIM Boon Heng</h3>
+<h4>Chairman</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>LIM Boon Heng</b><br>
+</p>
+<p>Mr Lim Boon Heng was appointed Chairman of Temasek Holdings on 1 August 2013, after joining the Board as Director in June 2012. He is Chairman of the Executive Committee and Leadership Development &amp; Compensation Committee.</p>
+<p>Mr Lim’s career spans the private and public sectors. He served in the Singapore Cabinet as a Minister in the Prime Minister’s Office from 1993 to 2011. He had entered politics serving as a Member of Parliament in 1980 and through this course he had also been appointed Senior Minister of State for the Ministry of Trade and Industry and subsequently appointed Second Minister for Trade and Industry. Mr Lim had also served for 13 years as Secretary-General of the National Trades Union Congress (NTUC). Before entering the public sector, Mr Lim spent a decade at Neptune Orient Lines Limited as Manager of Corporate Planning and of Liner Services.</p>
+<p>Mr Lim is currently Chairman of NTUC Enterprise Co-operative Limited, NTUC Health for Life Fund Limited, Philanthropy Asia Alliance, and St Gabriel’s Foundation.</p>
+<p>Mr Lim holds a Bachelor of Science (Honours) degree in Naval Architecture from the University of Newcastle-upon-Tyne, UK.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item0 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="bod-teo-chee-hean">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/TEO%20Chee%20Hean_500x500.jpg" alt="500px 500px - SM Photo Edited" title="500px 500px - SM Photo Edited" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>TEO Chee Hean</h3>
+<h4>Deputy Chairman</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>TEO Chee Hean</b></p>
+<p>Mr Teo Chee Hean was appointed Deputy Chairman of Temasek Holdings on 1 July 2025.<br>
+</p>
+<p>Mr Teo was appointed Singapore’s Senior Minister from 2019 to 2025 and served as Deputy Prime Minister from 2009 to 2019. He also concurrently served as Coordinating Minister for National Security from 2011. In these roles, he oversaw the National Security Coordination Secretariat, the Smart Nation and Digital Government Group, the National Population and Talent Division and the National Climate Change Secretariat under the Prime Minister's Office.</p>
+<p>Mr Teo's career spans political office and the defence sector. He had served as Minister for Home Affairs, Minister for Defence, Minister for Education, and Minister for the Environment, as well as Minister of State in the Ministries of Finance, Communications and Defence. He entered politics in 1992 as a Member of Parliament in Marine Parade Group Representation Constituency (GRC) and was subsequently re-elected six times in Pasir Ris-Punggol GRC. Before being elected to political office, he served in the Singapore Armed Forces (SAF) where he held various command and staff appointments in the Republic of Singapore Navy and the Joint Staff, rising to the rank of Rear Admiral as Chief of Navy in 1991.</p>
+<p>Mr Teo had previously served on the GIC Board where he also chaired the GIC International Advisory Board. He has also served on the boards of IRAS, PSA, Nanyang Technological University and Ngee Ann Polytechnic.</p>
+<p>Mr Teo holds a Bachelor of Science (First Class Honours) in Electrical Engineering and Management Science from the University of Manchester, a Master of Science degree (with distinction) in Computing Science from Imperial College London, and a Master’s in Public Administration from the Kennedy School of Government at Harvard University, where he was named a Littauer Fellow.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item2 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="bod-bobby-chin-yc">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Bobby%20CHIN%20YC_500x500.jpg" alt="Bobby CHIN YC_500x500" title="Bobby CHIN YC_500x500" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>Bobby CHIN YC</h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Bobby CHIN YC</b></p>
+<p>Mr Bobby Chin has served on the Board of Temasek Holdings as a Director since June 2014. He is the Chairman of the Audit Committee.<b><br>
+</b></p>
+<p>His 30-year career with KPMG Singapore commenced in 1974, before rising to Managing Partner in 1992 until his retirement in September 2005.</p>
+<p>Mr Chin sits on the boards of several listed companies including AV Jennings Limited, Frasers Property Limited, and Ho Bee Land Limited. He is also a Director of Singapore Health Services Pte Ltd and Temasek Trust Limited.</p>
+<p>He has held Chairmanship of several boards across both public and private sectors including Urban Redevelopment Authority, Changi Airports International, Housing &amp; Development Board, Singapore Totalisator Board, Corporate Governance Advisory Committee, and NTUC Fairprice Co-operative Limited. In addition, Mr Chin was formerly a board member of Overseas-Chinese Banking Corporation Ltd, Sembcorp Industries Limited, Singapore Telecommunications Limited, Yeo Hiap Seng Limited, Fraser Logistic &amp; Commercial Asset Management Pte Ltd, NTUC Enterprise Co-operative Limited, and the Singapore Labour Foundation. He had previously served as a member on the Council of Presidential Advisers.</p>
+<p>In 2003, Mr Chin was awarded the Public Service Medal, in 2011, the Public Service Star, in 2017, the Meritorious Service Medal and in 2023, the Distinguished Service Order by the Prime Minister’s Office. In 2013, he was conferred the Friend of Labour Award and in 2017, the NTUC Meritorious Service Award. He was awarded the NTUC Distinguished Service Medal in 2022.</p>
+<p>Mr Chin graduated with a Bachelor of Accountancy from the National University of Singapore. He is a Fellow of the Institute of Chartered Accountants in England and Wales and a Distinguished Lifetime Member of the Institute of Singapore Chartered Accountants.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item3 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="content-temasek-corporate-en-about-us-our-board-jcr:content-par-gridtabs_copy-item3">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Jenny%20LEE_500x500_approved.jpg" alt="Jenny LEE_500x500_approved" title="Jenny LEE_500x500_approved" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>Jenny LEE </h3>
+<h4>Director<br />
+<br />
+</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Jenny LEE</b></p>
+<p>Ms Jenny Lee has served on the Board of Temasek Holdings as a Director since January 2022.<b><br>
+</b></p>
+<p>Ms Lee is a Senior Managing Partner at Granite Asia (formerly known as GGV Capital (GGV)), a global multi-asset investment firm headquartered in Singapore. At Granite Asia, she has led the firm through a significant evolution — expanding its focus from venture capital to a multi-asset investment platform spanning private credit, growth equity and beyond. Ms Lee brings decades of experience investing in innovation and technology across Asia and around the world, with a proven track record of translating capital into real economic impact. Her portfolio across various technology themes includes 21 companies valued at over US$1 billion each. She has had 17 IPOs up to date, including 4 recent IPOs since 2021, across 5 different global exchanges, and numerous portfolio company exits via M&amp;A. Her global investment track record over two decades and early operation and finance work experience with Singapore Aerospace in Singapore, Morgan Stanley, and JAFCO Asia in Hong Kong enhanced her role as a preferred board member with deep domain expertise and global investment experience.</p>
+<p>Ms Lee serves on the governing boards of both Lee Kuan Yew School of Public Policy and Duke-NUS Medical School. In addition, she is a member of the Singapore’s Research, Innovation and Enterprise Council, Singapore Business Federation Council, Future Economy Advisory Panel, Asia Business Council, and the International Advisory Council of Edmond de Rothschild.</p>
+<p>Since 2012, Ms Lee has been consistently recognised by the Forbes Midas List, the annual ranking by Forbes magazine of the most influential and best-performing venture capital investors. In 2015, Ms Lee was the first woman venture capitalist to break into the top 10. She has also been recognised by Forbes as one of the World’s 100 Most Powerful Women in the past three years (2022-2024).</p>
+<p>Ms Lee graduated from Cornell University with an M.S. and a B.Sc. in Electrical Engineering and an MBA from Kellogg School of Management, Northwestern University.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item5 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="bod-lee-theng-kiat">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Lee-Theng-Kiat_PHOTO-APEC2012-500x500.jpg" alt="Lee-Theng-Kiat_PHOTO-APEC2012-500x500" title="Lee-Theng-Kiat_PHOTO-APEC2012-500x500" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>LEE Theng Kiat</h3>
+<h4>Director<br />
+Chairman, Temasek International </h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>LEE Theng Kiat</b></p>
+<p>Mr Lee Theng Kiat has served on the Board of Temasek Holdings as a Director since April 2016 and as Chairman of Temasek International Pte. Ltd. since April 2019.<b><br>
+</b></p>
+<p>Mr Lee was an Executive Director of Temasek Holdings between April 2019 and September 2021. Before joining Temasek, Mr Lee concurrently served as President &amp; CEO of STT Communications Ltd and Singapore Technologies Telemedia Pte Ltd and led their growth through overseeing their investments and info communications businesses. He had joined the Singapore Technologies group of companies in 1985 and held senior positions overseeing legal and strategic business development. Mr Lee served in the Singapore Legal Service for over eight years before joining the Singapore Technologies Group and was a Senior Legal Officer with the Ministry of Defence.</p>
+<p>He is currently Chairman of Singapore Telecommunications Ltd&nbsp;and Chairman of Singapore Energy Interconnections Pte Ltd (SGEI).&nbsp;He also serves on the board of SPH Media Trust.</p>
+<p>Mr Lee holds a Bachelor of Laws (Honours) from the National University of Singapore.&nbsp;</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item10 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="content-temasek-corporate-en-about-us-our-board-jcr:content-par-gridtabs_copy-item10">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Ong%20Pang%20Thye.jpg" alt="Ong Pang Thye" title="Ong Pang Thye" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>ONG Pang Thye<br />
+</h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>ONG Pang Thye</b></p>
+<p>Mr Ong Pang Thye has served on the Board of Temasek Holdings as a Director since January 2025.<b><br>
+</b></p>
+<p>Mr Ong has more than 30 years of experience in accounting, auditing, and consulting, working with companies in various industries such as Banking, Asset Management, Infrastructure, Media, and Real Estate. He was the former Managing Partner of KPMG in Singapore from 2016 to 2023 and a board member of KPMG International Limited. Prior to this, he was previously the Head of Audit practice in Singapore and was KPMG’s Head of Accounting Advisory Services for KPMG in Asia Pacific.</p>
+<p>Mr Ong currently serves as Vice Chairman in the Singapore Business Federation. He also sits on the boards of Singapore Power Limited and MOH Holdings Pte. Ltd. He is Chairman of the Audit Committee for the Ministry of Home Affairs’ Home Team Science and Technology Agency and a member of the Business School Management Advisory Board of the National University of Singapore.</p>
+<p>Mr Ong holds a Bachelor of Accountancy from the National University of Singapore.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item1 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="content-temasek-corporate-en-about-us-our-board-jcr:content-par-gridtabs_copy-item1">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Jim%20Hagemann%20Snabe.jpg" alt="Jim Hagemann Snabe" title="Jim Hagemann Snabe" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>Jim Hagemann SNABE</h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Jim Hagemann SNABE</b></p>
+<p>Mr Jim Hagemann Snabe has served on the Board of Temasek Holdings as a Director since January 2025.<b><br>
+</b></p>
+<p>Mr Snabe is Chairman of the Supervisory Board of Siemens AG, a Board Member at C3.ai and a member of the Board of Trustees at the World Economic Forum. He also serves on the Global Advisory Board of Deutsche Bank AG. He was previously Chairman of A.P. Moller Maersk and Northvolt, as well as Vice Chairman of Allianz SE and Bang &amp; Olufsen. Mr Snabe was formerly on the Boards of SAP AG and Danske Bank. He was a member of Temasek European Advisory Panel from 2018 to 2024. Across these roles, Mr Snabe has been a driving force in advancing corporate sustainability, with his chairmanship at Siemens and A.P. Moller Maersk marked by significant progress in renewable energy adoption, green supply chains, and circular economy initiatives.</p>
+<p>Mr Snabe’s professional journey includes a 25-plus year career in the IT industry, primarily with SAP AG where he last served as Co-Chief Executive Officer from 2010 to 2014. In his capacity as a global business leader, Mr Snabe is involved in a number of activities focused on societal progress and the role of business in society. A strong advocate for sustainable transformation, he has played a pivotal role in steering global companies toward decarbonisation, digital innovation, and responsible leadership.</p>
+<p>Mr Snabe holds a Master’s degree in Operational Research from the University of Aarhus, Denmark.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item6 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="content-temasek-corporate-en-about-us-our-board-jcr:content-par-gridtabs_copy-item6">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/TAN%20Chee%20Meng_500x500_approved.jpg" alt="TAN Chee Meng_500x500_approved" title="TAN Chee Meng_500x500_approved" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>TAN Chee Meng</h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>TAN Chee Meng</b></p>
+<p>Mr Tan Chee Meng has served on the Board of Temasek Holdings as a Director since January 2022.<b><br>
+</b></p>
+<p>Mr Tan, Senior Counsel, is Deputy Chairman of WongPartnership. His main areas of practice are general civil litigation, construction and engineering dispute resolution, criminal law, insurance, professional indemnity, and disciplinary proceedings.</p>
+<p>Mr Tan was appointed Senior Counsel in 2006 and is the first Specialist Judge appointed in Singapore in 2006. Before joining private practice in 1993, Mr Tan spent six years in the Singapore Legal Service where he served as Deputy Public Prosecutor, Deputy Senior State Counsel and Deputy Director of the Commercial Affairs Department. Prior to reading law, Mr Tan was a civil engineer and has extensive experience as an arbitrator, a mediator as well as counsel in construction law.</p>
+<p>Mr Tan previously served on the boards of AusNet Services, Urban Redevelopment Authority, Jurong Town Corporation and Singapore Power Ltd.</p>
+<p>Mr Tan graduated from University of Canterbury of New Zealand with First Class Honours in Engineering under a Colombo Plan scholarship in 1979. He was subsequently awarded a Singapore Government Legal Scholarship to read law at National University of Singapore and University of Cambridge, where he was also awarded a First Class Honours for his LL.M.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item4 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="content-temasek-corporate-en-about-us-our-board-jcr:content-par-gridtabs_copy-item4">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Tan%20Chong%20Meng_500x500.jpg" alt="Tan Chong Meng_500x500" title="Tan Chong Meng_500x500" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>TAN Chong Meng</h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>TAN Chong Meng</b></p>
+<p>Mr Tan Chong Meng has served on the Board of Temasek Holdings as a Director since April 2024.<b><br>
+</b></p>
+<p>Mr Tan retired in February 2024 after serving as Group CEO of PSA International since October 2011, where he was responsible for the global performance and strategic growth of the world-leading port group with operations in over 160 locations across 42 countries. Prior to PSA, he spent over 20 years at Royal Dutch Shell in senior leadership roles across the US, Europe, China, and Singapore, most recently as Executive Vice President of Shell Downstream, overseeing global commercial businesses in fuels, lubricants, and specialty products. He began his career with Singapore’s Ministry of National Development.</p>
+<p>Mr Tan is currently the Chairman of the National University Health System (NUHS) and serves on several key bodies, including the NUS Board of Trustees, the Council of Presidential Advisers, and the Energy Market Authority’s Energy Supply Resiliency Advisory Panel. From 2022 to 2024, he was Governor Chair for the World Economic Forum’s Supply Chain &amp; Transport Industry Community, and from 2020 to 2021, he was Co-Chair of Singapore’s Emerging Stronger Task Force, which led Singapore’s post-pandemic economic recovery efforts. He previously chaired JTC Corporation and was a Board Member of IE Singapore.</p>
+<p>In recognition of his leadership of the Emerging Stronger Task Force, Mr Tan was awarded the Meritorious Service Medal in 2022. In 2023, he was also conferred the title of Officer of the Order of the Star of Italy for his contributions to strengthening international cooperation with Italy.</p>
+<p>Mr Tan holds a Master of Arts degree in Industrial Engineering and Bachelor of Arts degree in Mechanical Engineering from the National University of Singapore.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item9 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="bod-peter-r-voser">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/PeterVoser_2020_500x500.jpg" alt="PeterVoser_2020_500x500" title="PeterVoser_2020_500x500" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>Peter R VOSER</h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Peter R VOSER</b></p>
+<p>Mr Peter Voser has served on the Board of Temasek Holdings as a Director since January 2015.&nbsp;He is Chairman of the Risk and Sustainability Committee.<b><br>
+</b></p>
+<p>He was the former Chief Executive Officer of ABB Ltd. where he championed the shift toward electrification, automation, digitalisation, and low-carbon industrial solutions. Prior to that, he served as Chief Executive Officer of Royal Dutch Shell plc. Mr Voser began his career with Royal Dutch Shell plc in 1982 and held various leadership roles at Shell Argentina, Chile, the Netherlands, Switzerland and the United Kingdom before rising to Chief Financial Officer in 1999. During his tenure at Shell, Mr Voser was involved in efforts to steer the company towards more sustainable energy practices, including Global LNG and early investments in renewables and carbon mitigation technologies.</p>
+<p>He is currently Group Chairman of PSA International, Chairman of ABB Ltd, and a member of the Board of Directors of International Business Machines (IBM) Corporation Inc. He is also the Chairman of the Board of Trustees of St. Gallen Foundation for International Studies and a member of the Board of Trustees of the Asia Business Council. Mr Voser was formerly Chairman of Catalyst Inc., as well as a Director of Aegon N.V., UBS AG, and Roche Holdings Limited. From 2013 to 2019, Mr Voser was a key member of EDB’s International Advisory Council. He was also a member of the Swiss Federal Auditor Oversight Authority from 2006 to 2010.</p>
+<p>In 2011, he was awarded the title of Dato Seri Laila Jasa by His Majesty the Sultan of Brunei. In 2021, he was awarded the title of Honorary Citizen by the Singapore Government.</p>
+<p>Mr Voser has a degree in Business Administration from the University of Applied Sciences, Zurich, Switzerland.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item8 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="content-temasek-corporate-en-about-us-our-board-jcr:content-par-gridtabs_copy-item8">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Geoffrey%20Wong_500x500.jpg" alt="Geoffrey Wong_500x500" title="Geoffrey Wong_500x500" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>Geoffrey WONG EK </h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Geoffrey WONG</b></p>
+<p>Mr Geoffrey Wong has served on the Board of Temasek Holdings as a Director since May 2024.<b><br>
+</b></p>
+<p>Mr Wong has managed funds for some of the world’s largest sovereign investors and pension funds for over three decades. He spent the last 26 years with UBS Global Asset Management (UBS) where he retired in May 2023 as the Head of Emerging Markets and Asia-Pacific. In this role, he oversaw Emerging Markets and Asia-Pacific equity investments for the firm’s clients worldwide and was responsible for UBS’ Emerging Markets and Asia teams, located in Chicago, Hong Kong, Zurich, Tokyo and Singapore. He was also formerly the CEO of UBS Asset Management Singapore.</p>
+<p>Mr Wong was named Fund Manager of the year for Emerging Markets by Citywire in 2016-17 and has been named by Citywire as one of the top portfolio managers of the last 10 years. He was also conferred the Chairman’s Award in 2006, given to approximately a dozen out of UBS AG’s then 70,000 employees each year, for outstanding achievements.</p>
+<p>Prior to joining UBS in 1997, Mr Wong co-founded an Asian investment management firm, where he served as Director of Investment Management, responsible for asset allocation and stock selection for global and regional institutional portfolios from 1989 to 1997. He began his career in engineering, working on quantitative modelling of semiconductor devices and conducting research on artificial intelligence.</p>
+<p>Mr Wong currently serves on the boards of Xora Innovation and the Singapore Symphonia Group and the board of trustees of Mindef's Savers-Premium fund. He had previously served on the board of Singapore Exchange, the combined stock and futures exchange of Singapore, between 2003 and 2006. He is also a member of the Singapore Society of Financial Analysts and a Fellow of the Institute of Banking and Finance.</p>
+<p>Mr Wong holds an MBA from MIT Sloan School of Management and Master's and Bachelor's degrees in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item11 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="content-temasek-corporate-en-about-us-our-board-jcr:content-par-gridtabs_copy-item11">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Jaime%20ZOBEL%20de%20AYALA_500x500_approved.jpg" alt="Jaime ZOBEL de AYALA_500x500_approved" title="Jaime ZOBEL de AYALA_500x500_approved" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3><span style="font-weight: normal;">Jaime Augusto ZOBEL de AYALA</span></h3>
+<h4>Director</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Jaime Augusto ZOBEL de AYALA</b></p>
+<p>Mr Jaime Augusto Zobel de Ayala has served on the Board of Temasek Holdings as a Director since January 2022.<b><br>
+</b></p>
+<p>He is the Chairman of Ayala Corporation, one of the largest business groups in the Philippines with interests in real estate, banking, telecommunications, energy and infrastructure, industrial and technologies, healthcare, and education. He most recently served as CEO of Ayala Corporation from 2006 to 2021. Throughout his tenure, the Ayala Corporation has achieved renown for its unwavering commitment to upholding environmental, social, and governance (ESG) standards, positioning it as a paragon of professionalism with a steadfast emphasis on sustainability and exemplary governance practices.</p>
+<p>Outside the Ayala group, Mr Zobel de Ayala is a member of various business and socio-civic organisations in the Philippines and abroad, including the JP Morgan International Council and LeapFrog Investment’s Global Leadership Council. He currently sits on the Board of Endeavor Philippines and is member of the International Advisory Council of the Singapore Management University. He was a former Trustee of the Board of the Singapore Management University.</p>
+<p>He is a three-time Philippine Presidential Awardee: Medal of Merit (2009), Legion of Honor (2010), and Order of Mabini (2015). In 2017, he was recognised as a United Nations Sustainable Development Goals (SDG) Pioneer for his work in sustainable business strategy and operations. The first SDG Pioneer from the Philippines, he was one of 10 individuals recognized for championing sustainability and the pursuit of the 17 SDGs in business.</p>
+<p>Mr Zobel de Ayala received his Bachelor of Arts in Economics (with honors) from Harvard University in 1981 and an MBA from the Harvard Graduate School of Business Administration in 1987.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+        <div class="element">
+            <div class="item7 item">
+
+
+
+<div class="link-grid-item ">
+    <div class="link-grid-thumbnail-wrapper" id="bod-dilhan-pillay-sandrasegara">
+        <div class="link-grid-thumbnail-inner">
+
+        <div class="link-grid-thumbnail">
+        <img src="https://localhost:8087/content/dam/temasek-corporate/about-us/our-leadership/board-directors/Dilhan%20Pillay%20SANDRASEGARA_500x500_approved1.jpg" alt="Dilhan Pillay SANDRASEGARA_500x500_approved1" title="Dilhan Pillay SANDRASEGARA_500x500_approved1" class="cq-dd-image">
+        </div>
+
+        <div class="link-grid-thumbnail-label">
+            <h3>Dilhan Pillay SANDRASEGARA</h3>
+<h4>Executive Director and<br />
+Chief Executive Officer</h4>
+
+        </div>
+
+        </div>
+    </div>
+
+
+        <div class="link-grid-content">
+            <div class="par parsys griditemparsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><b>Dilhan Pillay SANDRASEGARA</b></p>
+<p>Mr Dilhan Pillay Sandrasegara was appointed Executive Director and Chief Executive Officer of Temasek Holdings in October 2021 and is concurrently the Chief Executive Officer of Temasek International, a position he has held since 2019.<b><br>
+</b></p>
+<p>Mr Sandrasegara has held various leadership roles in Temasek, including Head of the Investment, Portfolio Management and Enterprise Development Groups. He has also led the firm’s market investment teams in Singapore and the Americas.</p>
+<p>Prior to Temasek, Mr Sandrasegara was the Managing Partner of Wong Partnership LLP. He has over 20 years of legal experience, with a focus on mergers and acquisitions, corporate governance and corporate law.</p>
+<p>Mr Sandrasegara serves on the Boards of Climate Impact X, Verified Impact Exchange Holdings, and the Peterson Institute for International Economics. He is also Vice Chair of FCLTGlobal, and a member of the Private Sector Investment Lab of the World Bank Group, the Integrity Council for the Voluntary Carbon Market, the Financial Centre Advisory Panel of the Monetary Authority of Singapore, the Singapore Judicial Service Commission, Singapore Research, Innovation and Enterprise Council, and the Future Economy Advisory Panel at the Ministry of Trade &amp; Industry. He formerly served on the Boards of the National Research Foundation, Enterprise Singapore and was a member of the National Jobs Council.</p>
+<p>Mr Sandrasegara holds a Bachelor of Laws from the National University of Singapore and a Master of Law from the University of Cambridge.</p>
+</div>
+
+
+</div>
+
+</div>
+
+        </div>
+
+</div>
+</div>
+
+        </div>
+
+    </div>
+</div>
+
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/functional/gridtabs/clientlibs.min.js"></script>
+</div>
+
+</div>
+
+	
+	
+<div class="back-to-top-wrapper">
+    <div class="back-to-top">
+        <div class="inner">Top</div>
+    </div>
+</div>
+
+</div>
+
+
+<div class="related-content">
+<div class="relatedpar parsys"><div class="text parbase section">
+
+
+
+<div class="default"><h3>Related Content</h3>
+</div>
+
+
+</div>
+<div class="parsys_column column_2"><div class="parsys_column column_2-c0"><div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="our-leadership">
+            <div class="teaser-image-wrapper">
+<img src="https://localhost:8087/content/dam/temasek-corporate/related-links-images-640-320/who-we-are/related-handshake.jpg" alt="related-handshake" title="related-handshake" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">Our Leadership</h2>
+
+
+            <p>Our Board provides overall guidance to our management.</p>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+</div><div class="parsys_column column_2-c1"><div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="corporate-governance">
+            <div class="teaser-image-wrapper">
+<img src="https://localhost:8087/content/dam/temasek-corporate/related-links-images-640-320/who-we-are/related-corporate-governance.jpg" alt="related-corporate-governance" title="related-corporate-governance" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">Corporate Governance</h2>
+
+
+            <p>We espouse the principles of good governance.</p>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+</div></div><div style="clear:both"></div>
+</div>
+
+</div>
+
+
+
+<footer>
+    <div id="footer-icons">
+        <div class="dynamic-logo-footer dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+        <a id="footer-sitemap-button" href="https://localhost:8087/en/site-services/sitemap">
+            Site Map
+        </a>
+    </div>
+    
+    <div id="footer-highlights">
+<div class="footer-links-1 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="https://localhost:8087/en/about-us">About Us</a></h3>
+        <ul>
+            <li><a href="temasek-at-a-glance">Temasek at a Glance</a></li>
+            <li><a href="our-leadership">Our Leadership</a></li>
+            <li><a href="our-purpose-charter-values">Our Purpose, Charter &amp; Values</a></li>
+            <li><a href="../our-community">Our Community</a></li>
+            <li><a href="careers">Careers</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-2 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../our-investments">Our Investments</a></h3>
+        <ul>
+            <li><a href="../our-investments/investment-approach">Investment Approach​</a></li>
+            <li><a href="../our-investments/our-portfolio">Our Portfolio</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-3 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../our-financials">Our Financials</a></h3>
+        <ul>
+            <li><a href="../our-financials/portfolio-performance">Portfolio Performance</a></li>
+            <li><a href="../our-financials/credit-profile">Credit Profile</a></li>
+            <li><a href="../our-financials/library/temasek-review">Temasek Review</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-4 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../sustainability">Sustainability</a></h3>
+        <ul>
+            <li><a href="../sustainability/sustainability-at-the-core">Sustainability at the Core</a></li>
+            <li><a href="../sustainability/key-highlights">Key Highlights</a></li>
+            <li><a href="../sustainability/sustainability-strategy">Sustainability Strategy </a></li>
+            <li><a href="../sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a></li>
+            <li><a href="../sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a></li>
+            <li><a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-5 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3>Stay Informed</h3>
+        <ul>
+            <li><a href="https://localhost:8087/en/news-and-resources">News &amp; Resources</a></li>
+            <li><a href="../contact-us">Contact Us</a></li>
+            <li><a href="our-board#news-insights-overlay">Subscribe to our Newsletter</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-social">
+<div class="social-links-footer social-links">
+    <div class="social-links social-links-default">
+    <nav class="social-links">
+        <a class="social-links-facebook" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_FB.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.facebook.com/temasekholdings"></a>
+
+
+        <a class="social-links-instagram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://instagram.com/temasekseen/"></a>
+
+
+        <a class="social-links-linkedin" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_LinkedIn.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://sg.linkedin.com/company/temasek-holdings"></a>
+
+
+        <a class="social-links-telegram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Telegram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://t.me/temasekholdings"></a>
+
+
+        <a class="social-links-tiktok" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+
+
+        <a class="social-links-wechat" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="our-board#"></a>
+
+        <div class="wechat-code">
+            <img src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>
+            <p class="instructions">WeChat ID: temasek_digital</p>
+            <button></button>
+        </div>
+
+
+        <a class="social-links-whatsapp" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Whatsapp.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p"></a>
+
+
+        <a class="social-links-twitter" target="_blank" style="background-size: 100%; background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_X.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://x.com/Temasek"></a>
+
+
+        <a class="social-links-youtube" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.youtube.com/user/TemasekDigital"></a>
+
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-details">
+<div class="footer-links-system footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <ul>
+            <li><a href="https://localhost:8087/en/site-services/terms">Terms Of Use</a></li>
+            <li><a href="https://localhost:8087/en/site-services/accessibility">Accessibility</a></li>
+            <li><a href="../site-services/cookies.html">Privacy &amp; Cookies Notice</a></li>
+            <li><a href="faqs">FAQs</a></li>
+            <li><a href="https://localhost:8087/en/site-services/nictemasek">.Temasek</a></li>
+            <li><a href="https://vdp.temasek.com.sg/p/Policy">Report a Vulnerability</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+        <div class="copyright">
+             <div class="copyright fixed-copyright">
+    <div class="fixed-copyright fixed-copyright-default">
+
+
+
+</div>
+
+</div>
+
+             
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+<div class="news-insights-overly">
+        <div class="news-insights-wrapper">
+            <button class="close"></button>
+            <div class="news-insights-wrapper--content">
+                <form action="https://temasek.us13.list-manage.com/subscribe/post?u=c6e8202786088f7032c129736&amp;amp;id=c091adf093" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                    <div class="news-insights-wrapper--form-row news-insights-wrapper--header">
+                        <div class="circle-blend-mode one"></div>
+                        <div class="circle-blend-mode one purple-mask"></div>
+                        <h2>Subscribe to our newsletter</h2>
+                        
+                            <p>Stay up to date with our latest news, insights and stories </p>
+                        
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-FULLNAME" name="FULLNAME" type="text" placeholder="Your name" />
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-EMAIL" name="EMAIL" type="text" placeholder="Your email address" />
+                    </div>
+
+                    <div class="news-insights-wrapper--form-row">
+                        <label>Which type(s) of content are you interested in?</label>
+                        <div class="news-insights-wrapper--dropdown">
+                            Select a type of content
+                        </div>
+                        <ul id="interestedList" class="news-insights-wrapper--check-box-list">
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-1" name="group[17329][2]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-1">50th Anniversary</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-2" name="group[17329][4]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-2">Values & People</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-3" name="group[17329][8]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-3">Community</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-4" name="group[17329][16]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-4">Future & Trends</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-5" name="group[17329][32]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-5">Sustainability </label>
+                                    </li>
+                            
+                        </ul>
+                        <ul class="selected-list"></ul>
+                    </div>
+                    <div class="news-insights-wrapper--form-row consent-field">
+                        <span><input id="consent" name="consent" type="checkbox" /></span>
+                        <label for="consent">
+                            
+                                <p>By checking this box, I agree to the <a href="../site-services/cookies.html" target="_blank">privacy terms</a> on the website.</p>
+
+                            
+                        </label>
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <div class="g-recaptcha" data-sitekey="6LeBlDoUAAAAAHZs9IEvYhZLBK-TrLHmmAGH2A_v"></div>
+                    </div>
+                    <div id="errorInterestedMsg" class="error-msg">
+                        Please select Stories you are interested in.
+                    </div>
+                    <div id="errorConsentMsg" class="error-msg">
+                        Please give us your consent.
+                    </div>
+                    <div id="errorCaptchaMsg" class="error-msg">
+                        Please confirm that you are not a robot.
+                    </div>
+                    <div class="news-insights-wrapper--button">
+                        <button type="submit">SUBSCRIBE</button>
+                    </div>
+                </form>
+            </div>
+            <div class="news-insights-wrapper--background">
+                <!-- <div class="circle one"></div> -->
+                <div class="circle two"></div>
+                <div class="circle three"></div>
+                <div class="circle four"></div>
+                <div class="circle-with-border one"></div>
+                <div class="circle-with-border two"></div>
+            </div>
+        </div>
+    </div>        
+        <div class="measurement"> </div>
+    </div>
+
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1754896371409820&amp;ev=PageView&amp;noscript=1"/></noscript>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif"/></noscript>
+</body>
+</html>

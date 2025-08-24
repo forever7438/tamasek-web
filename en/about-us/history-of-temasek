@@ -1,0 +1,2174 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Temasek was birthed as a pragmatic experiment of 20th century Singapore, as this modern city-state was defining its place in the world, after a tumultuous beginning. " />
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="msapplication-square150x150logo" content="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/mstile-150x150.png">
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="apple-mobile-web-app-title" content="Temasek Corporate">
+    <meta name="application-name" content="Temasek Corporate">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/android-chrome-192x192.png">
+    <link rel="mask-icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/blacksunplc.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/is.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/imagesloaded.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/timeago.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.js"></script>
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.js"></script>
+
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/datepicker.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
+<link rel="stylesheet" href="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
+    <title>History of Temasek - Temasek</title>
+
+    <meta property="og:title" content="History of Temasek" />
+    <meta property="og:site_name" content="Temasek Corporate Website English" />
+    <meta property="og:url" content="https://localhost:8087/en/about-us/history-of-temasek" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Temasek was birthed as a pragmatic experiment of 20th century Singapore, as this modern city-state was defining its place in the world, after a tumultuous beginning. " />
+    <meta property="og:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_History.jpg.downloadasset.jpg" />
+     <meta property="og:locale" content="en" />
+
+    <meta name="twitter:title" content="History of Temasek" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@testing_16nov" />
+    <meta name="twitter:url" content="https://localhost:8087/en/about-us/history-of-temasek" />
+    <meta name="twitter:description" content="Temasek was birthed as a pragmatic experiment of 20th century Singapore, as this modern city-state was defining its place in the world, after a tumultuous beginning. " />
+    <meta name="twitter:creator" content="@testing_16nov" />
+    <meta name="twitter:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_History.jpg.downloadasset.jpg" />
+
+    <meta property="fb:app_id" content="1086722744796138" />
+
+
+             <script type="text/javascript" id="lightning_bolt" src="https://cdn-akamai.mookie1.com/LB/LightningBolt.js"></script>
+
+             <script type="text/javascript"> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWJ89FF');  </script>
+
+             <script type="text/javascript">
+_linkedin_partner_id = "778555";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=778555&fmt=gif"/>
+</noscript>
+
+             <script type="text/javascript" src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.js"></script>
+
+             <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10111606'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+             <meta name="facebook-domain-verification" content="ty2ud0xlzerdvns539qke6837meywt" />
+
+             
+<script data-obct type="text/javascript">
+  /** DO NOT MODIFY THIS CODE**/
+  !function(_window, _document) {
+    var OB_ADV_ID = '0093ea5a97ad7890bfed25d9ca4251ba35';
+    if (_window.obApi) {
+      var toArray = function(object) {
+        return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];
+      };
+      _window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));
+      return;
+    }
+    var api = _window.obApi = function() {
+      api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);
+    };
+    api.version = '1.1';
+    api.loaded = true;
+    api.marketerId = OB_ADV_ID;
+    api.queue = [];
+    var tag = _document.createElement('script');
+    tag.async = true;
+    tag.src = '//amplify.outbrain.com/cp/obtp.js';
+    tag.type = 'text/javascript';
+    var script = _document.getElementsByTagName('script')[0];
+    script.parentNode.insertBefore(tag, script);
+  }(window, document);
+
+  obApi('track', 'PAGE_VIEW');
+</script>
+
+
+
+
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="f7wcvaaxgjlkw2ej2y7q-f-6e073d161-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"365029","ak.ai":parseInt("246172",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"cb160841","ak.r":44715,"ak.a2":e,"ak.m":"ksd","ak.n":"essl","ak.bpcip":"47.236.42.0","ak.cport":45626,"ak.gh":"23.44.214.6","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1753863743","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==498fpdZ3PLLoCqJUcUXcPvbXaRNfQ0zleJME5m0dA/n52DTwd/Kfx8CVX935QPDNWcxkZyRPXUPIiw98EnaXMJj5sT5JfLStv/6Q3UZWXnDWWN1jlLy9VW8gvEaptdrGhUU4uxhboplON3LFDl8J+lgIu6+UdLUTklkbhfVssfnCiD1NYQe5pK7ENXToSIJRxGp9xg7ijNYiLvAYHuUbxbf0WFXsBAyUYDW1HLypLFVxMLc/xXty8GAhj9b8ssrBCpbkMxcyYoAIaeMMi7r//tt3zyFRR7gZO9poT7JMXBICGuLs7HT1XYuHpKQc6oA4EsEDrt+9lvCGQW53a8WPZKau2J8D/2dF7dsXstDvJy8erXuDmIvMR5I+9+vzdGKfxTmWPC6MS81VIT43UCODNWnjNig64IY7sHPRR5GAkTc=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+
+<body class="content-page en about-us history-of-temasek  " data-language-name="en">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWJ89FF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="cookiewarning">
+
+<div id="cookie-control-ui" class="hidden"
+    data-cookieconsentstorageid="temasek-corporate-en-cookieConsentStorageID">
+
+    <div class="cookie-outer-wrapper">
+        <div class="cookie-inner-wrapper">
+            
+            <div class="cookie-content">
+                <div class="cookie-body">
+                    
+                    
+                        <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them see our <a></a><a target="_blank"></a><a href="../site-services/cookies.html">cookie policy</a>.</p>
+
+                    
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn-accept">ACCEPT</button>
+                    <button class="btn-decline"> DECLINE</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/cookiewarning/clientlibs.min.js"></script>
+
+</div>
+
+
+
+    <div class="page">
+
+
+
+    <header class="fixed-header">
+
+
+
+        <div class="top">
+            <div class="logo-wrapper">
+<div class="dynamic-logo-header dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+            </div>
+
+            <div class="topmenu-wrapper">
+                <div class="link-1 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="https://www.temasekreview.com.sg/" class='temasek-review'>
+        Temasek Review
+        <img src="history-of-temasek" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-t50 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="t50" class='link-t50'>
+        Commemorating 50 Years
+        <img src="https://localhost:8087/content/dam/temasek-corporate/T50/t50-logo-only.svg" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-2 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="../news-and-resources/stories" class=''>
+        Stories
+        <img src="history-of-temasek" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-3 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="../contact-us" class='link-contact-us'>
+        Contact Us
+        <img src="history-of-temasek" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="search-button"></div>
+                <div class="language-switch parbase">
+    <ul class="language-switch-links">
+
+        <li class="selected">
+            <a href="history-of-temasek" rel="canonical">
+                En
+            </a>
+        </li>
+        <li>
+            <a href="https://localhost:8087/zh/about-us/history-of-temasek" rel="alternative" hreflang="zh">
+                中文
+            </a>
+        </li>
+    </ul>
+
+    <div class="cookie-enable">
+        <button class="cookie-enable-open"></button>
+        <div class="cookie-enable-content hidden">
+            <button class="cookie-enable-close"></button>
+            <div class="cookie-enable-body">
+                <div class="cookie-on">
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="history-of-temasek#">Turn cookies on</a>. </p>
+<p><a></a>View our <a href="../site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
+
+                </div>
+
+                <div class="cookie-off hidden">
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="history-of-temasek#">Turn cookies off.</a> </p>
+<p><a></a>View our <a href="../site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
+
+                </div>
+            </div>
+        </div>
+    </div></div>
+
+            </div>
+        </div>
+
+        <div class="bottom">
+
+            <!-- <div class="search-button"></div> -->
+
+<div class="mega-menu">
+    <div class="mega-menu mega-menu-default">
+    <nav class="mega-menu-navigation">
+        <ul class="mega-menu-navigation-list">
+            <li><a class="mega-menu-navigation-link about-us active has-menu-item" href="https://localhost:8087/en/about-us" data-section="mega-menu-about-us">About Us</a></li>
+            <li><a class="mega-menu-navigation-link our-financials  has-menu-item" href="../our-financials" data-section="mega-menu-our-financials">Our Financials</a></li>
+            <li><a class="mega-menu-navigation-link our-investments  has-menu-item" href="../our-investments" data-section="mega-menu-our-investments">Our Investments</a></li>
+            <li><a class="mega-menu-navigation-link sustainability  has-menu-item" href="../sustainability" data-section="mega-menu-sustainability">Sustainability</a></li>
+            <li><a class="mega-menu-navigation-link our-community  has-menu-item" href="../our-community" data-section="mega-menu-our-community">Our Community</a></li>
+            <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item" href="https://localhost:8087/en/news-and-resources" data-section="mega-menu-news-and-resources">News &amp; Resources</a></li>
+        </ul>
+    </nav>
+    <div class="mega-menu-items-wrapper" style="display:none">
+        <div id="mega-menu-about-us" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item40 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>About Us</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>A global investment company delivering sustainable returns&nbsp;over the long term<br>
+</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="t50">Commemorating 50 Years</a>
+                    </li>
+                    <li>
+                        <a class="" href="temasek-at-a-glance">Temasek at a Glance</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-t2030-strategy">Our T2030 Strategy</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-board">Our Board</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-leadership">Our Leadership</a>
+                    </li>
+                    <li>
+                        <a class="" href="our-global-advisory-network">Our Global Advisory Network</a>
+                    </li>
+                    <li>
+                        <a class="" href="corporate-governance">Corporate Governance</a>
+                    </li>
+                    <li>
+                        <a class="" href="managing-risks">Managing Risks</a>
+                    </li>
+                    <li>
+                        <a class="" href="history-of-temasek">History of Temasek</a>
+                    </li>
+                    <li>
+                        <a class="" href="careers">Careers</a>
+                    </li>
+                    <li>
+                        <a class="" href="faqs">FAQs</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys"><div class="teaser parbase section">
+</div>
+
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-financials" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item30 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Financials</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Building a disciplined institution</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/portfolio-performance">Portfolio Performance</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/wealth-added">Wealth Added</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/group-financials">Group Financials</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/cost-discipline">Cost Discipline​</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/credit-profile">Credit Profile</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/temasek-bonds">Temasek Bonds</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+                            
+                            </li>
+                            <li><a class="has-fourth-level-links" href="../our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+                            
+                                    <ul class="mega-menu-item-fourth-level-links " style="display:none">
+
+                                        <li><a class="" href="../our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+
+                                       </li>
+                                    </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../our-financials/library">Investor Library</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../our-financials/library/temasek-review">Temasek Review</a>
+                            
+                            </li>
+                            <li><a class="" href="../our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-investments" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item41 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Investments</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Investing with tomorrow in mind</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../our-investments/investment-approach">Investment Approach​</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+                    </li>
+                    <li>
+                        <a class="" href="../our-investments/our-portfolio">Our Portfolio</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-sustainability" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item38 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Sustainability</h2>
+            <div class="menuitempar-left parsys"><div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/en/index/jcr:content/mega-menu/mega-menu/mega_menu_item38/menuitempar-left/image" class="img-width-100 default image" data-tooltip-content="null">
+
+        <a href="https://localhost:8087/content/temasek-corporate/en/news-and-resources/resources#sustainability-report.html"><a href="../news-and-resources/resources#sustainability-report"><img src="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-download-thumbnail-900x600.png" alt="darker-sus-download-thumbnail-900x600.png" title="darker-sus-download-thumbnail-900x600.png" class="cq-dd-image"></a></a>
+
+    </figure></div>
+
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p><a href="../news-and-resources/resources#sustainability-report">Sustainability Report 2025</a></p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../sustainability/key-highlights">Key Highlights</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/sustainability-strategy">Sustainability Strategy </a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../sustainability/sustainability-governance"> Sustainability Governance</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+                            
+                            </li>
+                            <li><a class="" href="../sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/people">People</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys"><div class="teaser parbase section">
+</div>
+
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-community" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item5 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>Our Community</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Building communities, uplifting lives</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/en/our-community/our-approach">Our Approach</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/en/our-community/knowledge-centres">Knowledge Centres</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/en/our-community/staff-volunteers">Staff Volunteers</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/en/our-community/temasek-foundations">Temasek Foundation</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="https://localhost:8087/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" target="_blank" href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+                            
+                            </li>
+                            <li><a class="" href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-news-and-resources" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item39 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>News &amp; Resources</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>Stay informed and keep abreast of the latest news</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/en/news-and-resources/news-room">Newsroom</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/en/news-and-resources/scam-alerts">Scam Alerts</a>
+                    </li>
+                    <li>
+                        <a class="" href="../news-and-resources/stories">Stories</a>
+                    </li>
+                    <li>
+                        <a class="" href="../news-and-resources/resources">Resources</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+    </div></div>
+
+    <script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mega-menu/clientlibs.min.js"></script>
+
+</div>
+
+
+            <div class="search-row">
+                <div class="searchfield">
+                    <div class="search-field-outer">
+<div class="search-field">
+    <div class="search-field search-field-default">
+    <div class="search-field-wrapper">
+        <form action="https://localhost:8087/en/site-services/search-results" class="search-field-form" data-style="/etc/designs/temasek-corporate/jcr:content/content-page/search-field/search-field" data-pagepath="/content/temasek-corporate/en/about-us/history-of-temasek">
+            <input autocomplete="off" class="search-field-input" name="q" id="q" type="text" placeholder="What are you searching for?" />
+            <input class="search-field-button" type="submit" />
+        </form>
+    </div></div>
+
+</div>
+
+                    </div>
+                </div>
+                <div class="close-search-row"><span>Close</span></div>
+            </div>
+
+<div class="mobile-menu">
+
+
+
+
+<div class="mobilemenu-trigger">
+    <span></span>
+</div>
+<div class="mobilemenu-wrapper" data-backlabel="Back">
+    <div class="mobilemenu menu">
+        <ul class="dl-menu">
+            
+
+
+        <li>
+            <a href="../index">Home</a>
+
+        </li>
+
+        <li class="opened">
+            <a href="https://localhost:8087/en/about-us">About Us</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="t50">Commemorating 50 Years</a>
+
+        </li>
+
+        <li>
+            <a href="temasek-at-a-glance">Temasek at a Glance</a>
+
+        </li>
+
+        <li>
+            <a href="our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+
+        </li>
+
+        <li>
+            <a href="our-t2030-strategy">Our T2030 Strategy</a>
+
+        </li>
+
+        <li>
+            <a href="our-board">Our Board</a>
+
+        </li>
+
+        <li>
+            <a href="our-leadership">Our Leadership</a>
+
+        </li>
+
+        <li>
+            <a href="our-global-advisory-network">Our Global Advisory Network</a>
+
+        </li>
+
+        <li>
+            <a href="corporate-governance">Corporate Governance</a>
+
+        </li>
+
+        <li>
+            <a href="managing-risks">Managing Risks</a>
+
+        </li>
+
+        <li class="current">
+            <a href="history-of-temasek">History of Temasek</a>
+
+        </li>
+
+        <li>
+            <a href="careers">Careers</a>
+
+        </li>
+
+        <li>
+            <a href="faqs">FAQs</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials">Our Financials</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/portfolio-performance">Portfolio Performance</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/wealth-added">Wealth Added</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials">Group Financials</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/cost-discipline">Cost Discipline​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/credit-profile">Credit Profile</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds">Temasek Bonds</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+
+            <ul class="dl-submenu level-2">
+                
+
+
+        <li>
+            <a href="../our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/library">Investor Library</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../our-financials/library/temasek-review">Temasek Review</a>
+
+        </li>
+
+        <li>
+            <a href="../our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-investments">Our Investments</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../our-investments/investment-approach">Investment Approach​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+
+        </li>
+
+        <li>
+            <a href="../our-investments/our-portfolio">Our Portfolio</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability">Sustainability</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/key-highlights">Key Highlights</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy">Sustainability Strategy </a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-governance"> Sustainability Governance</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/people">People</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../our-community">Our Community</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/our-approach">Our Approach</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/knowledge-centres">Knowledge Centres</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/staff-volunteers">Staff Volunteers</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-foundations">Temasek Foundation</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/news-and-resources">News &amp; Resources</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/en/news-and-resources/news-room">Newsroom</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/en/news-and-resources/scam-alerts">Scam Alerts</a>
+
+        </li>
+
+        <li>
+            <a href="../news-and-resources/stories">Stories</a>
+
+        </li>
+
+        <li>
+            <a href="../news-and-resources/resources">Resources</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+        </ul>
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mobile-menu/clientlibs.min.js"></script>
+</div>
+
+
+        </div>
+    </header>
+
+
+<div class="sectionbanner image-video-banner">
+
+
+<div class='image-video-banner-wrapper ' data-mobile-image-path="/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png"
+       data-desktop-image-path="/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png"
+    
+            style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/about-us/banner-images/about-us-banner.png');"
+    >
+
+    <div class="banner-content-wrapper">
+
+        
+
+        <div class="image-video-banner-wrapper-detail">
+            <p class="image-video-banner-title">History of Temasek</p>
+        
+        
+        </div>
+    </div>
+    
+</div>
+
+
+
+</div>
+
+<div class="breadcrumbs parbase">
+
+<div class="footer-links breadcrumbs-default">
+    <nav class="breadcrumbs">
+        <a href="../index">Home</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <a href="https://localhost:8087/en/about-us">About Us</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <span class="breadbrumbs-current">History of Temasek</span>
+    </nav>
+</div>
+</div>
+
+
+<div class="main-wrapper">
+	<div class="share share-left sharelink">
+		<div class="socialshare">
+
+<div class="socialshare-content">
+   <div class="share-links-menu">
+      <ul class="socialshare-list share-links">
+      
+         <li class="socialshare-item__linkedin linkedin"><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://localhost:8087/en/about-us/history-of-temasek" aria-label="Share this page on LinkedIn" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__facebook facebook"><a href="http://www.facebook.com/sharer.php?u=https://localhost:8087/en/about-us/history-of-temasek" aria-label="Share this page on Facebook" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__twitter twitter"><a href="https://twitter.com/intent/tweet?url=https://localhost:8087/en/about-us/history-of-temasek" aria-label="Share this page on Twitter" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__email email"><a href="mailto:?subject=History of Temasek&body=https://localhost:8087/en/about-us/history-of-temasek" aria-label="Share this page on Email" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__whatsapp whatsapp"><a href="https://wa.me/?text=https://localhost:8087/en/about-us/history-of-temasek" aria-label="Share this page on Whatsapp" target="_blank"><i></i></a></li>
+      
+      </ul>
+   </div>
+ </div>
+
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/includes/socialshare/clientlibs.min.js"></script>
+
+</div>
+
+		<div class="share-inner">
+			<a class="tool-share"></a>
+			<div class="share-links-menu">
+				<div class="addthis_inline_share_toolbox"
+					data-title="History of Temasek"
+					data-url="https://localhost:8087/en/about-us/history-of-temasek.html"
+					
+					
+						data-description="Temasek was birthed as a pragmatic experiment of 20th century Singapore, as this modern city-state was defining its place in the world, after a tumultuous beginning. "
+					
+
+					
+						data-media="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_History.jpg.downloadasset.jpg"
+					
+					>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="title"><h1>History of Temasek</h1>
+</div>
+
+	<div class="par parsys"><div class="text parbase section">
+
+
+
+<div class="intro"><p>We are a global investment company rooted in&nbsp;Singapore, investing to create value for&nbsp;generations to come.</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>Said to have been derived from the Malay word <i>tasik</i>, which means “lake” or “sea”, references to Temasek have been made in a plethora of literature: <i>Tumasik</i>, a vassal of the Majapahit empire in a 1365 Javanese court poem; <i>淡马锡</i>, or Tan-Ma-Si, as Wang Dayuan described in a 1349 account of his travels; and <i>Sach-ma-tich</i>, as Vietnamese records noted the arrival of Malay envoys in 1330.</p>
+<p>Temasek was birthed as a pragmatic experiment of 20<sup>th</sup> century Singapore, as this modern city-state was defining its place in the world, after a tumultuous beginning. Founded in 1974, Temasek took over an eclectic collection of some <a href="history-of-temasek#portfolio">35 companies</a> from the <span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;Under the Singapore Minister for Finance (Incorporation) Act 1959, the Minister for Finance is a body corporate.\n​&quot;}">Singapore Minister for Finance</span>. Temasek today has grown and branched across the globe, committed to its role as a generational investor, doing things today always with tomorrow in mind.</p>
+<p>&nbsp;</p>
+</div>
+
+
+</div>
+<div class="accordion parbase section">
+
+
+    <div id="accordion-299884" class="accordion-wrapper default"
+        data-start="0"
+        data-mode="separate">
+
+        <div class="expand-control-wrapper">
+            <a class="expand-all-accordion" href="history-of-temasek">Expand All</a>
+            <a class="collapse-all-accordion" style="display:none;" href="history-of-temasek">Collapse All</a>
+        </div>
+
+        <div class="accordionparsys parsys"><div class="accordion-item parbase section">
+        <div id="accordion-299884-founding" class="accordion-item-wrapper" data-alias="founding">
+            <a href="history-of-temasek#founding" class="accordion-item-link">
+                <h3 class="accordion-item-header">The Founding of Temasek</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>Three years after an unexpected independence in 1965, Britain announced it would accelerate the withdrawal of their armed forces from Singapore, to complete by 1971. This would dent Singapore’s economy, with a commensurate impact on the workforce, as a fifth of economic activity was attributed to the British forces and its industries.</p>
+<p>Retraining soon followed apace to prepare the working population for the new jobs being created through massive industrialisation and investment promotion. British naval military dockyards and electronic workshops were converted and transformed into commercial start-ups and civilian businesses. The amalgamation of these efforts saw Singapore deliver a robust 12% economic growth in 1971, averting a potential economic disaster.</p>
+<p>In 1972, Dr Goh Keng Swee, the first Finance Minister of Singapore (1959-1965, 1967-1970), who was then Minister for Defence, said:</p>
+<p style="margin-left: 40.0px;"><i>“One of the tragic illusions that many countries of the Third World entertain is the notion that politicians and civil servants can successfully perform entrepreneurial functions. It is curious that, in the face of overwhelming evidence to the contrary, the belief persists.”</i></p>
+<p>Having converted the military and naval bases left behind by the British forces to commercial use, and then finding itself the owner of a variety of these new businesses, the Government felt that it was necessary to separate governance from business management. This stemmed from the principle that it was not the business of government to operate the businesses it owned. At Temasek’s 40<sup>th</sup> anniversary in 2014, then President of Singapore, Dr Tony Tan Keng Yam, noted in his address:</p>
+<p style="margin-left: 40.0px;"><i>“It was clearly not the business of government to run such enterprises, and so Temasek was set up to take over and own some 35 companies and miscellaneous investments”.</i></p>
+<p>It was this principle that led to the establishment of Temasek to own and manage the assets previously held by the Singapore Government. The objective of a commercial investment company, owning and managing these assets, was to allow the government to focus on its core role of policymaking and regulations. Further, Temasek was designated a <span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;Fifth Schedule entities under the Singapore Constitution include GIC Private Limited, which manages the reserves of the Singapore Government; the CPF Board; the Monetary Authority of Singapore; Housing and Development Board; and Jurong Town Corporation.\n​&quot;}">Fifth Schedule Entity</span> with the constitutional responsibility to safeguard its past reserves, underscoring its role as a steward. The creation of Temasek therefore served to separate the regulatory and policymaking function of the Government from its role as a shareholder of commercial entities. &nbsp;</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-299884-definition" class="accordion-item-wrapper" data-alias="definition">
+            <a href="history-of-temasek#definition" class="accordion-item-link">
+                <h3 class="accordion-item-header">Defining Us</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>Defining Temasek by comparing to others is not easy; there are no others that have the same breadth of Temasek’s activities, even today.</p>
+<p>While the Government is the sole equity shareholder of Temasek, Temasek owns its assets outright as a commercial investment company, governed by the Singapore Companies Act, rather than being a fund manager for the Government.</p>
+<p>&nbsp;</p>
+</div>
+
+
+</div>
+<div class="quotation parbase section">
+    <figure class="quotation grey-bg">
+
+        <blockquote class="quotation-text"><p><i>The objective behind Temasek’s establishment was to distance the Government, with its role as policymaker, from its role as shareholder.</i></p>
+</blockquote>
+        <figcaption class="quotation-attribution">
+        	<p>S R Nathan<br>
+Former President of Singapore (1999-2011)<br>
+Speech at Temasek’s 30<sup>th</sup>&nbsp;Anniversary Dinner, 2 November 2004</p>
+
+        </figcaption>
+    </figure>
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>Temasek declares dividends annually to its shareholder. Despite being an <span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;An Exempt Private Company (EPC) is one which has a maximum of 20 shareholders, where none of the shareholders can be corporations. An EPC can also be a company which is wholly owned by the Government, in which the Minister has gazetted as being an EPC.\n​&quot;}">exempt private company</span>, Temasek has voluntarily published its annual financial and performance report, the&nbsp;<i>Temasek Review,</i>&nbsp;since 2004. And Temasek pays taxes, just like any other company, in Singapore and anywhere else in the world they fall due.<br>
+</p>
+<p>As a commercial company, Temasek is governed by an independent board, the majority of whom are non-executive and independent private sector business leaders. &nbsp;</p>
+<p>The evolution of Temasek towards full responsibility for the appointment and renewal of Board and management personnel was articulated by former Temasek Chairman Mr S Dhanabalan (Chairman of Temasek Holdings, 1996-2013), at Temasek’s 39<sup>th</sup>&nbsp;anniversary dinner, where he shared:</p>
+<p style="margin-left: 40.0px;"><i>“Entrusting of the board and management to conduct business and to plan and execute succession without political interference makes us unique in the community of state-owned enterprises.”</i></p>
+<p>Speaking at Temasek’s 40<sup>th</sup>&nbsp;anniversary dinner a year later, then President of Singapore, Dr Tony Tan Keng Yam, further remarked that it was this clear distinction of role that allowed Singapore firms to be “<i>free of political patronage and compete on level playing field</i>”.</p>
+<p>The relationship between Temasek and its sole shareholder, the Minister for Finance, is&nbsp;similar to the relationship between Temasek and its portfolio companies. Neither the President nor the Government is involved in Temasek’s investment or other business and corporate decisions, except in relation to the President’s role in the protection of Temasek’s reserves. Similarly, Temasek does not direct the business decisions and operations of its portfolio companies. Instead, Temasek expects the boards and management of these companies to take responsibility and accountability for their actions and activities. For instance, Singapore Airlines (SIA) makes independent decisions on the selection of its aircraft and routes based on commercial considerations, without any direction from Temasek. As former Temasek Chairman Mr S Dhanabalan shared back in 2010, “When Singtel wants to buy the second largest telecoms company, they did not consult Temasek. When SIA bought billions of dollars of planes, we only read about this in the newspaper.”</p>
+<p>Over the years, successive Finance Ministers, from Mr Hon Sui Sen (Finance Minister 1970-1983) to Mr Heng Swee Keat (Finance Minister 2015-2021) have also publicly affirmed&nbsp;that Temasek is expected to be run with commercial discipline.&nbsp;During an interview in 2019, Mr Heng Swee Keat expressed, as then-Finance Minister, that he had never interfered with the investment decisions of Temasek and GIC. He added that according to the Constitution, the Finance Minister is responsible to Parliament for the performance of these firms, and he in turn holds these firms accountable.</p>
+<p>This same perspective is shared in Mr Heng’s responses to various parliamentary questions. For example, in a written response to a parliamentary question in 2016, Mr Heng shared:</p>
+<p style="margin-left: 40.0px;"><i>“The individual investments of GIC and Temasek are the responsibility of their respective management teams, while the Government monitors the performance of their overall portfolio. GIC and Temasek operate on a purely commercial basis in order to maximise long term risk-adjusted returns, and the individual investment decisions are fully independent of any Government interference or influence. This is an important governance principle that we seek to maintain.”</i></p>
+<p>In his address at Temasek’s 39<sup>th</sup>&nbsp;anniversary dinner in 2013, then Deputy Prime Minister of Singapore and Minister for Finance, Mr&nbsp;Tharman Shanmugaratnam, explained:</p>
+<p style="margin-left: 40.0px;"><i>“On its part, the Government’s approach is to ensure that people of sound character and judgment are appointed to the [Temasek] Board, to guide Temasek’s management and its strategies… This alignment in our thinking on the governance of Temasek remains an important advantage for the future. The Government holds the Board accountable for Temasek’s performance over time. Temasek has the flexibility to seize opportunities when they arise, and to take calculated risks aimed at growing the value of its portfolio over the long term.”</i></p>
+<p style="margin-left: 40.0px;">&nbsp;</p>
+</div>
+
+
+</div>
+<div class="quotation parbase section">
+    <figure class="quotation grey-bg">
+
+        <blockquote class="quotation-text"><p><i>We are careful not to have any role or influence in Temasek’s investment decisions. That has been the right approach for Temasek, which makes commercial assessments without having to second guess whether the Government would agree to its decisions.</i></p>
+</blockquote>
+        <figcaption class="quotation-attribution">
+        	<p>Tharman Shanmugaratnam<br>
+Former Deputy Prime Minister of Singapore (2011-2019)<br>
+Former Finance Minister (2007-2015)<br>
+Speech at Temasek’s 39<sup>th</sup>&nbsp;Anniversary Dinner, 6 August 2013</p>
+
+        </figcaption>
+    </figure>
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>Over the years, Temasek has set its priorities with oversight from the Temasek Board, and independent of government direction. Its portfolio was shaped, and reshaped, alongside the risks and opportunities that present from time to time, and the longer term trends that were developing globally.</p>
+<p>&nbsp;</p>
+</div>
+
+
+</div>
+<div class="quotation parbase section">
+    <figure class="quotation grey-bg">
+
+        <blockquote class="quotation-text"><p><i>Our shareholder does not direct our investment, divestment or other business decisions. That freedom from shareholder or political interference is something we guard, but we don’t take for granted.</i></p>
+</blockquote>
+        <figcaption class="quotation-attribution">
+        	<p>Lim Boon Heng<br>
+Chairman, Temasek<br>
+Speech at the 4<sup>th</sup>&nbsp;Annual Sovereign Wealth Fund Conference, 5 December 2013</p>
+
+        </figcaption>
+    </figure>
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>Opportunities delivering good returns were sought, expanding Temasek’s presence from Singapore into Asia, Europe and the US. The rigour of commercial discipline was applied to those investments that were not performing; some were closed, others were sold as part of a wider industry consolidation.<br>
+</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-299884-investor" class="accordion-item-wrapper" data-alias="investor">
+            <a href="history-of-temasek#investor" class="accordion-item-link">
+                <h3 class="accordion-item-header">As A Generational Investor</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>Temasek was born with tomorrow clearly in the minds of its founding fathers. The core reasoning was delivering a better world through its investments, safeguarding its reputation and ethos of good governance, and building upon the inheritance for future generations.&nbsp;These principles remain as relevant today as they did&nbsp;in the early&nbsp;1970s, and&nbsp;are manifested in Temasek’s&nbsp;Charter; it articulates Temasek’s role&nbsp;as a global&nbsp;investment company rooted in Singapore,&nbsp;which&nbsp;operates on commercial principles to deliver&nbsp;sustainable returns over the long term.</p>
+</div>
+
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+<div class="accordion-item parbase section">
+        <div id="accordion-299884-portfolio" class="accordion-item-wrapper" data-alias="portfolio">
+            <a href="history-of-temasek#portfolio" class="accordion-item-link">
+                <h3 class="accordion-item-header">Our Portfolio at Inception</h3>
+                
+                <span class="accordion-item-icon"> </span>
+            </a>
+            <div class="accordion-item-content-wrapper">
+                <div class="accordion-item-content-inner">
+<div class="parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p>Temasek was incorporated in 1974 to commercially manage an initial portfolio valued at S$354 million, acquired from the <span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;Under the Singapore Minister for Finance (Incorporation) Act 1959, the Minister for Finance is a body corporate.​&quot;}">Singapore Minister for Finance</span>. This decision enabled the Singapore Government to focus on its core role of policymaking and regulations.<br>
+</p>
+<p>Of the 35 companies in our initial portfolio, 10 still remain, directly or indirectly, as shown in bold and in <span style="color: rgb(0,107,166);"><b>blue</b></span>. Others have been divested or liquidated, as we invested, divested and grew our portfolio to <span style="border-bottom: 1px dotted; color: #15af9b;" class="tooltip" title="As at 31 March 2025." data-content="{&quot;description&quot;:&quot;As at 31 March 2025.&quot;}">S$434 billion</span>.</p>
+<ol>
+<li>Acma Electrical Industries Ltd</li>
+<li>Cerebos Singapore Pte Ltd</li>
+<li>Chemical Industries (F.E.) Ltd</li>
+<span style="color: rgb(0,107,166);"><b><li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now part of DBS Group Holdings Ltd.​&quot;}">Development Bank of Singapore Ltd</span></li>
+</b></span><li>Instant Asia Cultural Shows Pte Ltd</li>
+<li>Insurance Corporation of Singapore Ltd</li>
+<li>International Development and Construction Corporation</li>
+<li>Intraco Ltd</li>
+<span style="color: rgb(0,107,166);"><b><li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now part of Mandai Park Holdings Pte. Ltd.​&quot;}">Jurong Bird Park Pte Ltd</span></li>
+</b></span><li>Jurong Holdings Pte Ltd</li>
+<span style="color: rgb(0,107,166);"><b><li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now part of Seatrium Limited.​&quot;}">Jurong Shipbuilders Pte Ltd</span></li>
+<li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now part of Seatrium Limited.​&quot;}">Jurong Shipyard Pte Ltd</span></li>
+<li><span style="border-bottom: 1.0px dotted;" class="tooltip" title="Now known as Keppel Ltd." data-content="{&quot;description&quot;:&quot;Now known as Keppel Ltd.&quot;}">Keppel Shipyard Ltd</span></li>
+</b></span><li>Metrawood Pte Ltd</li>
+<li>Ming Court Hotel Ltd</li>
+<li>Mitsubishi Singapore Heavy Industries Pte Ltd</li>
+<li>National Engineering Services Pte Ltd</li>
+<li>National Grain Elevator Ltd</li>
+<li><span style="border-bottom: 1.0px dotted; color: rgb(21,175,155);" class="tooltip" data-content="{&quot;description&quot;:&quot;Formed to produce iron and steel in Singapore, NatSteel (formerly known as National Iron &amp; Steel Mills Ltd) was first divested in 1986. Temasek reinvested in NatSteel in 1998 in support of their investment in Brazil. Temasek divested NatSteel in 2002 when NatSteel initiated a sale process.​&quot;}">National Iron &amp; Steel Mills Ltd</span></li>
+<li>Neptune Orient Lines Ltd</li>
+<span style="color: rgb(0,107,166);"><b><li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now known as Primary Industries Pte Ltd which is part of SATS Ltd.​&quot;}">Primary Industries Enterprises Pte Ltd</span></li>
+<li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now part of Sembcorp Industries Ltd.​&quot;}">Sembawang Holdings Pte Ltd</span></li>
+<li>Singapore Airlines Limited</li>
+<li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now known as KrisShop Pte. Ltd. which is part of Singapore Airlines Limited.​&quot;}">Singapore Airport Duty-Free Emporium (Private) Limited</span></li>
+</b></span><li>Singapore Cable Car Pte Ltd</li>
+<li>Singapore General Aviation Service Company Pte Ltd</li>
+<li>Singapore National Printers Pte Ltd</li>
+<li>Singapore Offshore Petroleum Services Pte Ltd</li>
+<li>Singapore Textiles Industries Ltd</li>
+<li>Singapore Treasury Building Pte Ltd</li>
+<span style="color: rgb(0,107,166);"><b><li><span style="border-bottom: 1.0px dotted;" class="tooltip" data-content="{&quot;description&quot;:&quot;Now part of Mandai Park Holdings Pte. Ltd.​&quot;}">Singapore Zoological Gardens</span></li>
+</b></span><li>Singmanex Pte Ltd</li>
+<li>Sugar Industry of Singapore Ltd</li>
+<li>United Industrial Corporation Ltd</li>
+<li>United Vegetable Oil Pte Ltd</li>
+</ol>
+<p>&nbsp;</p>
+</div>
+
+
+</div>
+<div class="separator parbase section">
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/separator/clientlibs.min.css" type="text/css">
+
+
+<div class="separator-wrapper medium">
+</div>    </div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+</div>
+
+</div>
+
+    </div>
+
+    <script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/functional/accordion/clientlibs.min.js"></script>
+
+</div>
+
+</div>
+
+	
+	
+<div class="back-to-top-wrapper">
+    <div class="back-to-top">
+        <div class="inner">Top</div>
+    </div>
+</div>
+
+</div>
+
+
+<div class="related-content">
+<div class="relatedpar parsys"><div class="text parbase section">
+
+
+
+<div class="default"><h3>Related Content</h3>
+</div>
+
+
+</div>
+<div class="parsys_column column_2"><div class="parsys_column column_2-c0"><div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="our-purpose-charter-values">
+            <div class="teaser-image-wrapper">
+<img src="https://localhost:8087/content/dam/temasek-corporate/about-us/teasers/Our%20Purpose_Charter-620x280.jpg" alt="Our Purpose_Charter-620x280" title="Our Purpose_Charter-620x280" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">Our purpose, charter, and Values</h2>
+
+
+            <p>Our Temasek Charter sets out who we are and what we do.</p>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+</div><div class="parsys_column column_2-c1"><div class="teaser parbase section">
+    <div class="teaser-wrapper default " 
+    	 data-mobile-image-path=''>
+        <div class="teaser-wrapper-content">
+
+
+        <a href="our-leadership">
+            <div class="teaser-image-wrapper">
+<img src="https://localhost:8087/content/dam/temasek-corporate/related-links-images-640-320/who-we-are/related-handshake.jpg" alt="related-handshake" title="related-handshake" class="cq-dd-image teaser-image">
+            </div>
+
+
+            <h2 class="teaser-title">Our Leadership</h2>
+
+
+            <p>Our Board provides overall guidance to our management.</p>
+
+
+            <span class="teaser-call-wrapper">
+
+                <span class="teaser-indicator"></span>
+            </span>
+        </a>
+        </div>
+    </div>
+</div>
+</div></div><div style="clear:both"></div>
+</div>
+
+</div>
+
+
+
+<footer>
+    <div id="footer-icons">
+        <div class="dynamic-logo-footer dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+        <a id="footer-sitemap-button" href="https://localhost:8087/en/site-services/sitemap">
+            Site Map
+        </a>
+    </div>
+    
+    <div id="footer-highlights">
+<div class="footer-links-1 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="https://localhost:8087/en/about-us">About Us</a></h3>
+        <ul>
+            <li><a href="temasek-at-a-glance">Temasek at a Glance</a></li>
+            <li><a href="our-leadership">Our Leadership</a></li>
+            <li><a href="our-purpose-charter-values">Our Purpose, Charter &amp; Values</a></li>
+            <li><a href="../our-community">Our Community</a></li>
+            <li><a href="careers">Careers</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-2 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../our-investments">Our Investments</a></h3>
+        <ul>
+            <li><a href="../our-investments/investment-approach">Investment Approach​</a></li>
+            <li><a href="../our-investments/our-portfolio">Our Portfolio</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-3 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../our-financials">Our Financials</a></h3>
+        <ul>
+            <li><a href="../our-financials/portfolio-performance">Portfolio Performance</a></li>
+            <li><a href="../our-financials/credit-profile">Credit Profile</a></li>
+            <li><a href="../our-financials/library/temasek-review">Temasek Review</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-4 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../sustainability">Sustainability</a></h3>
+        <ul>
+            <li><a href="../sustainability/sustainability-at-the-core">Sustainability at the Core</a></li>
+            <li><a href="../sustainability/key-highlights">Key Highlights</a></li>
+            <li><a href="../sustainability/sustainability-strategy">Sustainability Strategy </a></li>
+            <li><a href="../sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a></li>
+            <li><a href="../sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a></li>
+            <li><a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-5 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3>Stay Informed</h3>
+        <ul>
+            <li><a href="https://localhost:8087/en/news-and-resources">News &amp; Resources</a></li>
+            <li><a href="../contact-us">Contact Us</a></li>
+            <li><a href="history-of-temasek#news-insights-overlay">Subscribe to our Newsletter</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-social">
+<div class="social-links-footer social-links">
+    <div class="social-links social-links-default">
+    <nav class="social-links">
+        <a class="social-links-facebook" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_FB.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.facebook.com/temasekholdings"></a>
+
+
+        <a class="social-links-instagram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://instagram.com/temasekseen/"></a>
+
+
+        <a class="social-links-linkedin" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_LinkedIn.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://sg.linkedin.com/company/temasek-holdings"></a>
+
+
+        <a class="social-links-telegram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Telegram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://t.me/temasekholdings"></a>
+
+
+        <a class="social-links-tiktok" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+
+
+        <a class="social-links-wechat" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="history-of-temasek#"></a>
+
+        <div class="wechat-code">
+            <img src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>
+            <p class="instructions">WeChat ID: temasek_digital</p>
+            <button></button>
+        </div>
+
+
+        <a class="social-links-whatsapp" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Whatsapp.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p"></a>
+
+
+        <a class="social-links-twitter" target="_blank" style="background-size: 100%; background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_X.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://x.com/Temasek"></a>
+
+
+        <a class="social-links-youtube" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.youtube.com/user/TemasekDigital"></a>
+
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-details">
+<div class="footer-links-system footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <ul>
+            <li><a href="https://localhost:8087/en/site-services/terms">Terms Of Use</a></li>
+            <li><a href="https://localhost:8087/en/site-services/accessibility">Accessibility</a></li>
+            <li><a href="../site-services/cookies.html">Privacy &amp; Cookies Notice</a></li>
+            <li><a href="faqs">FAQs</a></li>
+            <li><a href="https://localhost:8087/en/site-services/nictemasek">.Temasek</a></li>
+            <li><a href="https://vdp.temasek.com.sg/p/Policy">Report a Vulnerability</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+        <div class="copyright">
+             <div class="copyright fixed-copyright">
+    <div class="fixed-copyright fixed-copyright-default">
+
+
+
+</div>
+
+</div>
+
+             
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+<div class="news-insights-overly">
+        <div class="news-insights-wrapper">
+            <button class="close"></button>
+            <div class="news-insights-wrapper--content">
+                <form action="https://temasek.us13.list-manage.com/subscribe/post?u=c6e8202786088f7032c129736&amp;amp;id=c091adf093" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                    <div class="news-insights-wrapper--form-row news-insights-wrapper--header">
+                        <div class="circle-blend-mode one"></div>
+                        <div class="circle-blend-mode one purple-mask"></div>
+                        <h2>Subscribe to our newsletter</h2>
+                        
+                            <p>Stay up to date with our latest news, insights and stories </p>
+                        
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-FULLNAME" name="FULLNAME" type="text" placeholder="Your name" />
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-EMAIL" name="EMAIL" type="text" placeholder="Your email address" />
+                    </div>
+
+                    <div class="news-insights-wrapper--form-row">
+                        <label>Which type(s) of content are you interested in?</label>
+                        <div class="news-insights-wrapper--dropdown">
+                            Select a type of content
+                        </div>
+                        <ul id="interestedList" class="news-insights-wrapper--check-box-list">
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-1" name="group[17329][2]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-1">50th Anniversary</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-2" name="group[17329][4]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-2">Values & People</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-3" name="group[17329][8]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-3">Community</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-4" name="group[17329][16]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-4">Future & Trends</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-5" name="group[17329][32]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-5">Sustainability </label>
+                                    </li>
+                            
+                        </ul>
+                        <ul class="selected-list"></ul>
+                    </div>
+                    <div class="news-insights-wrapper--form-row consent-field">
+                        <span><input id="consent" name="consent" type="checkbox" /></span>
+                        <label for="consent">
+                            
+                                <p>By checking this box, I agree to the <a href="../site-services/cookies.html" target="_blank">privacy terms</a> on the website.</p>
+
+                            
+                        </label>
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <div class="g-recaptcha" data-sitekey="6LeBlDoUAAAAAHZs9IEvYhZLBK-TrLHmmAGH2A_v"></div>
+                    </div>
+                    <div id="errorInterestedMsg" class="error-msg">
+                        Please select Stories you are interested in.
+                    </div>
+                    <div id="errorConsentMsg" class="error-msg">
+                        Please give us your consent.
+                    </div>
+                    <div id="errorCaptchaMsg" class="error-msg">
+                        Please confirm that you are not a robot.
+                    </div>
+                    <div class="news-insights-wrapper--button">
+                        <button type="submit">SUBSCRIBE</button>
+                    </div>
+                </form>
+            </div>
+            <div class="news-insights-wrapper--background">
+                <!-- <div class="circle one"></div> -->
+                <div class="circle two"></div>
+                <div class="circle three"></div>
+                <div class="circle four"></div>
+                <div class="circle-with-border one"></div>
+                <div class="circle-with-border two"></div>
+            </div>
+        </div>
+    </div>        
+        <div class="measurement"> </div>
+    </div>
+
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1754896371409820&amp;ev=PageView&amp;noscript=1"/></noscript>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif"/></noscript>
+</body>
+</html>

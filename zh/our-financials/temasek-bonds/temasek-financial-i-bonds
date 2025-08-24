@@ -1,0 +1,3598 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh">
+
+<head>
+    <meta charset="UTF-8" />
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="msapplication-square150x150logo" content="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/mstile-150x150.png">
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="apple-mobile-web-app-title" content="Temasek Corporate">
+    <meta name="application-name" content="Temasek Corporate">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/android-chrome-192x192.png">
+    <link rel="mask-icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.css" type="text/css">
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/blacksunplc.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/is.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/imagesloaded.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/timeago.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/content-page/clientlibs.min.js"></script>
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/search-page/clientlibs.min.js"></script>
+
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/datepicker.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
+<script src="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
+<link rel="stylesheet" href="https://localhost:8087/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
+    <title>淡马锡金融(I)债券 - Temasek</title>
+
+    <meta property="og:title" content="淡马锡金融(I)债券" />
+    <meta property="og:site_name" content="Temasek Corporate Website 中文" />
+    <meta property="og:url" content="https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Logo.jpg.downloadasset.jpg" />
+     <meta property="og:locale" content="zh" />
+
+    <meta name="twitter:title" content="淡马锡金融(I)债券" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@testing_16nov" />
+    <meta name="twitter:url" content="https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds" />
+    <meta name="twitter:description" content=" " />
+    <meta name="twitter:creator" content="@testing_16nov" />
+    <meta name="twitter:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Logo.jpg.downloadasset.jpg" />
+
+    <meta property="fb:app_id" content="1086722744796138" />
+
+
+             <script type="text/javascript" id="lightning_bolt" src="https://cdn-akamai.mookie1.com/LB/LightningBolt.js"></script>
+
+             <script type="text/javascript" src="https://script.crazyegg.com/pages/scripts/0085/0358.js" async="async"></script>
+
+             <script type="text/javascript"> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWJ89FF');  </script>
+
+             <script type="text/javascript" src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.js"></script>
+
+
+
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"NQCMA-N2CQ2-TJUK2-ALF2H-LUGB3",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="f7wcvaaxgjlkw2ejytda-f-fc2fbf7d3-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"365029","ak.ai":parseInt("246172",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c9038aa5","ak.r":44715,"ak.a2":e,"ak.m":"ksd","ak.n":"essl","ak.bpcip":"47.236.42.0","ak.cport":59698,"ak.gh":"23.44.214.6","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1753859270","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==gipFuYIxcQV09wIclhl3jtX1T4ezGaEDhIYx/oS/bJq7y/NulIbMsrDUrtuVdxil08A8UyVaXU5KeSDH6T2zLYMzd5L2XUyCtNM4x6n1pqS5aZqok3lTw+5YZ7aNvgoGcCWKLzQTP7gJhXFqzd4m3EtMtljx7t18hzqvw9jwyGSpZXwcAtbbuJoYaqeBeeIh4FUui35POrkqIlBjsJs0eCP1f4zS2Kjn4Q+O7F98lzZAGwp/cw3dN0unVvGcv0EgyfkJmR1dwA1BZDMsQhbicS0ux98WQ7FuM7g2oNyiS0y3G57yp9A8yzHo7j20Ltg35irfXY+QQNkk9tT/7xNeqx09AyFi+zEhqoyIgCIYifnu6/lN/fju/t0jbDXXfcMFgE84u4tTMF5a3FAtTlxMuM4gebU7gKeYjHz6k+964NY=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+
+
+<body class="temasek-financial-i-bonds content-zh-page our-financials zh  " data-language-name="zh">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWJ89FF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="cookiewarning">
+
+<div id="cookie-control-ui" class="hidden"
+    data-cookieconsentstorageid="temasek-corporate-zh-cookieConsentStorageID">
+
+    <div class="cookie-outer-wrapper">
+        <div class="cookie-inner-wrapper">
+            
+            <div class="cookie-content">
+                <div class="cookie-body">
+                    
+                    
+                        <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。浏览我们的<a href="https://www.temasekreview.com.sg/zh/privacy.html">隐私声明</a>，了解更多信息。</p>
+
+                    
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn-accept">同意</button>
+                    <button class="btn-decline"> 拒绝</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/cookiewarning/clientlibs.min.js"></script>
+
+</div>
+
+
+
+    <div class="page">
+
+
+
+    <header class="fixed-header">
+
+
+
+        <div class="top">
+            <div class="logo-wrapper">
+<div class="dynamic-logo-header dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+            </div>
+
+            <div class="topmenu-wrapper">
+                <div class="link-1 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+</div>
+
+</div>
+
+                <div class="link-t50 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+</div>
+
+</div>
+
+                <div class="link-2 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="https://www.temasekreview.com.sg/zh/" class='temasek-review'>
+        淡马锡年度报告
+        <img src="temasek-financial-i-bonds" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="link-3 fixed-link">
+
+    <div class="fixed-link fixed-link-default">
+    <a href="../../contact-us" class='link-contact-us'>
+        联络我们
+        <img src="temasek-financial-i-bonds" alt="">
+    </a>
+
+</div>
+
+</div>
+
+                <div class="search-button"></div>
+                <div class="language-switch parbase">
+    <ul class="language-switch-links">
+
+        <li>
+            <a href="https://localhost:8087/en/our-financials/temasek-bonds/temasek-financial-i-bonds" rel="alternative" hreflang="en">
+                En
+            </a>
+        </li>
+        <li class="selected">
+            <a href="temasek-financial-i-bonds" rel="canonical">
+                中文
+            </a>
+        </li>
+    </ul>
+
+    <div class="cookie-enable">
+        <button class="cookie-enable-open"></button>
+        <div class="cookie-enable-content hidden">
+            <button class="cookie-enable-close"></button>
+            <div class="cookie-enable-body">
+                <div class="cookie-on">
+                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a></a><a href="temasek-financial-i-bonds#">开启cookies</a><a href="../../site-services/cookies" target="_blank"></a></p>
+<p><a></a>浏览我们的<a href="https://www.temasekreview.com.sg/zh/privacy.html">隐私声明</a>，了解更多信息。</p>
+
+                </div>
+
+                <div class="cookie-off hidden">
+                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a href="temasek-financial-i-bonds#">关闭</a><a>cookies</a></p>
+<p><a></a>浏览我们的<a href="../../site-services/cookies" target="_blank">隐私声明</a>，了解更多信息。</p>
+<p> </p>
+
+                </div>
+            </div>
+        </div>
+    </div></div>
+
+            </div>
+        </div>
+
+        <div class="bottom">
+
+            <!-- <div class="search-button"></div> -->
+
+<div class="mega-menu">
+    <div class="mega-menu mega-menu-default">
+    <nav class="mega-menu-navigation">
+        <ul class="mega-menu-navigation-list">
+            <li><a class="mega-menu-navigation-link about-us  has-menu-item" href="../../about-us" data-section="mega-menu-about-us">关于淡马锡</a></li>
+            <li><a class="mega-menu-navigation-link our-financials active has-menu-item" href="../../our-financials" data-section="mega-menu-our-financials">我们的财务状况</a></li>
+            <li><a class="mega-menu-navigation-link our-investments  has-menu-item" href="../../our-investments" data-section="mega-menu-our-investments">我们的投资</a></li>
+            <li><a class="mega-menu-navigation-link sustainability  has-menu-item" href="../../sustainability" data-section="mega-menu-sustainability">可持续发展</a></li>
+            <li><a class="mega-menu-navigation-link our-community  has-menu-item" href="../../our-community" data-section="mega-menu-our-community">对社群的承诺</a></li>
+            <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item" href="https://localhost:8087/zh/news-and-resources" data-section="mega-menu-news-and-resources">新闻与资料</a></li>
+        </ul>
+    </nav>
+    <div class="mega-menu-items-wrapper" style="display:none">
+        <div id="mega-menu-about-us" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item33 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>关于淡马锡</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>创造长期可持续回报的国际投资公司</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../../about-us/temasek-at-a-glance">淡马锡概览</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/our-t2030-strategy">淡马锡2030战略 </a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/our-board">董事会</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/our-leadership">领导团队</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/our-global-advisory-network">淡马锡全球顾问网络</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/corporate-governance">公司治理</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/managing-risks">管理风险</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/history-of-temasek">淡马锡的历史</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/careers">职业机会</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../about-us/faqs">常见问题</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-financials" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item28 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>我们的财务状况</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>构建自律的机构</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../ins-outs-temasek">淡马锡的收支</a>
+                    </li>
+                    <li>
+                        <a class="" href="../portfolio-performance">投资组合表现</a>
+                    </li>
+                    <li>
+                        <a class="" href="../wealth-added">财富增值</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../group-financials">集团财务</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../group-financials/adopting-international-accounting-standards">采用国际会计准则</a>
+                            
+                            </li>
+                            <li><a class="" href="../group-financials/group-financial-summary">集团财务概要</a>
+                            
+                            </li>
+                            <li><a class="" href="../group-financials/statement-by-auditors">审计师声明</a>
+                            
+                            </li>
+                            <li><a class="" href="../group-financials/statement-by-directors">董事声明</a>
+                            
+                            </li>
+                            <li><a class="" href="../group-financials/group-income-statements">集团损益表</a>
+                            
+                            </li>
+                            <li><a class="" href="../group-financials/group-balance-sheets">集团资产负债表</a>
+                            
+                            </li>
+                            <li><a class="" href="../group-financials/group-cash-flow-statements">集团现金流量表</a>
+                            
+                            </li>
+                            <li><a class="" href="../group-financials/-group-statements-of-changes-in-equity"> 集团股东权益变动表</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../cost-discipline">成本自律</a>
+                    </li>
+                    <li>
+                        <a class="" href="../credit-profile">信用概览</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../temasek-bonds">淡马锡债券概览</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="considerations-before-investing-in-bonds">投资债券前的考量</a>
+                            
+                            </li>
+                            <li><a class="" href="overview-of-temasek-bonds">淡马锡债券概览</a>
+                            
+                            </li>
+                            <li><a class="" href="temasek-financial-i-bonds">淡马锡金融(I)债券</a>
+                            
+                            </li>
+                            <li><a class="" href="temasek-financial-iv-bonds">淡马锡金融(IV)债券</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="" href="../euro-commercial-paper">欧元商业票据项目</a>
+                    </li>
+                    <li>
+                        <a class="has-third-level-links" href="../library">投资者资料库</a>
+                        <ul class="mega-menu-item-third-level-links" style="display:none">
+
+                            <li><a class="" href="../library/temasek-review">淡马锡年度报告</a>
+                            
+                            </li>
+                            <li><a class="" href="../library/credit-rating-reports">信贷评级报告</a>
+                            
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-investments" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item31 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>我们的投资</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>放眼未来的投资</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../../our-investments/investment-approach">投资理念和策略</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../our-investments/20-year-returns-outlook">20年期投资组合回报展望</a>
+                    </li>
+                    <li>
+                        <a class="" href="../../our-investments/our-portfolio">我们的投资组合</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-sustainability" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item30 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>可持续发展</h2>
+            <div class="menuitempar-left parsys"><div class="image parbase section">
+
+
+
+    <figure id="cq-image-jsp-/content/temasek-corporate/zh/index/jcr:content/mega-menu/mega-menu/mega_menu_item30/menuitempar-left/image_copy" class="img-width-100 default image" data-tooltip-content="null">
+
+        <a href="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/Temasek-Sustainability-Report-2025.pdf"><a href="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/Temasek-Sustainability-Report-2025.pdf"><img src="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/ZH-darker-sus-download-thumbnail-900x600.png" alt=" " title=" " class="cq-dd-image"></a></a>
+
+    </figure></div>
+
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p><a href="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/Temasek-Sustainability-Report-2025.pdf">2025可持续发展报告（英文版)</a></p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="../../sustainability/key-highlights">主要进展</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/sustainability/sustainability-at-the-core">以可持续发展为核心理念</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-our-community" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item5 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>对社群的承诺</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>建设社群，帮扶生命</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/our-community/our-approach">我们的回馈方式</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/our-community/knowledge-centres">知识中心</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/our-community/staff-volunteers">员工义工</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/zh/our-community/temasek-foundations">淡马锡基金会</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+        <div id="mega-menu-news-and-resources" class="mega-menu-item-wrapper" style="display:none">
+
+        <div class="mega_menu_item32 mega-menu-item">
+            <div class="mega-menu-item-summary-wrapper">
+                <h2>新闻与资料</h2>
+            <div class="menuitempar-left parsys">
+</div>
+
+            <div class="intro text parbase">
+
+
+
+<div class="default"><p>了解最新动态</p>
+</div>
+
+
+</div>
+
+
+            </div>
+
+            <div class="mega-menu-wrapper">
+
+
+
+            <div class="mega-menu-item-links-wrapper">
+                <ul class="mega-menu-item-links">
+
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/news-and-resources/news-room">新闻消息</a>
+                    </li>
+                    <li>
+                        <a class="" target="_blank" href="https://localhost:8087/zh/news-and-resources/scam-alerts">诈骗警示通知</a>
+                    </li>
+                    <li>
+                        <a class="" href="https://localhost:8087/zh/news-and-resources/resources">资料</a>
+                    </li>
+                </ul>
+            </div></div>
+
+            <div class="mega-menu-item-content-wrapper">
+<div class="menuitempar parsys">
+</div>
+
+            </div>
+            <span class="mega-menu-item-close"></span></div>
+
+
+        </div>
+
+    </div></div>
+
+    <script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mega-menu/clientlibs.min.js"></script>
+
+</div>
+
+
+            <div class="search-row">
+                <div class="searchfield">
+                    <div class="search-field-outer">
+<div class="search-field">
+    <div class="search-field search-field-default">
+    <div class="search-field-wrapper">
+        <form action="https://localhost:8087/zh/site-services/search-results" class="search-field-form" data-style="/etc/designs/temasek-corporate/jcr:content/content-page/search-field/search-field" data-pagepath="/content/temasek-corporate/zh/our-financials/temasek-bonds/temasek-financial-i-bonds">
+            <input autocomplete="off" class="search-field-input" name="q" id="q" type="text" placeholder="搜索" />
+            <input class="search-field-button" type="submit" />
+        </form>
+    </div></div>
+
+</div>
+
+                    </div>
+                </div>
+                <div class="close-search-row"><span>Close</span></div>
+            </div>
+
+<div class="mobile-menu">
+
+
+
+
+<div class="mobilemenu-trigger">
+    <span></span>
+</div>
+<div class="mobilemenu-wrapper" data-backlabel="返回">
+    <div class="mobilemenu menu">
+        <ul class="dl-menu">
+            
+
+
+        <li>
+            <a href="../../index.html">首页</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us">关于淡马锡</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../../about-us/temasek-at-a-glance">淡马锡概览</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/our-t2030-strategy">淡马锡2030战略 </a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/our-board">董事会</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/our-leadership">领导团队</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/our-global-advisory-network">淡马锡全球顾问网络</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/corporate-governance">公司治理</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/managing-risks">管理风险</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/history-of-temasek">淡马锡的历史</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/careers">职业机会</a>
+
+        </li>
+
+        <li>
+            <a href="../../about-us/faqs">常见问题</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li class="opened">
+            <a href="../../our-financials">我们的财务状况</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../ins-outs-temasek">淡马锡的收支</a>
+
+        </li>
+
+        <li>
+            <a href="../portfolio-performance">投资组合表现</a>
+
+        </li>
+
+        <li>
+            <a href="../wealth-added">财富增值</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials">集团财务</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../group-financials/adopting-international-accounting-standards">采用国际会计准则</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials/group-financial-summary">集团财务概要</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials/statement-by-auditors">审计师声明</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials/statement-by-directors">董事声明</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials/group-income-statements">集团损益表</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials/group-balance-sheets">集团资产负债表</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials/group-cash-flow-statements">集团现金流量表</a>
+
+        </li>
+
+        <li>
+            <a href="../group-financials/-group-statements-of-changes-in-equity"> 集团股东权益变动表</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../cost-discipline">成本自律</a>
+
+        </li>
+
+        <li>
+            <a href="../credit-profile">信用概览</a>
+
+        </li>
+
+        <li class="opened">
+            <a href="../temasek-bonds">淡马锡债券概览</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="considerations-before-investing-in-bonds">投资债券前的考量</a>
+
+        </li>
+
+        <li>
+            <a href="overview-of-temasek-bonds">淡马锡债券概览</a>
+
+        </li>
+
+        <li class="current">
+            <a href="temasek-financial-i-bonds">淡马锡金融(I)债券</a>
+
+        </li>
+
+        <li>
+            <a href="temasek-financial-iv-bonds">淡马锡金融(IV)债券</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../euro-commercial-paper">欧元商业票据项目</a>
+
+        </li>
+
+        <li>
+            <a href="../library">投资者资料库</a>
+
+            <ul class="dl-submenu level-1">
+                
+
+
+        <li>
+            <a href="../library/temasek-review">淡马锡年度报告</a>
+
+        </li>
+
+        <li>
+            <a href="../library/credit-rating-reports">信贷评级报告</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../../our-investments">我们的投资</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../../our-investments/investment-approach">投资理念和策略</a>
+
+        </li>
+
+        <li>
+            <a href="../../our-investments/20-year-returns-outlook">20年期投资组合回报展望</a>
+
+        </li>
+
+        <li>
+            <a href="../../our-investments/our-portfolio">我们的投资组合</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../../sustainability">可持续发展</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="../../sustainability/key-highlights">主要进展</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/sustainability/sustainability-at-the-core">以可持续发展为核心理念</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="../../our-community">对社群的承诺</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/our-approach">我们的回馈方式</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/knowledge-centres">知识中心</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/staff-volunteers">员工义工</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/our-community/temasek-foundations">淡马锡基金会</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources">新闻与资料</a>
+
+            <ul class="dl-submenu level-0">
+                
+
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources/news-room">新闻消息</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources/scam-alerts">诈骗警示通知</a>
+
+        </li>
+
+        <li>
+            <a href="https://localhost:8087/zh/news-and-resources/resources">资料</a>
+
+        </li>
+
+
+            </ul>
+
+        </li>
+
+
+        </ul>
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.css" type="text/css">
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.js"></script>
+<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mobile-menu/clientlibs.min.js"></script>
+</div>
+
+
+        </div>
+    </header>
+
+
+<div class="sectionbanner image-video-banner">
+
+
+<div class='image-video-banner-wrapper ' data-mobile-image-path="/content/dam/temasek-corporate/our-financials/banner-images/our-financials-mobile.jpg"
+       data-desktop-image-path="/content/dam/temasek-corporate/our-financials/banner-images/our-financials.jpg"
+    
+            style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/our-financials/banner-images/our-financials.jpg');"
+    >
+
+    <div class="banner-content-wrapper">
+
+        
+
+        <div class="image-video-banner-wrapper-detail">
+            <p class="image-video-banner-title">淡马锡金融(I)债券</p>
+        
+        
+        </div>
+    </div>
+    
+</div>
+
+
+
+</div>
+
+<div class="breadcrumbs parbase">
+
+<div class="footer-links breadcrumbs-default">
+    <nav class="breadcrumbs">
+        <a href="../../index.html">首页</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <a href="../../our-financials">我们的财务状况</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <a href="../temasek-bonds">淡马锡债券概览</a>
+        <span class="breadcrumbs-delimiter">/</span>
+        <span class="breadbrumbs-current">淡马锡金融(I)债券</span>
+    </nav>
+</div>
+</div>
+
+
+<div class="main-wrapper">
+	<div class="share share-left sharelink">
+		<div class="socialshare">
+
+<div class="socialshare-content">
+   <div class="share-links-menu">
+      <ul class="socialshare-list share-links">
+      
+         <li class="socialshare-item__linkedin linkedin"><a href="https://www.linkedin.com/sharing/share-offsite/?url=https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds" aria-label="Share this page on LinkedIn" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__facebook facebook"><a href="http://www.facebook.com/sharer.php?u=https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds" aria-label="Share this page on Facebook" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__twitter twitter"><a href="https://twitter.com/intent/tweet?url=https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds" aria-label="Share this page on Twitter" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__email email"><a href="mailto:?subject=淡马锡金融(I)债券&body=https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds" aria-label="Share this page on Email" target="_blank"><i></i></a></li>
+      
+         <li class="socialshare-item__whatsapp whatsapp"><a href="https://wa.me/?text=https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds" aria-label="Share this page on Whatsapp" target="_blank"><i></i></a></li>
+      
+      </ul>
+   </div>
+ </div>
+
+<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/includes/socialshare/clientlibs.min.js"></script>
+
+</div>
+
+		<div class="share-inner">
+			<a class="tool-share"></a>
+			<div class="share-links-menu">
+				<div class="addthis_inline_share_toolbox"
+					data-title="淡马锡金融(I)债券"
+					data-url="https://localhost:8087/zh/our-financials/temasek-bonds/temasek-financial-i-bonds.html"
+					
+					
+
+					
+						data-media="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Logo.jpg.downloadasset.jpg"
+					
+					>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	<div class="title"><h1>淡马锡金融(I)债券<br/></h1>
+</div>
+
+	<div class="par parsys"><div class="text parbase section">
+
+
+
+<div class="default"><p><i>仅供机构和合格投资者申购</i></p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><h2><b>免责声明</b></h2>
+<p>本网站和淡马锡社交媒体网站含有的信息仅供参考，并不构成一项出售或邀请、或推荐认购或购买、持有或脱售证券；此处所含信息也不构成任何完整性，或构成任何义务、合同或非合同的依据。此外，淡马锡社交媒体平台发布的第三方信息并不代表淡马锡的观点。除非另有说明，否则我们对这些信息不承担任何责任或予以认同。</p>
+</div>
+
+
+</div>
+<div class="text parbase section">
+
+
+
+<div class="intro"><p><b>发行简介</b></p>
+</div>
+
+
+</div>
+<div class="table parbase section">
+
+
+<div class="scrollbar-top"><table width="100%" cellspacing="0" cellpadding="1" border="1" style="width: 900.0px; min-width: 100.0%;" class="set-width">
+<tbody><tr><th style="width: 205.438px;">债券系列</th>
+<th style="width: 140.0px;">货币</th>
+<th style="width: 107.094px;">亿(元)</th>
+<th style="width: 140.0px;">期限(年)</th>
+<th style="width: 138.219px;">票息(%)</th>
+<th style="width: 180.375px;">发行日<br>
+</th>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-1">系列 1 : T2015-US$</a></p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>17.5</p>
+</td>
+<td style="width: 140.0px;"><p>10</p>
+</td>
+<td style="width: 138.219px;"><p>4.5000</p>
+</td>
+<td style="width: 180.375px;">2005年9月21日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-2">系列 2 : T2019-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>15</p>
+</td>
+<td style="width: 140.0px;"><p>10</p>
+</td>
+<td style="width: 138.219px;"><p>4.3000</p>
+</td>
+<td style="width: 180.375px;">2009年10月26日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-3">系列 3 : T2039</a><a href="https://localhost:8087/zh/our-financials/temasek-bonds.html#series-1">-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>30</p>
+</td>
+<td style="width: 138.219px;"><p>5.3750</p>
+</td>
+<td style="width: 180.375px;">2009年11月23日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-4">系列&nbsp;4 : T2029-S$</a></p>
+</td>
+<td style="width: 140.0px;"><p>新元</p>
+</td>
+<td style="width: 107.094px;"><p>3</p>
+</td>
+<td style="width: 140.0px;"><p>20</p>
+</td>
+<td style="width: 138.219px;"><p>4.0000</p>
+</td>
+<td style="width: 180.375px;">2009年12月7日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-5">系列 5 : T2039</a><a href="temasek-financial-i-bonds#series-5">-S$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>新元</p>
+</td>
+<td style="width: 107.094px;"><p>3</p>
+</td>
+<td style="width: 140.0px;"><p>30</p>
+</td>
+<td style="width: 138.219px;"><p>4.2000</p>
+</td>
+<td style="width: 180.375px;">2009年12月7日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-6">系列 6 : T2020-S$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>新元</p>
+</td>
+<td style="width: 107.094px;"><p>10</p>
+</td>
+<td style="width: 140.0px;"><p>10</p>
+</td>
+<td style="width: 138.219px;"><p>3.2650</p>
+</td>
+<td style="width: 180.375px;">2010年2月19日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-7">系列 7 : T2025-S$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>新元</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>15</p>
+</td>
+<td style="width: 138.219px;"><p>3.7850</p>
+</td>
+<td style="width: 180.375px;">2010年3月5日&nbsp;<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-8">系列 8 : T2035-S$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>新元</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>25</p>
+</td>
+<td style="width: 138.219px;"><p>4.0475</p>
+</td>
+<td style="width: 180.375px;">2010年3月5日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-9">系列 9 : T2022-£</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>英镑</p>
+</td>
+<td style="width: 107.094px;"><p>2</p>
+</td>
+<td style="width: 140.0px;"><p>12</p>
+</td>
+<td style="width: 138.219px;"><p>4.6250</p>
+</td>
+<td style="width: 180.375px;">2010年7月26日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-10">系列 10 : T2040-£</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>英镑</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>30</p>
+</td>
+<td style="width: 138.219px;"><p>5.1250</p>
+</td>
+<td style="width: 180.375px;">2010年7月26日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-11">系列 11 : T2050-S$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>新元</p>
+</td>
+<td style="width: 107.094px;"><p>10</p>
+</td>
+<td style="width: 140.0px;"><p>40</p>
+</td>
+<td style="width: 138.219px;"><p>4.2000</p>
+</td>
+<td style="width: 180.375px;">2010年8月2日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-12">系列 12: T2023-US$</a></p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>12</p>
+</td>
+<td style="width: 140.0px;"><p>10.5</p>
+</td>
+<td style="width: 138.219px;"><p>2.3750</p>
+</td>
+<td style="width: 180.375px;">2012年7月23日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-13">系列 13: T2042-US$</a></p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>30</p>
+</td>
+<td style="width: 138.219px;"><p>3.3750</p>
+</td>
+<td style="width: 180.375px;">2012年7月23日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-14">系列 14: T2022-€</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>欧元</p>
+</td>
+<td style="width: 107.094px;"><p>6</p>
+</td>
+<td style="width: 140.0px;"><p>6</p>
+</td>
+<td style="width: 138.219px;"><p>0.5000</p>
+</td>
+<td style="width: 180.375px;">2016年3月1日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-15">系列 15: T2028-€</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>欧元</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>12</p>
+</td>
+<td style="width: 138.219px;"><p>1.5000</p>
+</td>
+<td style="width: 180.375px;">2016年3月1日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><a href="temasek-financial-i-bonds#series-16">系列 16: T2028-US$</a></td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;">13.5</td>
+<td style="width: 140.0px;">10</td>
+<td style="width: 138.219px;">3.6250</td>
+<td style="width: 180.375px;">2018年8月1日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-17">系列 17: T2031-€</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>欧元</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>12</p>
+</td>
+<td style="width: 138.219px;"><p>0.5000</p>
+</td>
+<td style="width: 180.375px;">2019年11月20日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-18">系列 18: T2049-€</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>欧元</p>
+</td>
+<td style="width: 107.094px;"><p>5</p>
+</td>
+<td style="width: 140.0px;"><p>30</p>
+</td>
+<td style="width: 138.219px;"><p>1.2500</p>
+</td>
+<td style="width: 180.375px;">2019年11月20日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-19">系列 19: T2030-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>7.5</p>
+</td>
+<td style="width: 140.0px;"><p>10</p>
+</td>
+<td style="width: 138.219px;"><p>1.0000</p>
+</td>
+<td style="width: 180.375px;">2020年10月6日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-20">系列 20: T2051-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>10</p>
+</td>
+<td style="width: 140.0px;"><p>30.5</p>
+</td>
+<td style="width: 138.219px;"><p>2.2500</p>
+</td>
+<td style="width: 180.375px;">2020年10月6日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-21">系列&nbsp;21: T2070-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>10</p>
+</td>
+<td style="width: 140.0px;"><p>50</p>
+</td>
+<td style="width: 138.219px;"><p>2.5000</p>
+</td>
+<td style="width: 180.375px;">2020年10月6日<br>
+</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-22">系列&nbsp;22: T2031-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>7.5</p>
+</td>
+<td style="width: 140.0px;"><p>10</p>
+</td>
+<td style="width: 138.219px;"><p>1.6250</p>
+</td>
+<td style="width: 180.375px;">2021年8月2日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-23">系列&nbsp;23: T2041-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>7.5</p>
+</td>
+<td style="width: 140.0px;"><p>20</p>
+</td>
+<td style="width: 138.219px;"><p>2.3750</p>
+</td>
+<td style="width: 180.375px;">2021年8月2日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-24">系列&nbsp;24: T2061-US$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>美元</p>
+</td>
+<td style="width: 107.094px;"><p>10</p>
+</td>
+<td style="width: 140.0px;"><p>40</p>
+</td>
+<td style="width: 138.219px;"><p>2.7500</p>
+</td>
+<td style="width: 180.375px;">2021年8月2日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-25">系列&nbsp;25: T2071-S$</a><br>
+</p>
+</td>
+<td style="width: 140.0px;"><p>新元</p>
+</td>
+<td style="width: 107.094px;"><p>15</p>
+</td>
+<td style="width: 140.0px;"><p>50</p>
+</td>
+<td style="width: 138.219px;"><p>2.8000</p>
+</td>
+<td style="width: 180.375px;">2021年8月17日</td>
+</tr><tr><td style="width: 205.438px;"><a href="temasek-financial-i-bonds#series-26" adhocenable="false">系列 26: T2027-€</a></td>
+<td style="width: 140.0px;">欧元</td>
+<td style="width: 107.094px;">7.5</td>
+<td style="width: 140.0px;">4</td>
+<td style="width: 138.219px;">3.2500</td>
+<td style="width: 180.375px;">2023年2月15日</td>
+</tr><tr><td style="width: 205.438px;"><a href="temasek-financial-i-bonds#series-27" adhocenable="false">系列 27: T2033-€</a></td>
+<td style="width: 140.0px;">欧元</td>
+<td style="width: 107.094px;">7.5</td>
+<td style="width: 140.0px;">10</td>
+<td style="width: 138.219px;">3.5000</td>
+<td style="width: 180.375px;">2023年2月15日</td>
+</tr><tr><td style="width: 205.438px;"><p><a href="temasek-financial-i-bonds#series-28">系列&nbsp;28:&nbsp;T2029-CNH</a></p>
+</td>
+<td style="width: 140.0px;"><p>离岸人民币</p>
+</td>
+<td style="width: 107.094px;"><p>7.5</p>
+</td>
+<td style="width: 140.0px;">5</td>
+<td style="width: 138.219px;">3.2000</td>
+<td style="width: 180.375px;">2024年2月6日</td>
+</tr><tr><td style="width: 205.438px;"><a href="temasek-financial-i-bonds#series-29">系列 29:&nbsp;T2039-CNH</a></td>
+<td style="width: 140.0px;"><p>离岸人民币</p>
+</td>
+<td style="width: 107.094px;">4</td>
+<td style="width: 140.0px;">15</td>
+<td style="width: 138.219px;">3.3500</td>
+<td style="width: 180.375px;">2024年3月11日</td>
+</tr><tr><td style="width: 205.438px;"><a href="temasek-financial-i-bonds#series-30">系列 30: T2044-CNH</a></td>
+<td style="width: 140.0px;"><p>离岸人民币</p>
+</td>
+<td style="width: 107.094px;">4.5</td>
+<td style="width: 140.0px;">20</td>
+<td style="width: 138.219px;">3.4000</td>
+<td style="width: 180.375px;">2024年3月27日</td>
+</tr><tr><td style="width: 205.438px;"><a href="temasek-financial-i-bonds#series-31">系列 31: T2034-CNH</a></td>
+<td style="width: 140.0px;">离岸人民币</td>
+<td style="width: 107.094px;">10</td>
+<td style="width: 140.0px;">10</td>
+<td style="width: 138.219px;">2.7500</td>
+<td style="width: 180.375px;">2024年8月28日</td>
+</tr><tr><td style="width: 205.438px;"><a href="temasek-financial-i-bonds#series-32">系列 32: T2054-CNH</a></td>
+<td style="width: 140.0px;">离岸人民币</td>
+<td style="width: 107.094px;">17</td>
+<td style="width: 140.0px;">30</td>
+<td style="width: 138.219px;">3.1000</td>
+<td style="width: 180.375px;">2024年8月28日</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="text parbase section">
+
+
+
+<div class="intro"><p><b>250亿美元全球担保中期票据项目发售</b><br>
+</p>
+</div>
+
+
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="75%" border="1" cellspacing="0" cellpadding="0" style="width: 467.637px; min-width: 100.0%;">
+<tbody><tr><td colspan="2"><h4><b><a></a><img src="https://localhost:8087/libs/clientlibs/granite/richtext/resources/images/blank.png" width="11" height="12">系列 1 : T2015-US$ (到期赎回)</b></h4>
+</td>
+</tr><tr><td height="26"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>US$1,750,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.5%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2005年9月21日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2015年9月21日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$150,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://temasek.com.sg/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-12Sep05-MTN%20Program.pdf">穆迪</a>授予Aaa及<a href="https://temasek.com.sg/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-12Sep05-MTN%20Program.pdf">标普</a>授予AAA</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>US87973KAA34 (存管银行限制全球票据)<br>
+USY8585EAA65 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>023039559 (存管银行限制全球票据)<br>
+023039737 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>美国统一证券辨认委员会编码</p>
+</td>
+<td><p>8793KAA3 (存管银行限制全球票据)<br>
+Y8585EAA6 (条例S全球票据)&nbsp;</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="75%" border="1" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="2"><h4><b><a></a><a id="series-2"></a>系列 2 : T2019-US$ (到期赎回)</b></h4>
+</td>
+</tr><tr><td height="26"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>US$1,500,000,000&nbsp;</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.3%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2009年10月26日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2019年10月25日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-19Oct09-Series2.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-19Oct09-Series2.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>US87973PAA21 (存管银行限制全球票据)<br>
+US87973RAA86 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>046036646 (存管银行限制全球票据)<br>
+046036611 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>美国统一证券辨认委员会编码</p>
+</td>
+<td><p>87973PAA2 (存管银行限制全球票据)<br>
+87973RAA8 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="75%" border="1" cellspacing="0" cellpadding="0" style="width: 467.637px; min-width: 100.0%;">
+<tbody><tr><td colspan="2"><h4><b><a name="series-3" id="series-3"></a>系列 3 : T2039-US$</b></h4>
+</td>
+</tr><tr><td width="130" height="26"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>US$500,000,000&nbsp;</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>5.375%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2009年11月23日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2039年11月23日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-17Nov09-Series3.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-17Nov09-Series3.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>US87973PAB04 (存管银行限制全球票据)<br>
+US87973RAB69 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>046037596 (存管银行限制全球票据)<br>
+046037448 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>美国统一证券辨认委员会编码</p>
+</td>
+<td><p>87973PAB0 (存管银行限制全球票据)<br>
+87973RAB6 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-4" id="series-4"></a>系列&nbsp;4 : T2029-S$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>S$300,000,000&nbsp;</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.0%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2009年12月7日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2029年12月7日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>S$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-24Nov09-Series4and5.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-24Nov09-Series4and5.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>SG7U76951353</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-5" id="series-5"></a>系列&nbsp;5 : T2039-S$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td>淡马锡控股(私人)有限公司</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>S$$300,000,000&nbsp;</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.2%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2009年12月7日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2039年12月7日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>S$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-24Nov09-Series4and5.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-24Nov09-Series4and5.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>SG7U77951360</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><a name="series-6" id="series-6"></a>系列&nbsp;6 : T2020-S$&nbsp;(到期赎回)&nbsp;</h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td>淡马锡控股(私人)有限公司</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>S$1,000,000,000&nbsp;</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.265%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2010年2月19日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2020年2月19日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>S$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-8Feb10-Series6.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-8Feb10-Series6.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>SG7V23953782</p>
+</td>
+</tr><tr><td>通用编码</td>
+<td>048759432</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-7" id="series-7"></a>系列&nbsp;7 : T2030-S$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>S$300,000,000&nbsp;</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.0%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2010年12月7日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2030年12月7日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>S$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-25Feb10-Series7and8.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-25Feb10-Series7and8.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>SG7U76951354</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-8" id="series-8"></a>系列&nbsp;8 : T2035-S$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>S$500,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.0475%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2010年3月5日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2035年3月5日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>S$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-25Feb10-Series7and8.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-25Feb10-Series7and8.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>SG7V36954660</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>049211252</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-9" id="series-9"></a>系列&nbsp;9 : T2022-£&nbsp;(到期赎回)&nbsp;</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>£200,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.625%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2010年7月26日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2022年7月26日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>£100,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-20Jul10-Series9and10.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-20Jul10-Series9and10.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS0528414294</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>052841429</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-10" id="series-10"></a>系列&nbsp;10 : T2040-£</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>£500,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>5.125%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2010年7月26日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2040年7月26日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>£100,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-20Jul10-Series9and10.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-20Jul10-Series9and10.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS0528414377</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>052841437</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-11" id="series-11"></a>系列&nbsp;11 : T2050-S$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>S$1,000,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>4.2%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2010年8月2日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2050年8月2日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>S$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-22Jul10-Series11.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-22Jul10-Series11.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>SG7W86960343</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>052964024</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1" style="width: 467.637px; min-width: 100.0%;">
+<tbody><tr><td colspan="2"><h4><a name="series-12" id="series-12"></a><b>系列&nbsp;12: T2023-US$ (到期赎回)</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>担保人</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>发行额</p>
+</td>
+<td style="width: 295.0px;"><p>US$1,200,000,000</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>票息</p>
+</td>
+<td style="width: 295.0px;"><p>2.375%</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>发行日</p>
+</td>
+<td style="width: 295.0px;"><p>2012年7月23日</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>到期日</p>
+</td>
+<td style="width: 295.0px;"><p>2023年1月23日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>评级</p>
+</td>
+<td style="width: 295.0px;"><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-17Jul12-Series%2012and13.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-17Jul12-Series%2012and13.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>上市</p>
+</td>
+<td style="width: 295.0px;"><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>国际证券编码</p>
+</td>
+<td style="width: 295.0px;"><p>US87973PAC86&nbsp;(存管银行限制全球票据)<br>
+US87973RAC43 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26" style="width: 172.637px;"><p>通用编码</p>
+</td>
+<td style="width: 295.0px;"><p>080767170&nbsp;(存管银行限制全球票据)<br>
+080767218 (条例S全球票据)</p>
+</td>
+</tr><tr><td style="width: 172.637px;">美国统一证券辨<br>
+认委员会编码</td>
+<td style="width: 295.0px;"><p>87973PAC8&nbsp;(存管银行限制全球票据)<br>
+87973RAC4 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-13" id="series-13"></a>系列 13 : T2042-US$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>US$500,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.375%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2012年7月23日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2042年7月23日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-17Jul12-Series%2012and13.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-17Jul12-Series%2012and13.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>US87973PAD69&nbsp;(存管银行限制全球票据)<br>
+US87973RAD26 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>080767285&nbsp;(存管银行限制全球票据)<br>
+080767323 (条例S全球票据)</p>
+</td>
+</tr><tr><td>美国统一证券辨<br>
+认委员会编码</td>
+<td><p>87973PAD6&nbsp;(存管银行限制全球票据)<br>
+87973RAD2 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-14" id="series-14"></a>系列&nbsp;14 : T2022-€&nbsp;(到期赎回)</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>€600,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>0.5%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2016年3月1日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2022年3月1日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>€150,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-24Feb16-Series14and15-v2.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-24Feb16-Series14and15.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS1373130902</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>137313090</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-15" id="series-15"></a>系列&nbsp;15 : T2028-€<br>
+ </b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>€500,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>1.5%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2016年3月1日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2028年3月1日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>€150,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-24Feb16-Series14and15-v2.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-24Feb16-Series14and15.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS1373131546</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>137313154</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-16"></a>系列 16 : T2028-US$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>US$1,350,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.625%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2018年8月1日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2028年8月1日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-25Jul18-Series%2016.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-25Jul18-Series%2016.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>US87973PAE43 (存管银行限制全球票据)<br>
+US87973RAE09 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>186122194 (存管银行限制全球票据)<br>
+186122208 (条例S全球票据)</p>
+</td>
+</tr><tr><td>美国统一证券辨<br>
+认委员会编码</td>
+<td><p>87973PAE4&nbsp;(存管银行限制全球票据)<br>
+87973RAE0 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-17" id="series-17"></a>系列&nbsp;17 : T2031-€<br>
+ </b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>€500,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>0.500%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2019年11月20日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2031年11月20日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>€150,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-13Nov19-Series17and18.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP_13Nov19_Series17and18.pdf" target="_blank">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS2080785343</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>208078534</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a name="series-18" id="series-18"></a>系列&nbsp;18 : T2049-€<br>
+ </b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>€500,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>1.250%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2019年11月20日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2049年11月20日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>€150,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-13Nov19-Series17and18.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP_13Nov19_Series17and18.pdf" target="_blank">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS2080786150</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>208078615</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1" style="width: 529.0px; min-width: 100.0%;">
+<tbody><tr><th colspan="2"><h4><b><a id="series-19"></a>系列&nbsp;19 : T2030-US$</b></h4>
+</th>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>US$750,000,000</p>
+</td>
+</tr><tr><td height="26" style="width: 232.0px;"><p>票息</p>
+</td>
+<td style="width: 295.0px;"><p>1.000%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2020年10月6日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2030年10月6日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-29Sep20-Series19_20_21.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-28Sep20-Series19_20_21.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>US87973PAU84 (存管银行限制全球票据)<br>
+US87973RAU41 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>224032633 (存管银行限制全球票据)<br>
+224032641 (条例S全球票据)</p>
+</td>
+</tr><tr><td>美国统一证券辨<br>
+认委员会编码</td>
+<td><p>87973PAU8 (存管银行限制全球票据)<br>
+87973RAU4 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1" style="width: 470.0px; min-width: 100.0%;">
+<tbody><tr><th colspan="2"><h4><b><a id="series-20"></a>系列&nbsp;20 : T2051-US$</b></h4>
+</th>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>担保人</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行额</p>
+</td>
+<td style="width: 295.0px;"><p>US$1,000,000,000</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>票息</p>
+</td>
+<td style="width: 295.0px;"><p>2.250%</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行日</p>
+</td>
+<td style="width: 295.0px;"><p>2020年10月6日</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>到期日</p>
+</td>
+<td style="width: 295.0px;"><p>2051年4月6日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>评级</p>
+</td>
+<td style="width: 295.0px;"><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-29Sep20-Series19_20_21.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-28Sep20-Series19_20_21.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>上市</p>
+</td>
+<td style="width: 295.0px;"><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>国际证券编码</p>
+</td>
+<td style="width: 295.0px;"><p>US87973PAV67 (存管银行限制全球票据)<br>
+US87973RAV24 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>通用编码</p>
+</td>
+<td style="width: 295.0px;"><p>224032668 (存管银行限制全球票据)<br>
+224032676 (条例S全球票据)</p>
+</td>
+</tr><tr><td style="width: 173.0px;">美国统一证券辨<br>
+认委员会编码</td>
+<td style="width: 295.0px;"><p>87973PAV6 (存管银行限制全球票据)<br>
+87973RAV2 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1" style="width: 470.0px; min-width: 100.0%;">
+<tbody><tr><th colspan="2"><h4><b><a id="series-21"></a>系列&nbsp;21 : T2070-US$</b></h4>
+</th>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>担保人</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行额</p>
+</td>
+<td style="width: 295.0px;"><p>US$1,000,000,000</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>票息</p>
+</td>
+<td style="width: 295.0px;"><p>2.500%</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行日</p>
+</td>
+<td style="width: 295.0px;"><p>2020年10月6日</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>到期日</p>
+</td>
+<td style="width: 295.0px;"><p>2070年10月6日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>评级</p>
+</td>
+<td style="width: 295.0px;"><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-29Sep20-Series19_20_21.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-28Sep20-Series19_20_21.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>上市</p>
+</td>
+<td style="width: 295.0px;"><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>国际证券编码</p>
+</td>
+<td style="width: 295.0px;"><p>US87973PAW41 (存管银行限制全球票据)<br>
+US87973RAW07 (条例S全球票据)</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>通用编码</p>
+</td>
+<td style="width: 295.0px;"><p>224032714 (存管银行限制全球票据)<br>
+224032722 (条例S全球票据)</p>
+</td>
+</tr><tr><td style="width: 173.0px;">美国统一证券辨<br>
+认委员会编码</td>
+<td style="width: 295.0px;"><p>87973PAW4 (存管银行限制全球票据)<br>
+87973RAW0 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1" style="width: 470.0px; min-width: 100.0%;">
+<tbody><tr><th colspan="2"><h4><b><a id="series-22"></a>系列&nbsp;22 : T2031-US$</b></h4>
+</th>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>担保人</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行额</p>
+</td>
+<td style="width: 295.0px;"><p>US$750,000,000</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>票息</p>
+</td>
+<td style="width: 295.0px;"><p>1.625%</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行日</p>
+</td>
+<td style="width: 295.0px;"><p>2021年8月2日</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>到期日</p>
+</td>
+<td style="width: 295.0px;"><p>2031年8月2日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>评级</p>
+</td>
+<td style="width: 295.0px;"><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-26Jul21-Series22-24.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-25Jul21-Series22-24.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>上市</p>
+</td>
+<td style="width: 295.0px;"><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>国际证券编码</p>
+</td>
+<td style="width: 295.0px;"><p>US87973PBA12&nbsp;(存管银行限制全球票据)<br>
+US87973RBA77&nbsp;(条例S全球票据)</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>通用编码</p>
+</td>
+<td style="width: 295.0px;"><p>237070909&nbsp;(存管银行限制全球票据)<br>
+237071000 (条例S全球票据)</p>
+</td>
+</tr><tr><td style="width: 173.0px;">美国统一证券辨<br>
+认委员会编码</td>
+<td style="width: 295.0px;"><p>87973PBA1 (存管银行限制全球票据)<br>
+87973RBA7&nbsp;(条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1" style="width: 470.0px; min-width: 100.0%;">
+<tbody><tr><th colspan="2"><h4><b><a id="series-23"></a>系列&nbsp;23 : T2041-US$</b></h4>
+</th>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>担保人</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行额</p>
+</td>
+<td style="width: 295.0px;"><p>US$750,000,000</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>票息</p>
+</td>
+<td style="width: 295.0px;"><p>2.375%</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行日</p>
+</td>
+<td style="width: 295.0px;"><p>2021年8月2日</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>到期日</p>
+</td>
+<td style="width: 295.0px;"><p>2041年8月2日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>评级</p>
+</td>
+<td style="width: 295.0px;"><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-26Jul21-Series22-24.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-25Jul21-Series22-24.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>上市</p>
+</td>
+<td style="width: 295.0px;"><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>国际证券编码</p>
+</td>
+<td style="width: 295.0px;"><p>US87973PBB94&nbsp;(存管银行限制全球票据)<br>
+US87973RBB50&nbsp;(条例S全球票据)</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>通用编码</p>
+</td>
+<td style="width: 295.0px;"><p>237071573&nbsp;(存管银行限制全球票据)<br>
+237071654&nbsp;(条例S全球票据)</p>
+</td>
+</tr><tr><td style="width: 173.0px;">美国统一证券辨<br>
+认委员会编码</td>
+<td style="width: 295.0px;"><p>87973PBB9&nbsp;(存管银行限制全球票据)<br>
+87973RBB5&nbsp;(条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1" style="width: 470.0px; min-width: 100.0%;">
+<tbody><tr><th colspan="2"><h4><b><a id="series-24"></a>系列&nbsp;24 : T2061-US$</b></h4>
+</th>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>担保人</p>
+</td>
+<td style="width: 295.0px;"><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行额</p>
+</td>
+<td style="width: 295.0px;"><p>US$1,000,000,000</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>票息</p>
+</td>
+<td style="width: 295.0px;"><p>2.750%</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>发行日</p>
+</td>
+<td style="width: 295.0px;"><p>2021年8月2日</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>到期日</p>
+</td>
+<td style="width: 295.0px;"><p>2061年8月2日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>US$250,000</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>评级</p>
+</td>
+<td style="width: 295.0px;"><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-26Jul21-Series22-24.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-25Jul21-Series22-24.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>上市</p>
+</td>
+<td style="width: 295.0px;"><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>国际证券编码</p>
+</td>
+<td style="width: 295.0px;"><p>US87973PBC77&nbsp;(存管银行限制全球票据)<br>
+US87973RBC34&nbsp;(条例S全球票据)</p>
+</td>
+</tr><tr><td height="26" style="width: 173.0px;"><p>通用编码</p>
+</td>
+<td style="width: 295.0px;"><p>237071662&nbsp;(存管银行限制全球票据)<br>
+237071719&nbsp;(条例S全球票据)</p>
+</td>
+</tr><tr><td style="width: 173.0px;">美国统一证券辨<br>
+认委员会编码</td>
+<td style="width: 295.0px;"><p>87973PBC7&nbsp;(存管银行限制全球票据)<br>
+87973RBC3 (条例S全球票据)</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-25"></a>系列 25 : T2071-S$</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>S$1,500,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>2.800%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2021年8月17日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2071年8月17日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>S$250,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moodys-10Aug21-Series25.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SnP-9Aug21-Series25.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>SGXF69044257</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>237682246</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-26"></a>系列 26 : T2027-€</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>€750,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.250%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2023年2月15日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2027年2月15日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>€150,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moody%27s%20Series%2026%20and%2027.pdf" target="_blank">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SP%20Series%2026%20and%2027.pdf" target="_blank">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS2586779782</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>258677978</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-27"></a>系列 27 : T2033-€</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>€750,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.500%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2023年2月15日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2033年2月15日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>€150,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moody%27s%20Series%2026%20and%2027.pdf" target="_blank">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SP%20Series%2026%20and%2027.pdf" target="_blank">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>XS2586780012</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>258678001</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-28"></a>系列 28 :&nbsp;T2029-CNH</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td>淡马锡控股(私人)有限公司</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>CNH750,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.200%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2024年2月6日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2029年2月6日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>CNH 1,000,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p>穆迪授予Aaa<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>HK0000988169</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>276060252</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-29"></a>系列 29 : T2039-CNH</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>CNH400,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.350%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2024年3月11日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2039年3月11日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>CNH 1,000,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p>穆迪授予Aaa<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td><p>HK0000998168</p>
+</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>277888319</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-30"></a>系列 30 : T2044-CNH</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>CNH450,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.400%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2024年3月27日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2044年3月27日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>CNH 1,000,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p>穆迪授予Aaa<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td>HK0001003828</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>279311019</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-31"></a>系列 31 : T2034-CNH</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>CNH1,000,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>2.750%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2024年8月28日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2034年8月28日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>CNH 1,000,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moody%27s%20Series%2031%20and%2032.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SP%20Series%2031%20and%2032.pdf">标普</a>授予AAA&nbsp;<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td>HK0001051348</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>288823782</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<div class="default"><table width="100%" border="1" cellspacing="0" cellpadding="1">
+<tbody><tr><td colspan="2"><h4><b><a id="series-32"></a>系列 32 : T2054-CNH</b></h4>
+</td>
+</tr><tr><td width="130" height="26" style="min-width: 268.5px;"><p>发行者</p>
+</td>
+<td><p>淡马锡金融(I)有限公司<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>担保人</p>
+</td>
+<td><p>淡马锡控股(私人)有限公司</p>
+</td>
+</tr><tr><td height="26"><p>发行额</p>
+</td>
+<td><p>CNH1,700,000,000</p>
+</td>
+</tr><tr><td height="26"><p>票息</p>
+</td>
+<td><p>3.100%</p>
+</td>
+</tr><tr><td height="26"><p>发行日</p>
+</td>
+<td><p>2024年8月28日</p>
+</td>
+</tr><tr><td height="26"><p>到期日</p>
+</td>
+<td><p>2054年8月28日</p>
+</td>
+</tr><tr><td>最低面额</td>
+<td>CNH 1,000,000</td>
+</tr><tr><td height="26"><p>评级</p>
+</td>
+<td><p><a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/Moody%27s%20Series%2031%20and%2032.pdf">穆迪</a>授予Aaa及<a href="https://localhost:8087/content/dam/temasek-corporate/our-financials/temasek-bonds/bond-rating-report/SP%20Series%2031%20and%2032.pdf">标普</a>授予AAA<br>
+</p>
+</td>
+</tr><tr><td height="26"><p>上市</p>
+</td>
+<td><p>新加坡交易所证券交易有限公司</p>
+</td>
+</tr><tr><td height="26"><p>国际证券编码</p>
+</td>
+<td>HK0001051355</td>
+</tr><tr><td height="26"><p>通用编码</p>
+</td>
+<td><p>288825262</p>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<div class="table parbase section">
+
+
+<img src="https://localhost:8087/libs/cq/ui/resources/0.gif" class="cq-table-placeholder" alt="">
+</div>
+<div class="text parbase section">
+
+
+
+<div class="default"><p>报告由穆迪投资者服务公司或标普全球旗下的标准普尔评级集团(评级机构)所编制，并经其同意可在本网站全面读取。淡马锡并不对这些报告负责，也不对报告的内容负责。淡马锡免除这些报告在任何情况下可能引发的所有及任何责任。这些报告中的声明、评论及意见为各评级机构自身的声明、评论及意见，并非淡马锡所发表。淡马锡在本网站提供这些报告，并非肯定或重复发表其内容。&nbsp;</p>
+<p>评级并非推荐购买、脱售或持有在淡马锡中期票据项目下发行的票据。这些评级可在任何时候被相关评级机构重审、暂停或收回。评级机构也可能重审或更换整个用于获取评级的方法。评级意见不应被当作对商业运作的咨询。任何评级必须只被解读为意见的陈述，而非与票据、淡马锡或任何其他个体或与任何其他事项关连的事实的陈述。评级机构不负有恪尽职守或独立验证的责任，它们并不担保任何提交给它们、并用于相关评级的信息的准确度及完整性。</p>
+<p>欲获取更多有关穆迪与标准普尔的评级、产品及服务，包括任何关于它们的更新及评级机构采取的评级行动，请浏览<a href="http://www.moodys.com">http://www.moodys.com</a>及<a href="https://www.spglobal.com/ratings/zh">https://www.spglobal.com/ratings/zh</a>。淡马锡不对评容负级机构网站的内责，或给予肯定。淡马锡免除任何及所有该网站所含内容在任何情况下引发的责任。</p>
+</div>
+
+
+</div>
+
+</div>
+
+	
+	
+<div class="back-to-top-wrapper">
+    <div class="back-to-top">
+        <div class="inner">前</div>
+    </div>
+</div>
+
+</div>
+
+
+
+
+<footer>
+    <div id="footer-icons">
+        <div class="dynamic-logo-footer dynamic-logo">
+    <div class="dynamic-logo dynamic-logo-default">
+<a href="../../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+    
+</a>
+
+<a href="../../index.html" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+
+    
+
+</a>
+</div>
+
+</div>
+
+        <a id="footer-sitemap-button" href="https://localhost:8087/zh/site-services/sitemap">
+            网站导航 
+        </a>
+    </div>
+    
+    <div id="footer-highlights">
+<div class="footer-links-1 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../../about-us">关于淡马锡</a></h3>
+        <ul>
+            <li><a href="../../about-us/temasek-at-a-glance">淡马锡概览</a></li>
+            <li><a href="../../about-us/our-leadership">领导团队</a></li>
+            <li><a href="../../about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a></li>
+            <li><a href="../../our-community">对社群的承诺</a></li>
+            <li><a href="../../about-us/careers">职业机会</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-2 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../../our-investments">我们的投资</a></h3>
+        <ul>
+            <li><a href="../../our-investments/investment-approach">投资理念和策略</a></li>
+            <li><a href="../../our-investments/our-portfolio">我们的投资组合</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-3 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../../our-financials">我们的财务状况</a></h3>
+        <ul>
+            <li><a href="../portfolio-performance">投资组合表现</a></li>
+            <li><a href="../credit-profile">信用概览</a></li>
+            <li><a href="../library/temasek-review">淡马锡年度报告</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-4 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3><a href="../../sustainability">可持续发展</a></h3>
+        <ul>
+            <li><a href="../../sustainability/key-highlights">主要进展</a></li>
+            <li><a href="https://localhost:8087/zh/sustainability/sustainability-at-the-core">以可持续发展为核心理念</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+<div class="footer-links-5 footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <h3>掌握最新消息</h3>
+        <ul>
+            <li><a href="https://localhost:8087/zh/news-and-resources">新闻与资料</a></li>
+            <li><a href="../../contact-us">联络我们</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-social">
+<div class="social-links-footer social-links">
+    <div class="social-links social-links-default">
+    <nav class="social-links">
+        <a class="social-links-facebook" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_FB.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.facebook.com/temasekholdings"></a>
+
+
+        <a class="social-links-instagram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://instagram.com/temasekseen/"></a>
+
+
+        <a class="social-links-linkedin" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_LinkedIn.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://sg.linkedin.com/company/temasek-holdings"></a>
+
+
+        <a class="social-links-telegram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Telegram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://t.me/temasekholdings"></a>
+
+
+        <a class="social-links-tiktok" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+
+
+        <a class="social-links-wechat" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="temasek-financial-i-bonds#"></a>
+
+        <div class="wechat-code">
+            <img src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>
+            <p class="instructions">微信服务号：淡马锡</p>
+            <button></button>
+        </div>
+
+
+        <a class="social-links-whatsapp" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Whatsapp.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p"></a>
+
+
+        <a class="social-links-twitter" target="_blank" style="background-size: 100%; background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_X.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+
+
+        <a class="social-links-youtube" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.youtube.com/user/TemasekDigital"></a>
+
+    </nav>
+</div>
+
+</div>
+
+    </div>
+    <div id="footer-details">
+<div class="footer-links-system footer-links">
+    <div class="footer-links footer-links-default">
+    <nav class="footer-links">
+        <ul>
+            <li><a href="https://localhost:8087/zh/site-services/terms">使用条款</a></li>
+            <li><a href="https://localhost:8087/zh/site-services/accessibility">便捷使用途径</a></li>
+            <li><a href="../../site-services/cookies">隐私声明</a></li>
+            <li><a href="../../about-us/faqs">常见问题</a></li>
+            <li><a href="https://localhost:8087/zh/site-services/nictemasek">.淡马锡</a></li>
+        </ul>
+    </nav>
+</div>
+
+</div>
+
+        <div class="copyright">
+             <div class="copyright fixed-copyright">
+    <div class="fixed-copyright fixed-copyright-default">
+
+
+
+</div>
+
+</div>
+
+             
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+<div class="news-insights-overly">
+        <div class="news-insights-wrapper">
+            <button class="close"></button>
+            <div class="news-insights-wrapper--content">
+                <form action="https://temasek.us13.list-manage.com/subscribe/post?u=c6e8202786088f7032c129736&amp;amp;id=c091adf093" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                    <div class="news-insights-wrapper--form-row news-insights-wrapper--header">
+                        <div class="circle-blend-mode one"></div>
+                        <div class="circle-blend-mode one purple-mask"></div>
+                        <h2>Subscribe to our newsletter</h2>
+                        
+                            <p>Stay up to date with our latest news, insights and stories </p>
+                        
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-FULLNAME" name="FULLNAME" type="text" placeholder="Your name" />
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <input id="mce-EMAIL" name="EMAIL" type="text" placeholder="Your email address" />
+                    </div>
+
+                    <div class="news-insights-wrapper--form-row">
+                        <label>Which type(s) of content are you interested in?</label>
+                        <div class="news-insights-wrapper--dropdown">
+                            Select a type of content
+                        </div>
+                        <ul id="interestedList" class="news-insights-wrapper--check-box-list">
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-1" name="group[17329][2]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-1">50th Anniversary</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-2" name="group[17329][4]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-2">Values & People</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-3" name="group[17329][8]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-3">Community</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-4" name="group[17329][16]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-4">Future & Trends</label>
+                                    </li>
+                            
+                                    <li>
+                                        <input id="one-mce-group[17329]-17329-5" name="group[17329][32]" type="checkbox" checked="true" />
+                                        <label for="one-mce-group[17329]-17329-5">Sustainability </label>
+                                    </li>
+                            
+                        </ul>
+                        <ul class="selected-list"></ul>
+                    </div>
+                    <div class="news-insights-wrapper--form-row consent-field">
+                        <span><input id="consent" name="consent" type="checkbox" /></span>
+                        <label for="consent">
+                            
+                                <p>By checking this box, I agree to the <a href="https://localhost:8087/en/site-services/cookies" target="_blank">privacy terms</a> on the website.</p>
+
+                            
+                        </label>
+                    </div>
+                    <div class="news-insights-wrapper--form-row">
+                        <div class="g-recaptcha" data-sitekey="6LeBlDoUAAAAAHZs9IEvYhZLBK-TrLHmmAGH2A_v"></div>
+                    </div>
+                    <div id="errorInterestedMsg" class="error-msg">
+                        Please select Stories you are interested in.
+                    </div>
+                    <div id="errorConsentMsg" class="error-msg">
+                        Please give us your consent.
+                    </div>
+                    <div id="errorCaptchaMsg" class="error-msg">
+                        Please confirm that you are not a robot.
+                    </div>
+                    <div class="news-insights-wrapper--button">
+                        <button type="submit">SUBSCRIBE</button>
+                    </div>
+                </form>
+            </div>
+            <div class="news-insights-wrapper--background">
+                <!-- <div class="circle one"></div> -->
+                <div class="circle two"></div>
+                <div class="circle three"></div>
+                <div class="circle four"></div>
+                <div class="circle-with-border one"></div>
+                <div class="circle-with-border two"></div>
+            </div>
+        </div>
+    </div>        
+        <div class="measurement"> </div>
+    </div>
+
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1754896371409820&amp;ev=PageView&amp;noscript=1"/></noscript>
+<noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif"/></noscript>
+</body>
+</html>

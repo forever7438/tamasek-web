@@ -1,0 +1,10 @@
+.separator.section{margin-bottom:0 !important}
+.separator-wrapper{height:1px;margin:20px auto;border-bottom:1px solid #15af9b}
+.separator-wrapper.small,.separator-wrapper.medium,.separator-wrapper.large{border-bottom:0;margin:0}
+.separator-wrapper.small{height:35px}
+.separator-wrapper.medium{height:90px}
+.separator-wrapper.large{height:120px}
+.separator-wrapper.orange{border-bottom:1px solid #de772e}
+.separator-wrapper.green{border-bottom:1px solid #12a639}
+.separator-wrapper.blue{border-bottom:1px solid #009ee4}
+.separator-wrapper.red{border-bottom:1px solid #aa2251}

@@ -1,0 +1,86 @@
+.clearfix{zoom:1}
+.clearfix:before,.clearfix:after{content:"";display:table}
+.clearfix:after{clear:both}
+.button,.button.white,.button-accordion,input.search-results-date-submit{text-align:center;font-family:'Roboto-Regular';font-weight:normal;font-size:14px;line-height:18px;color:inherit;text-transform:uppercase;border:1px solid #00af9b;padding:8px 10px;border-radius:20px;cursor:pointer;display:inline-block;transition:all .3s;-webkit-transition:all .3s;-ms-transition:all .3s}
+.button:hover,.button-accordion:hover,input.search-results-date-submit:hover{background-color:#15af9b;color:#fff}
+.button.white{font-weight:normal;color:#fff;border:1px solid #fff}
+.button.white:hover{background-color:#fff;color:#212c2f}
+.button-accordion{margin-bottom:20px;padding-left:20px;padding-right:40px;text-transform:none;position:relative}
+.panel-animation-01-start{opacity:0;-webkit-transition:opacity .5s,transform .5s;-moz-transition:opacity .5s,transform .5s;-ms-transition:opacity .5s,transform .5s;transition:opacity .5s,transform .5s;transform:scale(1.05);-webkit-transform:scale(1.05);-ms-transform:scale(1.05)}
+.panel-animation-01-end{opacity:1;transform:scale(1);-webkit-transform:scale(1);-ms-transform:scale(1)}
+.panel-animation-01-cq{transition:none;-webkit-transition:none;-ms-transition:none;opacity:1;transform:scale(1);-webkit-transform:scale(1);-ms-transform:scale(1)}
+.elem-animation-01-start{opacity:0;transition:all .5s;-webkit-transition:all .5s;-ms-transition:all .5s;transform:translateY(-20px);-webkit-transform:translateY(-20px);-ms-transform:translateY(-20px)}
+.elem-animation-01-end{opacity:1;transform:translateY(0);-webkit-transform:translateY(0);-ms-transform:translateY(0)}
+.elem-animation-01-cq{transition:none;-webkit-transition:none;-ms-transition:none;opacity:1;transform:translateY(0);-webkit-transform:translateY(0);-ms-transform:translateY(0)}
+body.site-services.search-page .title{max-width:100% !important;padding:0}
+body.site-services.search-page .main-wrapper .main-wrapper-inner{padding:50px 120px 100px 120px;max-width:1300px;position:relative;margin:0 auto}
+body.site-services.search-page .main-wrapper .title h1{margin-bottom:30px}
+body.site-services.search-page .main-wrapper .convertedFromSelectDisplay{margin-bottom:0;max-width:170px}
+p.search-results-summary span{font-family:'Roboto-Bold'}
+@media screen and (max-width:960px){body.site-services.search-page .main-wrapper .main-wrapper-inner{padding:30px 40px 100px 40px}
+}
+@media screen and (min-width:641px) and (max-width:1060px){body.site-services.search-page .main-wrapper .convertedFromSelectDisplay{max-width:100%}
+}
+@media screen and (max-width:480px){body.site-services.search-page .main-wrapper .main-wrapper-inner{padding:15px 20px 100px 20px}
+}
+.banner{height:140px}
+.search-results-search-field-wrapper{position:relative;margin-bottom:25px}
+input.search-results-search-field{border:0;outline:0;margin-top:0;padding:15px 20px;font-size:18px;width:100%;background:#efefef;appearance:none;-webkit-appearance:none;-ms-appearance:none}
+input.search-results-search-field-submit{background:url('../../../../../etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/icons/icon-search-green.svg') center no-repeat;background-size:20px;margin-top:0;width:50px;height:50px;border:0;outline:0;font-size:0;cursor:pointer;display:block;position:absolute;top:0;right:10px;appearance:none;-webkit-appearance:none;-ms-appearance:none}
+input.search-results-search-field-submit:hover{background-color:transparent}
+.search-results-filter-row{position:relative;font-size:14px;line-height:40px;padding-left:110px}
+.search-results-filter-row:after{content:'';display:table;clear:both;float:none}
+.search-results-filter-row.search-results-tags-field-wrapper{margin-bottom:3px}
+.search-results-filter-row.search-results-date-field-wrapper{line-height:1;border-bottom:1px solid #d5d4d3;padding-bottom:25px;margin-bottom:25px}
+.search-results-filter-row.search-results-date-field-wrapper select{width:170px;height:36px;border:1px solid #d5d4d3;outline:0;appearance:none;-webkit-appearance:none;-ms-appearance:none;font-size:14px;line-height:14px;padding:10px;background:#efefef}
+@media screen and (max-width:767px){.search-results-filter-row.search-results-date-field-wrapper select{width:100%}
+}
+.search-results-filter-row.search-results-date-field-wrapper input.date-input{max-width:170px;height:36px;border:1px solid #d5d4d3;outline:0;appearance:none;-webkit-appearance:none;-ms-appearance:none;font-size:14px;line-height:14px;padding:10px 40px 10px 10px;background:#efefef url('../../../../../etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/icons/icon-calendar-right-padding.png') center right no-repeat;background-size:20px}
+.search-results-filter-row label.row-label{font-family:'Roboto-Bold';font-weight:normal;width:110px;display:inline-block;line-height:36px;position:absolute;left:0;top:0}
+.search-results-checkbox-wrapper{display:inline-block;line-height:36px;margin:0 20px 5px 0}
+.search-results-checkbox-wrapper input[type="checkbox"]{vertical-align:middle}
+.search-results-tag-wrapper{display:inline-block;line-height:36px;margin:0 10px 5px 0}
+.search-results-tag-wrapper.search-results-tag-close a{text-decoration:none !important}
+.search-results-tag-wrapper.search-results-tag-close a:after{content:'';display:inline-block;width:15px;height:15px;background-image:url('../../../../../etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/icons/share-close.svg');background-position:center;background-repeat:no-repeat;background-size:15px;vertical-align:middle;margin-left:5px;opacity:1;transition:opacity .3s;-webkit-transition:opacity .3s;-ms-transition:opacity .3s}
+.search-results-tag-wrapper.search-results-tag-close a:hover:after{opacity:.8}
+.search-results-tag-wrapper a{color:inherit;font-size:inherit;text-decoration:none;position:relative}
+.search-results-tag-wrapper a:hover{text-decoration:underline}
+.search-results-date-field-wrapper>div{margin:0 0 20px 0;display:inline-block;vertical-align:top;float:left}
+.search-results-date-field-wrapper label.field-label{display:inline-block;padding-right:10px;width:70px;text-align:right}
+.search-results-date-field-wrapper .search-results-date-mode-wrapper{margin-right:20px}
+.search-results-date-field-wrapper .search-results-date-from-wrapper label.field-label{width:50px}
+.search-results-date-field-wrapper .search-results-date-to-wrapper{margin-right:20px}
+input#search-results-date-from{cursor:pointer}
+input#search-results-date-to{cursor:pointer}
+input.search-results-date-submit{appearance:none;-webkit-appearance:none;-ms-appearance:none;background:#fff;outline:none !important;float:left}
+@media screen and (max-width:1100px){.search-results-date-field-wrapper label.field-label{padding:0 10px}
+}
+@media screen and (min-width:641px) and (max-width:1060px){.search-results-date-field-wrapper label.field-label{text-align:left;padding:0 !important}
+.search-results-date-field-wrapper .search-results-date-mode-wrapper{width:245px}
+.search-results-date-field-wrapper .search-results-date-from-wrapper{clear:both;width:100%}
+.search-results-date-field-wrapper .search-results-date-from-wrapper label.field-label{padding-left:0;width:70px}
+.search-results-date-field-wrapper .search-results-date-to-wrapper{width:100%}
+}
+@media screen and (max-width:640px){body.site-services.search-page .main-wrapper .convertedFromSelectDisplay{max-width:100%}
+.search-results-filter-row{margin-bottom:10px;padding-left:0}
+.search-results-filter-row label.row-label{width:100%;display:block;margin-bottom:10px;position:relative;line-height:14px}
+.search-results-search-field-wrapper{margin-bottom:40px}
+.search-results-date-field-wrapper>div{width:100%}
+.search-results-date-field-wrapper label.field-label{width:100%;padding-right:0;text-align:left;margin-bottom:10px;padding:0}
+.search-results-filter-row{line-height:18px}
+.search-results-filter-row.search-results-date-field-wrapper input.date-input{max-width:100%;width:100%}
+.search-results-checkbox-wrapper,.search-results-tag-wrapper{line-height:18px}
+input.search-results-date-submit{float:right}
+}
+.search-results-pager .search-results-pager-links:after{content:'';display:table;clear:both;float:none}
+.search-results-pager .search-results-pager-links a{font-size:14px;border-bottom:0;display:inline-block;background:transparent;min-width:25px;height:25px;line-height:22px;text-align:center;padding:0 8px;margin-right:-5px;border:1px solid transparent;color:#15af9b}
+.search-results-pager .search-results-pager-links a.active,.search-results-pager .search-results-pager-links a:hover{border:1px solid #d5d4d3;background:#efefef}
+.search-results-list-wrapper ul.search-results-list{margin:30px 0 55px 0;padding:0;list-style:none}
+.search-results-list-wrapper ul.search-results-list li.search-result{margin-bottom:10px;padding-bottom:10px;position:relative;border-bottom:1px solid #d5d4d3}
+.search-results-list-wrapper ul.search-results-list li.search-result strong{font-weight:normal;color:#15af9b}
+.search-results-list-wrapper ul.search-results-list li.search-result .results-rownum{width:38px;display:inline-block;font-family:'Roboto-Bold';font-size:18px;padding-left:3px;vertical-align:top}
+.search-results-list-wrapper ul.search-results-list li.search-result .results-rownum:after{content:'.';display:inline-block}
+.search-results-list-wrapper ul.search-results-list li.search-result .results-title{width:calc(73%);font-size:18px;font-family:'Roboto-Bold';display:inline-block}
+.search-results-list-wrapper ul.search-results-list li.search-result .results-title a{color:inherit;font-size:inherit;font-family:inherit}
+.search-results-list-wrapper ul.search-results-list li.search-result .results-excerpt{position:relative;padding-left:41px;display:block;margin-top:3px}
+.search-results-list-wrapper ul.search-results-list li.search-result .results-excerpt:before{content:'';display:block;width:15px;height:15px;position:absolute;left:0;top:2px;background:url('../../../../../etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/icons/icon-whole-arrow-right-green.svg') center no-repeat;background-size:15px 13px}

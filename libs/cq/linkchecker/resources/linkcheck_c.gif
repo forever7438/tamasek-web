@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>TEMASEK - Under Maintenance</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            font-family: "Noto Sans", sans-serif, Arial;
+        }
+
+        .container {
+            text-align: center;
+            padding: 40px;
+            background-color: #fff; /* White container */
+            margin-top:80px;
+        }
+
+        .social-icons {
+            margin-top: 120px;
+        }
+
+        .social-icons a {
+            display: inline-block;
+            margin: 0 10px;
+            font-size: 24px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .icon {
+            background-repeat: no-repeat;
+            width: 30px;
+            height: 30px;
+            display: block;
+        }
+        
+        .facebook {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-FB.svg");
+        }
+        .instagram {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-IG.svg");
+        }
+        .linkedin {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-In.svg");
+        }
+        .tiktok {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-Tiktok.svg");
+        }
+        .weixin {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-Wechat.svg");
+        }
+        .weixin:before {
+            opacity: 0;
+            content: "";
+        }
+        .weixin:hover:before {
+            background-image: url("/temasekreview/maintenance2/wechat.png");
+            width: 100px;
+            height: 100px;
+            background-size: 100px;
+            margin-top: 40px;
+            margin-left: -35px;
+            opacity: 1;
+            display: block;
+            position: absolute;
+        }
+        .twitter {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-X.svg");
+        }
+        .youtube {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-Wave-YT.svg");
+        }
+        .whatsup {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-WA.svg");
+        }
+        .telegram {
+            background-image: url("/temasekreview/maintenance2/Maintenance-Page-Tele.svg");
+        }
+
+        .logo img{
+            width: 220px;
+            height: 100%;
+            display: block;
+            margin: 0 auto;
+        }
+        .logo {
+            margin-bottom: 50px;
+        }
+
+        .waves {
+            position: absolute;
+            bottom: 50px;
+            width:100%;
+            z-index: -1;
+        }
+
+        .first {
+            margin-bottom: 0;
+        }
+
+        .second {
+            margin-top: 5px;
+            margin-bottom: 30px;
+        }
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="logo">
+        <img src="/temasekreview/maintenance2/logo.svg"/temasekreview/maintenance2/>
+    </div>
+
+    <p class="first">This site is undergoing maintenance.</p>
+    <p class="second">We will be back online soon and apologise for the inconvenience.</p>
+    <p>In the meantime, please connect with us on our social channels.</p>
+
+    <div class="social-icons">
+        <a href="https://www.facebook.com/temasekholdings" target="_blank"><i class="icon facebook"></i></a>
+        <a href="https://instagram.com/temasekseen/" target="_blank"><i class="icon instagram"></i></a>
+        <a href="https://sg.linkedin.com/company/temasek-holdings" target="_blank"><i class="icon linkedin"></i></a>
+        <a href="https://t.me/temasekholdings" target="_blank"><i class="icon telegram"></i></a>
+        <a href="https://www.tiktok.com/@temasek" target="_blank"><i class="icon tiktok"></i></a>
+        <a href="https://weixin.qq.com/r/fS9IUNjE64WUrZwz93pv" target="_blank"><i class="icon weixin"></i></a>
+        <a href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p" target="_blank"><i class="icon whatsup"></i></a>
+        <a href="https://x.com/Temasek" target="_blank"><i class="icon twitter"></i></a>
+        <a href="https://www.youtube.com/user/TemasekDigital" target="_blank"><i class="icon youtube"></i></a>
+    </div>
+
+
+</div>
+<div class="waves">
+    <img src="/temasekreview/maintenance2/wave.svg"/temasekreview/maintenance2/>
+</div>
+</body>
+</html>

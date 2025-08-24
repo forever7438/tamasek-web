@@ -1,0 +1,15 @@
+body .par.parsys>div.colour-background{max-width:100% !important;padding:0}
+body .par.parsys>div.colour-background .colour-background-container{padding:80px 0}
+@media(max-width:480px){body .par.parsys>div.colour-background .colour-background-container{padding:40px 0}
+}
+body .par.parsys>div.colour-background .colour-background-container.bg-teal{background-color:#e6f7f5}
+body .par.parsys>div.colour-background .colour-background-container.bg-gray{background-color:#efefef}
+@media(max-width:480px){body .par.parsys>div.colour-background .colour-background-container.alternate-stack-mobile .colour-par .column_2.right{display:flex;flex-direction:column-reverse}
+body .par.parsys>div.colour-background .colour-background-container.alternate-stack-mobile .colour-par .column_2.right .column_2-c0{margin-bottom:0}
+body .par.parsys>div.colour-background .colour-background-container.alternate-stack-mobile .colour-par .column_2.right .column_2-c1{margin-bottom:30px}
+}
+body .par.parsys>div.colour-background .colour-background-wrapper{max-width:1160px !important;padding:0 120px;margin:auto}
+@media(max-width:960px){body .par.parsys>div.colour-background .colour-background-wrapper{padding:0 40px}
+}
+@media(max-width:480px){body .par.parsys>div.colour-background .colour-background-wrapper{padding:0 20px}
+}
