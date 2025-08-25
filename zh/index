@@ -147,20 +147,6 @@
 
     <div class="page">
 
-
-
-
-        <div class="header-alert">
-            <div class="writeup">
-                <p>我们注意到诈骗和冒用淡马锡名义的事件有所增加。与声称代表淡马锡或与淡马锡有联系的各方进行商业交易时，请谨慎行事。</p>
-                <p>有关淡马锡发布的最新诈骗警示通知，请点击<a
-                        href="https://localhost:8087/zh/news-and-resources/news-room?filters=alerts">此处</a>。</p>
-
-                <a href="index#" class="btn btn-primary-outline acknowledge">确认收悉</a>
-            </div>
-            <div class="close-alert"><span><i class="ti-close"></i></span></div>
-        </div>
-
         <header class="fixed-header">
 
 
@@ -304,6 +290,14 @@
                                 <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item"
                                         href="https://localhost:8087/zh/news-and-resources"
                                         data-section="mega-menu-news-and-resources">新闻与资料</a></li>
+                                  <li><a
+                                            class="mega-menu-navigation-link news-and-resources  has-menu-item"
+                                            href="/zh/news-and-resources"
+                                            data-section="mega-menu-news-and-resources">登录</a></li>
+                                    <li><a
+                                            class="mega-menu-navigation-link news-and-resources  has-menu-item"
+                                            href="/zh/news-and-resources"
+                                            data-section="mega-menu-news-and-resources">注册</a></li>
                             </ul>
                         </nav>
                         <div class="mega-menu-items-wrapper" style="display:none">
@@ -1219,14 +1213,14 @@
                             data-ipad-image="/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/zh-image-with-text/tr25-zh-kv-carousel-tablet-1680x2048v2.png"
                             data-desktop-image="/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/zh-image-with-text/tr25-kv-carousel-title-desktop-2736x1450v2.png"
                             style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/zh-image-with-text/tr25-kv-carousel-title-desktop-2736x1450v2.png');">
-                            <!-- TSIA按钮 - 悬浮在左上角 -->
-                            <div class="tsia-buttons-container">
-                                <a href="#" class="tsia-tlak-btn">TSIA TLAK</a>
-                                <a href="#" class="tsia-btn">TSIA</a>
-                            </div>
+                           
 
                             <a href="https://temasekreview.com.sg/zh">
-
+                            <!-- TSIA按钮 - 悬浮在左上角 -->
+                            <div class="tsia-buttons-container">
+                                <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+                            </div>
                                 <div class="link-text-button"> </div>
 
                             </a>
@@ -1243,14 +1237,14 @@
                             data-desktop-image="/content/dam/temasek-corporate/home/banner-images/a-generational-investor.jpg"
                             style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/banner-images/a-generational-investor.jpg');">
                             
-                            <!-- TSIA按钮 - 悬浮在左上角 -->
-                            <div class="tsia-buttons-container">
-                                <a href="#" class="tsia-tlak-btn">TSIA TLAK</a>
-                                <a href="#" class="tsia-btn">TSIA</a>
-                            </div>
+                            
 
                             <a href="https://localhost:8087/zh/about-us">
-                                
+                                <!-- TSIA按钮 - 悬浮在左上角 -->
+                                <div class="tsia-buttons-container">
+                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                    <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+                                </div>
                                 <div class="image-carousel-text">
                                     <h1>跨世代投资者</h1>
                                     <p>淡马锡是总部位于新加坡的国际投资公司。作为跨世代的投资者，我们着眼未来，努力开拓创新</p>
@@ -1272,14 +1266,14 @@
                             data-desktop-image="/content/dam/temasek-corporate/home/og-images/overseas-office-desktop.jpeg"
                             style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/og-images/overseas-office-desktop.jpeg');">
                             
-                            <!-- TSIA按钮 - 悬浮在左上角 -->
-                            <div class="tsia-buttons-container">
-                                <a href="#" class="tsia-tlak-btn">TSIA TLAK</a>
-                                <a href="#" class="tsia-btn">TSIA</a>
-                            </div>
+                           
 
                             <a href="https://localhost:8087/zh/our-financials">
-
+                                <!-- TSIA按钮 - 悬浮在左上角 -->
+                                <div class="tsia-buttons-container">
+                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                    <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+                                </div>
                                 <div class="image-carousel-text">
                                     <h1>着眼未来的机构 </h1>
                                     <p>构建自律的机构</p>
@@ -1301,14 +1295,14 @@
                             data-desktop-image="/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg"
                             style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg');">
                             
-                            <!-- TSIA按钮 - 悬浮在左上角 -->
-                            <div class="tsia-buttons-container">
-                                <a href="#" class="tsia-tlak-btn">TSIA TLAK</a>
-                                <a href="#" class="tsia-btn">TSIA</a>
-                            </div>
+                           
 
                             <a href="https://localhost:8087/zh/our-community">
-
+                                <!-- TSIA按钮 - 悬浮在左上角 -->
+                                <div class="tsia-buttons-container">
+                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                    <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+                                </div>
                                 <div class="image-carousel-text">
                                     <h1>备受信赖的资产管护者 </h1>
                                     <p>建设社群 帮扶生命</p>
@@ -1595,6 +1589,58 @@
                             margin: auto auto 20px;
                             text-align: center;
                             justify-content: flex-end;
+                        }
+                    }
+
+                    /* TSIA按钮样式 */
+                    .tsia-buttons-container {
+                        position: absolute;
+                        top: 25%;
+                        left: 100px;
+                        z-index: 10;
+                        display: flex;
+                        gap: 10px;
+                    }
+
+                    .tsia-tlak-btn, .tsia-btn {
+                        background: rgba(138, 43, 226, 0.9);
+                        color: white;
+                        border: 2px solid rgba(255, 255, 255, 0.3);
+                        padding: 8px 16px;
+                        border-radius: 25px;
+                        font-size: 14px;
+                        font-weight: 600;
+                        cursor: pointer;
+                        transition: all 0.3s ease;
+                        text-decoration: none;
+                        display: inline-block;
+                        backdrop-filter: blur(10px);
+                        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+                    }
+
+                    .tsia-tlak-btn:hover, .tsia-btn:hover {
+                        background: rgba(138, 43, 226, 1);
+                        border-color: rgba(255, 255, 255, 0.6);
+                        transform: translateY(-2px);
+                        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+                    }
+
+                    .tsia-tlak-btn:active, .tsia-btn:active {
+                        transform: translateY(0);
+                        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+                    }
+
+                    @media (max-width: 768px) {
+                        .tsia-buttons-container {
+                            top: 25%;
+                            left: 20px;
+                            flex-direction: column;
+                            gap: 8px;
+                        }
+                        
+                        .tsia-tlak-btn, .tsia-btn {
+                            padding: 6px 12px;
+                            font-size: 12px;
                         }
                     }
                 </style>
@@ -1917,86 +1963,86 @@
     <noscript><img height="1" width="1" style="display:none;" alt=""
             src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif" /></noscript>
 
-    <!-- TSIA按钮样式 -->
-    <style>
-        .image-carousel-wrapper .tsia-buttons-container {
-            position: absolute !important;
-            top: 20px !important;
-            left: 20px !important;
-            z-index: 9999 !important;
-            display: flex !important;
-            gap: 10px !important;
-            flex-wrap: wrap !important;
-            width: auto !important;
-            height: auto !important;
-        }
-
-        .image-carousel-wrapper .tsia-buttons-container .tsia-tlak-btn,
-        .image-carousel-wrapper .tsia-buttons-container .tsia-btn {
-            background-color: #ffffff !important;
-            color: #333333 !important;
-            padding: 8px 16px !important;
-            text-decoration: none !important;
-            border-radius: 4px !important;
-            font-size: 12px !important;
-            font-weight: 700 !important;
-            transition: all 0.3s ease !important;
-            border: 2px solid #000000 !important;
-            text-transform: uppercase !important;
-            letter-spacing: 0.5px !important;
-            display: inline-block !important;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
-            white-space: nowrap !important;
-            line-height: 1.2 !important;
-            min-width: 80px !important;
-            text-align: center !important;
-        }
-
-        .image-carousel-wrapper .tsia-buttons-container .tsia-tlak-btn:hover,
-        .image-carousel-wrapper .tsia-buttons-container .tsia-btn:hover {
-            background-color: #f8f8f8 !important;
-            color: #333333 !important;
-            text-decoration: none !important;
-            border-color: #cccccc !important;
-            transform: translateY(-1px) !important;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15) !important;
-        }
-
-        /* 确保轮播图容器有相对定位 */
-        .image-carousel-wrapper {
-            position: relative !important;
-        }
-
-        /* 移动端适配 */
-        @media (max-width: 768px) {
-            .image-carousel-wrapper .tsia-buttons-container {
-                top: 15px !important;
-                left: 15px !important;
-                gap: 8px !important;
-            }
-
-            .image-carousel-wrapper .tsia-buttons-container .tsia-tlak-btn,
-            .image-carousel-wrapper .tsia-buttons-container .tsia-btn {
-                padding: 6px 12px !important;
-                font-size: 11px !important;
+    <!-- TSIA按钮事件处理脚本 -->
+    <script>
+        // TSIA TLAK按钮点击事件
+        function handleTsiaTlakClick() {
+            // 防止事件冒泡，避免触发父元素的链接跳转
+            event.preventDefault();
+            event.stopPropagation();
+            
+            console.log('TSIA TLAK 按钮被点击');
+            
+            // 显示提示信息
+            alert('TSIA TLAK 功能即将上线，敬请期待！');
+            
+            // 这里可以添加更多功能，比如：
+            // - 跳转到特定页面
+            // - 打开模态框
+            // - 发送统计数据等
+            
+            // 示例：统计点击事件
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'click', {
+                    'event_category': 'TSIA',
+                    'event_label': 'TSIA TLAK Button'
+                });
             }
         }
-
-        /* 平板端适配 */
-        @media (min-width: 769px) and (max-width: 1024px) {
-            .image-carousel-wrapper .tsia-buttons-container {
-                top: 18px !important;
-                left: 18px !important;
-                gap: 9px !important;
-            }
-
-            .image-carousel-wrapper .tsia-buttons-container .tsia-tlak-btn,
-            .image-carousel-wrapper .tsia-buttons-container .tsia-btn {
-                padding: 7px 14px !important;
-                font-size: 11px !important;
+        
+        // TSIA按钮点击事件
+        function handleTsiaClick() {
+            // 防止事件冒泡，避免触发父元素的链接跳转
+            event.preventDefault();
+            event.stopPropagation();
+            
+            console.log('TSIA 按钮被点击');
+            
+            // 显示提示信息
+            alert('TSIA 功能即将上线，敬请期待！');
+            
+            // 这里可以添加更多功能，比如：
+            // - 跳转到特定页面：window.open('https://tsia.example.com', '_blank');
+            // - 打开模态框
+            // - 发送统计数据等
+            
+            // 示例：统计点击事件
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'click', {
+                    'event_category': 'TSIA',
+                    'event_label': 'TSIA Button'
+                });
             }
         }
-    </style>
+        
+        // 为所有TSIA按钮添加点击效果
+        document.addEventListener('DOMContentLoaded', function() {
+            // 添加额外的交互效果
+            const tsiaButtons = document.querySelectorAll('.tsia-tlak-btn, .tsia-btn');
+            
+            tsiaButtons.forEach(button => {
+                // 鼠标进入效果
+                button.addEventListener('mouseenter', function() {
+                    this.style.transform = 'translateY(-2px) scale(1.05)';
+                });
+                
+                // 鼠标离开效果
+                button.addEventListener('mouseleave', function() {
+                    this.style.transform = 'translateY(0) scale(1)';
+                });
+                
+                // 键盘访问支持
+                button.addEventListener('keydown', function(e) {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        this.click();
+                    }
+                });
+            });
+            
+            console.log('TSIA按钮初始化完成，共找到', tsiaButtons.length, '个按钮');
+        });
+    </script>
 
 </body>
 
