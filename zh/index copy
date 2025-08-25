@@ -19,46 +19,46 @@
     <meta name="application-name" content="Temasek Corporate">
     <meta name="theme-color" content="#ffffff" />
 
-    <link rel="shortcut icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-16x16.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/android-chrome-192x192.png">
-    <link rel="mask-icon" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/android-chrome-192x192.png">
+    <link rel="mask-icon" href="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
 
 
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.css" type="text/css">
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.css" type="text/css">
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.css" type="text/css">
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/homepage/clientlibs.min.css" type="text/css">
-<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/blacksunplc.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/is.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/dotdotdot.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/page/homepage/clientlibs.min.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/clientlibs/base.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/components/page/homepage/clientlibs.min.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/blacksunplc.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/is.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/tooltipster.min.js"></script>
+<script src="/etc.clientlibs/temasek-corporate/clientlibs/base.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/slick.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/dotdotdot.min.js"></script>
+<script src="/etc.clientlibs/temasek-corporate/components/page/homepage/clientlibs.min.js"></script>
 
     <title>Temasek</title>
 
     <meta property="og:title" content="Home" />
     <meta property="og:site_name" content="Temasek Corporate Website English" />
-    <meta property="og:url" content="https://localhost:8087/en/index" />
+    <meta property="og:url" content="/en/index" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="Temasek is a global investment company headquartered in Singapore with a multinational staff of over 960 people. Our portfolio is valued at S$434 billion." />
-    <meta property="og:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Home.jpg.downloadasset.jpg" />
+    <meta property="og:image" content="/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Home.jpg.downloadasset.jpg" />
      <meta property="og:locale" content="en" />
 
     <meta name="twitter:title" content="Home" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@testing_16nov" />
-    <meta name="twitter:url" content="https://localhost:8087/en/index" />
+    <meta name="twitter:url" content="/en/index" />
     <meta name="twitter:description" content="Temasek is a global investment company headquartered in Singapore with a multinational staff of over 960 people. Our portfolio is valued at S$434 billion." />
     <meta name="twitter:creator" content="@testing_16nov" />
-    <meta name="twitter:image" content="https://localhost:8087/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Home.jpg.downloadasset.jpg" />
+    <meta name="twitter:image" content="/content/dam/temasek-corporate/home/og-images/2024-thumbnails/Open%20Graph_24_CW_Home.jpg.downloadasset.jpg" />
 
     <meta property="fb:app_id" content="1086722744796138" />
 
@@ -86,7 +86,7 @@ s.parentNode.insertBefore(b, s);})();
 <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=778555&fmt=gif"/>
 </noscript>
 
-             <script type="text/javascript" src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.js"></script>
+             <script type="text/javascript" src="/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.js"></script>
 
         <!-- 全局配置文件 -->
         <script type="text/javascript" src="/config/site-config.js"></script>
@@ -163,7 +163,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 </div>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/cookiewarning/clientlibs.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/components/includes/cookiewarning/clientlibs.min.js"></script>
 
 </div>
 
@@ -179,13 +179,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="logo-wrapper">
 <div class="dynamic-logo-header dynamic-logo">
     <div class="dynamic-logo dynamic-logo-default">
-<a href="index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
-    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg" alt="">
+<a href="index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg" alt="">
     
 </a>
 
-<a href="index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
-    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+<a href="index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
 
     
 
@@ -228,7 +228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="fixed-link fixed-link-default">
     <a href="about-us/t50" class='link-t50'>
         Commemorating 50 Years
-        <img src="https://localhost:8087/content/dam/temasek-corporate/T50/t50-logo-only.svg" alt="">
+        <img src="/content/dam/temasek-corporate/T50/t50-logo-only.svg" alt="">
     </a>
 
 </div>
@@ -269,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </a>
         </li>
         <li>
-            <a href="https://localhost:8087/zh/index" rel="alternative" hreflang="zh">
+            <a href="/zh/index" rel="alternative" hreflang="zh">
                 中文
             </a>
         </li>
@@ -306,12 +306,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="mega-menu mega-menu-default">
     <nav class="mega-menu-navigation">
         <ul class="mega-menu-navigation-list">
-            <li><a class="mega-menu-navigation-link about-us  has-menu-item" href="https://localhost:8087/en/about-us" data-section="mega-menu-about-us">About Us</a></li>
+            <li><a class="mega-menu-navigation-link about-us  has-menu-item" href="/en/about-us" data-section="mega-menu-about-us">About Us</a></li>
             <li><a class="mega-menu-navigation-link our-financials  has-menu-item" href="our-financials" data-section="mega-menu-our-financials">Our Financials</a></li>
             <li><a class="mega-menu-navigation-link our-investments  has-menu-item" href="our-investments" data-section="mega-menu-our-investments">Our Investments</a></li>
             <li><a class="mega-menu-navigation-link sustainability  has-menu-item" href="sustainability" data-section="mega-menu-sustainability">Sustainability</a></li>
             <li><a class="mega-menu-navigation-link our-community  has-menu-item" href="our-community" data-section="mega-menu-our-community">Our Community</a></li>
-            <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item" href="https://localhost:8087/en/news-and-resources" data-section="mega-menu-news-and-resources">News &amp; Resources</a></li>
+            <li><a class="mega-menu-navigation-link news-and-resources  has-menu-item" href="/en/news-and-resources" data-section="mega-menu-news-and-resources">News &amp; Resources</a></li>
         </ul>
     </nav>
     <div class="mega-menu-items-wrapper" style="display:none">
@@ -581,7 +581,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <figure id="cq-image-jsp-/content/temasek-corporate/en/index/jcr:content/mega-menu/mega-menu/mega_menu_item38/menuitempar-left/image" class="img-width-100 default image" data-tooltip-content="null">
 
-        <a href="https://localhost:8087/content/temasek-corporate/en/news-and-resources/resources#sustainability-report.html"><a href="news-and-resources/resources#sustainability-report"><img src="https://localhost:8087/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-download-thumbnail-900x600.png" alt="darker-sus-download-thumbnail-900x600.png" title="darker-sus-download-thumbnail-900x600.png" class="cq-dd-image"></a></a>
+        <a href="/content/temasek-corporate/en/news-and-resources/resources#sustainability-report.html"><a href="news-and-resources/resources#sustainability-report"><img src="/content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-download-thumbnail-900x600.png" alt="darker-sus-download-thumbnail-900x600.png" title="darker-sus-download-thumbnail-900x600.png" class="cq-dd-image"></a></a>
 
     </figure></div>
 
@@ -671,46 +671,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a class="has-third-level-links" href="sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+                            <li><a class="" href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
                             
                             </li>
-                            <li><a class="" href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+                            <li><a class="" href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
                             
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
                             
                             </li>
-                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/people">People</a>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-operations/people">People</a>
                             
                             </li>
-                            <li><a class="" href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
                             
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+                        <a class="has-third-level-links" href="/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+                            <li><a class="" href="/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
                             
                             </li>
-                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+                            <li><a class="" href="/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
                             
                             </li>
-                            <li><a class="" href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+                            <li><a class="" href="/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
                             
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a class="" href="https://localhost:8087/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+                        <a class="" href="/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
                     </li>
                 </ul>
             </div></div>
@@ -756,25 +756,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="https://localhost:8087/en/our-community/our-approach">Our Approach</a>
+                        <a class="" href="/en/our-community/our-approach">Our Approach</a>
                     </li>
                     <li>
-                        <a class="" href="https://localhost:8087/en/our-community/knowledge-centres">Knowledge Centres</a>
+                        <a class="" href="/en/our-community/knowledge-centres">Knowledge Centres</a>
                     </li>
                     <li>
-                        <a class="" href="https://localhost:8087/en/our-community/staff-volunteers">Staff Volunteers</a>
+                        <a class="" href="/en/our-community/staff-volunteers">Staff Volunteers</a>
                     </li>
                     <li>
-                        <a class="" target="_blank" href="https://localhost:8087/en/our-community/temasek-foundations">Temasek Foundation</a>
+                        <a class="" target="_blank" href="/en/our-community/temasek-foundations">Temasek Foundation</a>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="https://localhost:8087/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+                        <a class="has-third-level-links" href="/en/our-community/temasek-scholarship">Temasek Scholarship</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" target="_blank" href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+                            <li><a class="" target="_blank" href="/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
                             
                             </li>
-                            <li><a class="" href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+                            <li><a class="" href="/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
                             
                             </li>
                         </ul>
@@ -821,10 +821,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="https://localhost:8087/en/news-and-resources/news-room">Newsroom</a>
+                        <a class="" href="/en/news-and-resources/news-room">Newsroom</a>
                     </li>
                     <li>
-                        <a class="" target="_blank" href="https://localhost:8087/en/news-and-resources/scam-alerts">Scam Alerts</a>
+                        <a class="" target="_blank" href="/en/news-and-resources/scam-alerts">Scam Alerts</a>
                     </li>
                     <li>
                         <a class="" href="news-and-resources/stories">Stories</a>
@@ -847,7 +847,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     </div></div>
 
-    <script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mega-menu/clientlibs.min.js"></script>
+    <script src="/etc.clientlibs/temasek-commons/components/includes/mega-menu/clientlibs.min.js"></script>
 
 </div>
 
@@ -858,7 +858,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="search-field">
     <div class="search-field search-field-default">
     <div class="search-field-wrapper">
-        <form action="https://localhost:8087/en/site-services/search-results" class="search-field-form" data-style="/etc/designs/temasek-corporate/jcr:content/homepage/search-field/search-field" data-pagepath="/content/temasek-corporate/en/index">
+        <form action="/en/site-services/search-results" class="search-field-form" data-style="/etc/designs/temasek-corporate/jcr:content/homepage/search-field/search-field" data-pagepath="/content/temasek-corporate/en/index">
             <input autocomplete="off" class="search-field-input" name="q" id="q" type="text" placeholder="What are you searching for?" />
             <input class="search-field-button" type="submit" />
         </form>
@@ -891,7 +891,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/about-us">About Us</a>
+            <a href="/en/about-us">About Us</a>
 
             <ul class="dl-submenu level-0">
                 
@@ -1270,12 +1270,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
+            <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
+            <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/portfolio-metrics-and-targets">Portfolio Metrics and Targets</a>
 
         </li>
 
@@ -1285,24 +1285,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
+            <a href="/en/sustainability/sustainability-in-our-operations">Sustainability in Our Operations</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
+            <a href="/en/sustainability/sustainability-in-our-operations/environment">Environment</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/people">People</a>
+            <a href="/en/sustainability/sustainability-in-our-operations/people">People</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
+            <a href="/en/sustainability/sustainability-in-our-operations/business-resilience">Business Resilience</a>
 
         </li>
 
@@ -1312,24 +1312,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration/driving-partnerships-for-change">Driving Partnerships for Change</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration/turning-ambition-into-action">Turning Ambition into Action</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
+            <a href="/en/sustainability/accelerating-sustainability-through-collaboration/relating-to-our-community">Relating to Our Community</a>
 
         </li>
 
@@ -1339,7 +1339,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
+            <a href="/en/sustainability/sustainability-performance-data">Sustainability Performance Data</a>
 
         </li>
 
@@ -1356,39 +1356,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="https://localhost:8087/en/our-community/our-approach">Our Approach</a>
+            <a href="/en/our-community/our-approach">Our Approach</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/our-community/knowledge-centres">Knowledge Centres</a>
+            <a href="/en/our-community/knowledge-centres">Knowledge Centres</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/our-community/staff-volunteers">Staff Volunteers</a>
+            <a href="/en/our-community/staff-volunteers">Staff Volunteers</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/our-community/temasek-foundations">Temasek Foundation</a>
+            <a href="/en/our-community/temasek-foundations">Temasek Foundation</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/our-community/temasek-scholarship">Temasek Scholarship</a>
+            <a href="/en/our-community/temasek-scholarship">Temasek Scholarship</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
+            <a href="/en/our-community/temasek-scholarship/temasek-undergraduate-local-scholarship">Temasek Undergraduate Local Scholarship</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
+            <a href="/en/our-community/temasek-scholarship/temasek-undergraduate-overseas-scholarship">Temasek Undergraduate Overseas Scholarship</a>
 
         </li>
 
@@ -1403,19 +1403,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/news-and-resources">News &amp; Resources</a>
+            <a href="/en/news-and-resources">News &amp; Resources</a>
 
             <ul class="dl-submenu level-0">
                 
 
 
         <li>
-            <a href="https://localhost:8087/en/news-and-resources/news-room">Newsroom</a>
+            <a href="/en/news-and-resources/news-room">Newsroom</a>
 
         </li>
 
         <li>
-            <a href="https://localhost:8087/en/news-and-resources/scam-alerts">Scam Alerts</a>
+            <a href="/en/news-and-resources/scam-alerts">Scam Alerts</a>
 
         </li>
 
@@ -1440,9 +1440,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.css" type="text/css">
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/includes/mobile-menu/clientlibs.min.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.css" type="text/css">
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/slinky.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/components/includes/mobile-menu/clientlibs.min.js"></script>
 </div>
 
 
@@ -1463,7 +1463,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-mobile-image="/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/image-with-text/tr25-kv-carousel-mobile-820x1460.png"
     data-ipad-image="/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/image-with-text/tr25-kv-carousel-tablet-1680x2048.png"
     data-desktop-image="/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/image-with-text/tr25-kv-carousel-desktop-2736x1450.png"
-    style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/image-with-text/tr25-kv-carousel-desktop-2736x1450.png');">
+    style="background-image: url('/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/image-with-text/tr25-kv-carousel-desktop-2736x1450.png');">
     <a href="https://temasekreview.com.sg/">
 
         <div class="link-text-button"> </div>
@@ -1479,8 +1479,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-mobile-image="/content/dam/temasek-corporate/home/banner-images/a-generational-investor-mobile.jpg"
     data-ipad-image="/content/dam/temasek-corporate/home/banner-images/a-generational-investor-tablet.jpg"
     data-desktop-image="/content/dam/temasek-corporate/home/banner-images/a-generational-investor.jpg"
-    style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/banner-images/a-generational-investor.jpg');">
-    <a href="https://localhost:8087/en/about-us">
+    style="background-image: url('/content/dam/temasek-corporate/home/banner-images/a-generational-investor.jpg');">
+    <a href="/en/about-us">
         
                 <div class="image-carousel-text"><h1>A Generational Investor</h1>
 <p>Temasek is a global investment company headquartered in Singapore. We are a generational investor, seeking to make a difference with tomorrow in mind.&nbsp;</p>
@@ -1499,7 +1499,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-mobile-image="/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution%20mobile.jpg"
     data-ipad-image="/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution%20Tablet.jpg"
     data-desktop-image="/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution.jpg"
-    style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution.jpg');">
+    style="background-image: url('/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution.jpg');">
     <a href="our-financials">
         
                 <div class="image-carousel-text"><h1>A Forward Looking Institution</h1>
@@ -1519,7 +1519,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-mobile-image="/content/dam/temasek-corporate/home/banner-images/trusted-steward-mobile.jpg"
     data-ipad-image="/content/dam/temasek-corporate/home/banner-images/trusted-steward-mobile.jpg"
     data-desktop-image="/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg"
-    style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg');">
+    style="background-image: url('/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg');">
     <a href="our-community">
         
                 <div class="image-carousel-text"><h1>A Trusted Steward</h1>
@@ -1539,7 +1539,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-mobile-image="/content/dam/temasek-corporate/home/carousel-images/t50-anniversary/T50%20Book_Homepage%20Banner_Mobile_FINAL.png"
     data-ipad-image="/content/dam/temasek-corporate/home/carousel-images/t50-anniversary/T50%20Book_Homepage%20Banner_Copy%20Opt%201_Tablet.png"
     data-desktop-image="/content/dam/temasek-corporate/home/carousel-images/t50-anniversary/T50-Book_Homepage-Banner_Desktop_FINAL.jpg"
-    style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/carousel-images/t50-anniversary/T50-Book_Homepage-Banner_Desktop_FINAL.jpg');">
+    style="background-image: url('/content/dam/temasek-corporate/home/carousel-images/t50-anniversary/T50-Book_Homepage-Banner_Desktop_FINAL.jpg');">
     <a href="http://www.storyof.temasek/?utm_source=homepage&amp;utm_medium=corpsite&amp;utm_campaign=T50-online">
 
         <div class="link-text-button">      </div>
@@ -1555,7 +1555,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-mobile-image="/content/dam/temasek-corporate/home/carousel-images/ecosperity-2025/ecosperity-week-2025-homepage-banner-mobile.png"
     data-ipad-image="/content/dam/temasek-corporate/home/carousel-images/ecosperity-2025/ecosperity-week-2025-homepage-banner-tablet.png"
     data-desktop-image="/content/dam/temasek-corporate/home/carousel-images/ecosperity-2025/ecosperity-week-2025-homepage-banner-desktop.png"
-    style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/carousel-images/ecosperity-2025/ecosperity-week-2025-homepage-banner-desktop.png');">
+    style="background-image: url('/content/dam/temasek-corporate/home/carousel-images/ecosperity-2025/ecosperity-week-2025-homepage-banner-desktop.png');">
     <a href="https://www.ecosperity.sg/">
 
     </a>
@@ -1563,12 +1563,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
     </div>
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/mediaelement.min.css" type="text/css">
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.css" type="text/css">
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/mediaelement.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.js"></script>
-<script src="https://localhost:8087/etc.clientlibs/temasek-commons/components/functional/carousel/clientlibs.min.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/mediaelement.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.css" type="text/css">
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/mediaelement.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/common/video-brightcove.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/clientlibs/libs/magnific.min.js"></script>
+<script src="/etc.clientlibs/temasek-commons/components/functional/carousel/clientlibs.min.js"></script>
 
     </div>
 </div>
@@ -1576,7 +1576,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="par parsys"><div class="separator parbase section">
 
 
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/separator/clientlibs.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/components/functional/separator/clientlibs.min.css" type="text/css">
 
 
 <div class="separator-wrapper small">
@@ -1589,15 +1589,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  &nbsp;&nbsp;</b></h1>
 <p style="text-align: center;">We are seeing an increase in scams and impersonations. Please exercise care and diligence when dealing with parties purporting to represent or be associated with Temasek.</p>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><a href="https://localhost:8087/en/news-and-resources/news-room?filters=alerts">Read More</a></p>
+<p style="text-align: center;"><a href="/en/news-and-resources/news-room?filters=alerts">Read More</a></p>
 </div>
 
 
 </div>
 <div class="t50-stories parbase section">
 
-<link rel="stylesheet" href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/t50-stories/clientlibs.min.css" type="text/css">
-<script src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/t50-stories/clientlibs.min.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/temasek-corporate/components/functional/t50-stories/clientlibs.min.css" type="text/css">
+<script src="/etc.clientlibs/temasek-corporate/components/functional/t50-stories/clientlibs.min.js"></script>
 
 
 <div>
@@ -1611,14 +1611,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="homepage-stories-container" data-t50-page='/content/temasek-corporate/en/about-us/t50.html'>
 		<div class="t50-top-content">
 			<div class="flex">
-				<img src='https://localhost:8087/content/dam/temasek-corporate/T50/nov23/t50-logo-h.svg' alt="">
+				<img src='/content/dam/temasek-corporate/T50/nov23/t50-logo-h.svg' alt="">
 				<div class="writeup"><p>Temasek's journey has been driven by a sense of purpose to do well, do right, and do good – so every generation prospers. As we commemorate our 50th&nbsp;anniversary, we recognise the achievements and contributions by generations past who made Temasek what it is today.&nbsp;</p>
 </div>
 			</div>
 		</div>
 		<div class="flex">
 			<div class="thumbnail-large">
-				<img src='https://localhost:8087/content/dam/temasek-corporate/T50/nov29/masthead-hero.jpg' alt="">
+				<img src='/content/dam/temasek-corporate/T50/nov29/masthead-hero.jpg' alt="">
 				<div class="content">
 					<p>Find out more about the individuals, initiatives, and pivotal moments that have shaped Temasek.</p>
 
@@ -1634,7 +1634,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<p class = "title">Navigating Complexity – At Speed</p>
 						</div>
 			
-						<img src="https://localhost:8087/content/dam/temasek-corporate/T50/50-by-fifty/lee-ai-ling/Lee&#32;Ai&#32;Ling_50x50_Thumb_LifestyleBG_580x520.jpg"/>
+						<img src="/content/dam/temasek-corporate/T50/50-by-fifty/lee-ai-ling/Lee&#32;Ai&#32;Ling_50x50_Thumb_LifestyleBG_580x520.jpg"/>
 					</div>
 				
 					<div class="t50-grid-item" data-popup="fostering-a-learning-organisation">
@@ -1644,7 +1644,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<p class = "title"> Fostering a Learning Organisation</p>
 						</div>
 			
-						<img src="https://localhost:8087/content/dam/temasek-corporate/T50/50-by-fifty/sherlyn-lim/Sherlyn&#32;Lim&#32;50x50_Thumb_LifestyleBG_580x520.jpg"/>
+						<img src="/content/dam/temasek-corporate/T50/50-by-fifty/sherlyn-lim/Sherlyn&#32;Lim&#32;50x50_Thumb_LifestyleBG_580x520.jpg"/>
 					</div>
 				
 					<div class="t50-grid-item" data-popup="an-on-the-ground-strategy-to-unlock-european-potential">
@@ -1654,7 +1654,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<p class = "title">An On-the-Ground Strategy to Unlock European Potential</p>
 						</div>
 			
-						<img src="https://localhost:8087/content/dam/temasek-corporate/T50/50-by-fifty/vincent-lee/Vincent&#32;Lee&#32;50x50_Thumb_LifestyleBG_580x520.jpg"/>
+						<img src="/content/dam/temasek-corporate/T50/50-by-fifty/vincent-lee/Vincent&#32;Lee&#32;50x50_Thumb_LifestyleBG_580x520.jpg"/>
 					</div>
 				
 					<div class="t50-grid-item" data-popup="a-new-blueprint-for-portfolio-growth">
@@ -1664,7 +1664,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<p class = "title">A New Blueprint for Portfolio Growth</p>
 						</div>
 			
-						<img src="https://localhost:8087/content/dam/temasek-corporate/T50/50-by-fifty/zechariah-neo/Zechariah&#32;Neo_50x50_Thumb_LifestyleBG_580x520.jpg"/>
+						<img src="/content/dam/temasek-corporate/T50/50-by-fifty/zechariah-neo/Zechariah&#32;Neo_50x50_Thumb_LifestyleBG_580x520.jpg"/>
 					</div>
 				
 			</div>
@@ -1680,7 +1680,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <a href="sustainability">
             <div class="teaser-image-wrapper">
-<img src="https://localhost:8087/content/dam/temasek-corporate/home/banner-images/our-sustainability-journey.png" alt="our-sustainability-journey" title="our-sustainability-journey" class="cq-dd-image teaser-image">
+<img src="/content/dam/temasek-corporate/home/banner-images/our-sustainability-journey.png" alt="our-sustainability-journey" title="our-sustainability-journey" class="cq-dd-image teaser-image">
             </div>
 
 
@@ -1738,7 +1738,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <button class="articles-carousel-arrow-left disabled"></button>
                 <button class="articles-carousel-arrow-right"></button>
             </div>
-            <a href="https://localhost:8087/en/news-and-resources/news-room.html" class="btn btn-primary-outline">View all</a>
+            <a href="/en/news-and-resources/news-room.html" class="btn btn-primary-outline">View all</a>
         </div>
     </div>
 
@@ -1754,7 +1754,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <a href="our-financials/portfolio-performance">
             <div class="teaser-image-wrapper">
-<img src="https://localhost:8087/content/dam/temasek-corporate/home/banner-images/portfolio-performance.jpg" alt="portfolio-performance" title="portfolio-performance" class="cq-dd-image teaser-image">
+<img src="/content/dam/temasek-corporate/home/banner-images/portfolio-performance.jpg" alt="portfolio-performance" title="portfolio-performance" class="cq-dd-image teaser-image">
             </div>
 
 
@@ -1775,10 +1775,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 <div class="parsys_column column_3"><div class="parsys_column column_3-c0"><div class="homepage-teaser parbase section">
-    <div class="homepage-teaser-wrapper white" style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/teasers/CapitaGreen.jpg');">
+    <div class="homepage-teaser-wrapper white" style="background-image: url('/content/dam/temasek-corporate/home/teasers/CapitaGreen.jpg');">
         <div class="homepage-teaser-wrapper-inner">
 
-        <a href="https://localhost:8087/en/about-us">
+        <a href="/en/about-us">
             <div class="homepage-teaser-title-wrapper">
                 <span class="homepage-teaser-section">About Us</span>
                 <h2 class="homepage-teaser-title"><p>A Global Investment Company Delivering Sustainable Returns&nbsp;Over the Long Term</p>
@@ -1793,7 +1793,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 </div><div class="parsys_column column_3-c1"><div class="homepage-teaser parbase section">
-    <div class="homepage-teaser-wrapper white" style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/teasers/Homepage_what_we_do_640x720.jpg');">
+    <div class="homepage-teaser-wrapper white" style="background-image: url('/content/dam/temasek-corporate/home/teasers/Homepage_what_we_do_640x720.jpg');">
         <div class="homepage-teaser-wrapper-inner">
 
         <a href="our-investments">
@@ -1812,10 +1812,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 </div><div class="parsys_column column_3-c2"><div class="homepage-teaser parbase section">
-    <div class="homepage-teaser-wrapper white" style="background-image: url('https://localhost:8087/content/dam/temasek-corporate/home/teasers/Community-effort-homepage-teaser-640x720.jpeg');">
+    <div class="homepage-teaser-wrapper white" style="background-image: url('/content/dam/temasek-corporate/home/teasers/Community-effort-homepage-teaser-640x720.jpeg');">
         <div class="homepage-teaser-wrapper-inner">
 
-        <a href="https://localhost:8087/en/our-community/staff-volunteers">
+        <a href="/en/our-community/staff-volunteers">
             <div class="homepage-teaser-title-wrapper">
                 <span class="homepage-teaser-section">Our People</span>
                 <h2 class="homepage-teaser-title"><p>Making a Difference Every Day</p>
@@ -1838,7 +1838,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <a href="our-community">
             <div class="teaser-image-wrapper">
-<img src="https://localhost:8087/content/dam/temasek-corporate/home/banner-images/making-a-difference.jpg" alt="making-a-difference" title="making-a-difference" class="cq-dd-image teaser-image">
+<img src="/content/dam/temasek-corporate/home/banner-images/making-a-difference.jpg" alt="making-a-difference" title="making-a-difference" class="cq-dd-image teaser-image">
             </div>
 
 
@@ -1922,13 +1922,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="footer-icons">
         <div class="dynamic-logo-footer dynamic-logo">
     <div class="dynamic-logo dynamic-logo-default">
-<a href="index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
-    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+<a href="index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
     
 </a>
 
-<a href="index" title="Home" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
-    <img src="https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
+<a href="index" title="Home" style="background: url('/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg') no-repeat left top; background-size: 100%;">
+    <img src="/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg" alt="">
 
     
 
@@ -1937,7 +1937,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </div>
 
-        <a id="footer-sitemap-button" href="https://localhost:8087/en/site-services/sitemap">
+        <a id="footer-sitemap-button" href="/en/site-services/sitemap">
             Site Map
         </a>
     </div>
@@ -1946,7 +1946,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="footer-links-1 footer-links">
     <div class="footer-links footer-links-default">
     <nav class="footer-links">
-        <h3><a href="https://localhost:8087/en/about-us">About Us</a></h3>
+        <h3><a href="/en/about-us">About Us</a></h3>
         <ul>
             <li><a href="about-us/temasek-at-a-glance">Temasek at a Glance</a></li>
             <li><a href="about-us/our-leadership">Our Leadership</a></li>
@@ -1996,7 +1996,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="sustainability/sustainability-strategy">Sustainability Strategy </a></li>
             <li><a href="sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a></li>
             <li><a href="sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a></li>
-            <li><a href="https://localhost:8087/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a></li>
+            <li><a href="/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a></li>
         </ul>
     </nav>
 </div>
@@ -2008,7 +2008,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <nav class="footer-links">
         <h3>Stay Informed</h3>
         <ul>
-            <li><a href="https://localhost:8087/en/news-and-resources">News &amp; Resources</a></li>
+            <li><a href="/en/news-and-resources">News &amp; Resources</a></li>
             <li><a href="contact-us">Contact Us</a></li>
             <li><a href="index#news-insights-overlay">Subscribe to our Newsletter</a></li>
         </ul>
@@ -2022,37 +2022,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="social-links-footer social-links">
     <div class="social-links social-links-default">
     <nav class="social-links">
-        <a class="social-links-facebook" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_FB.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.facebook.com/temasekholdings"></a>
+        <a class="social-links-facebook" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_FB.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.facebook.com/temasekholdings"></a>
 
 
-        <a class="social-links-instagram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://instagram.com/temasekseen/"></a>
+        <a class="social-links-instagram" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://instagram.com/temasekseen/"></a>
 
 
-        <a class="social-links-linkedin" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_LinkedIn.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://sg.linkedin.com/company/temasek-holdings"></a>
+        <a class="social-links-linkedin" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_LinkedIn.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://sg.linkedin.com/company/temasek-holdings"></a>
 
 
-        <a class="social-links-telegram" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Telegram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://t.me/temasekholdings"></a>
+        <a class="social-links-telegram" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Telegram.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://t.me/temasekholdings"></a>
 
 
-        <a class="social-links-tiktok" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
+        <a class="social-links-tiktok" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
 
 
-        <a class="social-links-wechat" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="index#"></a>
+        <a class="social-links-wechat" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="index#"></a>
 
         <div class="wechat-code">
-            <img src="https://localhost:8087/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>
+            <img src="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>
             <p class="instructions">WeChat ID: temasek_digital</p>
             <button></button>
         </div>
 
 
-        <a class="social-links-whatsapp" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Whatsapp.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p"></a>
+        <a class="social-links-whatsapp" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Whatsapp.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://whatsapp.com/channel/0029Va9wFv48V0ti1KyXRk1p"></a>
 
 
-        <a class="social-links-twitter" target="_blank" style="background-size: 100%; background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_X.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://x.com/Temasek"></a>
+        <a class="social-links-twitter" target="_blank" style="background-size: 100%; background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_X.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://x.com/Temasek"></a>
 
 
-        <a class="social-links-youtube" target="_blank" style="background: url('https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.youtube.com/user/TemasekDigital"></a>
+        <a class="social-links-youtube" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.youtube.com/user/TemasekDigital"></a>
 
     </nav>
 </div>
@@ -2065,11 +2065,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="footer-links footer-links-default">
     <nav class="footer-links">
         <ul>
-            <li><a href="https://localhost:8087/en/site-services/terms">Terms Of Use</a></li>
-            <li><a href="https://localhost:8087/en/site-services/accessibility">Accessibility</a></li>
+            <li><a href="/en/site-services/terms">Terms Of Use</a></li>
+            <li><a href="/en/site-services/accessibility">Accessibility</a></li>
             <li><a href="site-services/cookies.html">Privacy &amp; Cookies Notice</a></li>
             <li><a href="about-us/faqs">FAQs</a></li>
-            <li><a href="https://localhost:8087/en/site-services/nictemasek">.Temasek</a></li>
+            <li><a href="/en/site-services/nictemasek">.Temasek</a></li>
             <li><a href="https://vdp.temasek.com.sg/p/Policy">Report a Vulnerability</a></li>
         </ul>
     </nav>

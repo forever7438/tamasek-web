@@ -48,14 +48,14 @@
 
     <meta property="og:title" content="404 error" />
     <meta property="og:site_name" content="Temasek Corporate Website English" />
-    <meta property="og:url" content="https://localhost:8087/en/site-services/404-error" />
+    <meta property="og:url" content="/en/site-services/404-error" />
     <meta property="og:type" content="website" />
      <meta property="og:locale" content="en" />
 
     <meta name="twitter:title" content="404 error" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@testing_16nov" />
-    <meta name="twitter:url" content="https://localhost:8087/en/site-services/404-error" />
+    <meta name="twitter:url" content="/en/site-services/404-error" />
     <meta name="twitter:description" content=" " />
     <meta name="twitter:creator" content="@testing_16nov" />
 
@@ -146,7 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="cookie-body">
                     
                     
-                        <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them see our <a></a><a target="_blank"></a><a href="https://localhost:8087/en/site-services/cookies.html">cookie policy</a>.</p>
+                        <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them see our <a></a><a target="_blank"></a><a href="/en/site-services/cookies.html">cookie policy</a>.</p>
 
                     
                 </div>
@@ -266,13 +266,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="cookie-enable-body">
                 <div class="cookie-on">
                     <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="#">Turn cookies on</a>. </p>
-<p><a></a>View our <a href="https://localhost:8087/en/site-services/cookies" target="_blank">privacy notice</a> for more information</p>
+<p><a></a>View our <a href="/en/site-services/cookies" target="_blank">privacy notice</a> for more information</p>
 
                 </div>
 
                 <div class="cookie-off hidden">
                     <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="#">Turn cookies off.</a> </p>
-<p><a></a>View our <a href="https://localhost:8087/en/site-services/cookies" target="_blank">privacy notice</a> for more information</p>
+<p><a></a>View our <a href="/en/site-services/cookies" target="_blank">privacy notice</a> for more information</p>
 
                 </div>
             </div>
