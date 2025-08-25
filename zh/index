@@ -217,17 +217,6 @@
 
                     </div>
 
-                    <div class="link-2 fixed-link">
-
-                        <div class="fixed-link fixed-link-default">
-                            <a href="https://www.temasekreview.com.sg/zh/" class='temasek-review'>
-                                淡马锡年度报告
-                                <img src="index" alt="">
-                            </a>
-
-                        </div>
-
-                    </div>
 
                     <div class="link-3 fixed-link">
 
@@ -1348,59 +1337,6 @@
                 <script
                     src="https://localhost:8087/etc.clientlibs/temasek-commons/components/functional/carousel/clientlibs.min.js"></script>
 
-            </div>
-        </div>
-
-        <div class="stories-carousel articles-carousel parbase">
-
-            <link rel="stylesheet"
-                href="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/articles-carousel/clientlibs.min.css"
-                type="text/css">
-            <script
-                src="https://localhost:8087/etc.clientlibs/temasek-corporate/components/functional/articles-carousel/clientlibs.min.js"></script>
-
-
-
-
-            <div class="articles-carousel-wrapper"
-                data-resource="/content/temasek-corporate/zh/index/jcr:content/stories-carousel"
-                data-hide-description="true" data-date-disabled="false">
-                <div class="articles-carousel-intro">
-                    <h3>新闻和观点</h3>
-                    <h2>
-                        了解最新动态
-                    </h2>
-
-
-                    <div class="custom-select">
-                        <select>
-                            <option value="">选择</option>
-
-                            <option value="news">新闻稿</option>
-
-                            <option value="speeches">演说稿</option>
-
-                            <option value="statements">信函与声明</option>
-
-                            <option value="alerts">诈骗警示通告</option>
-
-                        </select>
-                    </div>
-
-
-                    <div class="articles-carousel-footer">
-                        <div class="articles-carousel-arrows">
-                            <button class="articles-carousel-arrow-left disabled"></button>
-                            <button class="articles-carousel-arrow-right"></button>
-                        </div>
-                        <a href="https://localhost:8087/zh/news-and-resources/news-room.html"
-                            class="btn btn-primary-outline">全部</a>
-                    </div>
-                </div>
-
-                <div class="articles-carousel-content">
-                    <div class="alert alert-warning hidden">There is no any record. Please try other option.</div>
-                </div>
             </div>
         </div>
 

@@ -206,17 +206,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
 
             <div class="topmenu-wrapper">
-                <div class="link-1 fixed-link">
+                <div class="link-login fixed-link">
 
-    <div class="fixed-link fixed-link-default">
-    <a href="https://www.temasekreview.com.sg/" class='temasek-review'>
-        Temasek Review
-        <img src="towards-net-zero-nature-positive-inclusive-growth" alt="">
-    </a>
+                    <div class="fixed-link fixed-link-default">
+                        <a href="#"
+                            class='link-login-btn'>
+                            LOGIN
+                            <img src alt>
+                        </a>
 
-</div>
+                    </div>
 
-</div>
+                </div>
+
+                <div class="link-register fixed-link">
+
+                    <div class="fixed-link fixed-link-default">
+                        <a href="#"
+                            class='link-register-btn'>
+                            REGISTER
+                            <img src alt>
+                        </a>
+
+                    </div>
+
+                </div>
 
                 <div class="link-t50 fixed-link">
 
