@@ -6,8 +6,8 @@
 window.TemasekConfig = {
     // 用户认证相关URL
     auth: {
-        loginUrl: 'http://localhost:8880/level/index.html#/login',
-        registerUrl: 'http://localhost:8880/level/index.html#/register'
+        loginUrl: '/level/index.html#/login',
+        registerUrl: '/level/index.html#/register'
     },
 
     // TSIA相关按钮URL

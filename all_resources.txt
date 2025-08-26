@@ -23,8 +23,8 @@
 ../../../../../etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/icons/video-play.png
 ../../../../../etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/icons/video-play.svg
 ../../content/dam/temasek-corporate/T50/t50-logo-only.svg
-../../content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg
-../../content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg
+../../content/dam/temasek-corporate/home/logos-icons/tsia.svg
+../../content/dam/temasek-corporate/home/logos-icons/tsia.svg
 ../../etc.clientlibs/clientlibs/granite/jquery.min.js
 ../../etc.clientlibs/clientlibs/granite/jquery/granite.min.js
 ../../etc.clientlibs/clientlibs/granite/utils.min.js
@@ -102,8 +102,8 @@
 /content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original
 /content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original
 /content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original
-/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg
-/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg
+/content/dam/temasek-corporate/home/logos-icons/tsia.svg
+/content/dam/temasek-corporate/home/logos-icons/tsia.svg
 /content/dam/temasek-corporate/sustainability/2025/00-tsr-cover/darker-sus-download-thumbnail-900x600.png
 /content/temasek-corporate/en/news-and-resources/resources#sustainability-report.html
 /en/about-us
@@ -250,8 +250,8 @@ about-us/temasek-at-a-glance
 c
 contact-us
 content/dam/temasek-corporate/T50/t50-logo-only.svg
-content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg
-content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg
+content/dam/temasek-corporate/home/logos-icons/tsia.svg
+content/dam/temasek-corporate/home/logos-icons/tsia.svg
 cookies.html
 cookies.html#
 cookies.html#news-insights-overlay
@@ -357,8 +357,8 @@ https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos
 https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Youtube.svg/_jcr_content/renditions/original
 https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original
 https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/logo_Instagram.svg/_jcr_content/renditions/original
-https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-purple.svg.downloadasset.svg
-https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/temasek-white.svg.downloadasset.svg
+https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/tsia.svg
+https://localhost:8087/content/dam/temasek-corporate/home/logos-icons/tsia.svg
 https://localhost:8087/content/dam/temasek-corporate/home/og-images/overseas-office-desktop.jpeg
 https://localhost:8087/content/dam/temasek-corporate/home/teasers/CapitaGreen.jpg
 https://localhost:8087/content/dam/temasek-corporate/home/teasers/Community-effort-homepage-teaser-640x720.jpeg

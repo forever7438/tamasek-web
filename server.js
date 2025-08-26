@@ -290,33 +290,25 @@ async function mainHandler(req, res) {
 
 // const httpServer = http.createServer(mainHandler);
 
-const httpServer = http.createServer((req, res) => {
-  // 获取原始主机名和请求路径
-  const host = req.headers.host
-    ? req.headers.host.replace(/:\d+$/, ":443")
-    : "localhost:443";
-  const location = `https://${host}${req.url}`;
-  res.writeHead(301, { Location: location });
-  res.end();
-});
+const httpServer = http.createServer(mainHandler);
 
-httpServer.listen(3080, () => {
-  console.log("HTTP server running on http://localhost:3080");
+httpServer.listen(8087, () => {
+  console.log("HTTP server running on http://localhost:8087");
 });
 
 // // 启动 HTTPS
-const httpsServer = https.createServer(
-  {
-    ...httpsOptions,
-    ciphers: [
-      "TLS_AES_256_GCM_SHA384",
-      "TLS_CHACHA20_POLY1305_SHA256",
-      "TLS_AES_128_GCM_SHA256",
-    ].join(":"),
-    minVersion: "TLSv1.3",
-  },
-  mainHandler
-);
-httpsServer.listen(8087, () => {
-  console.log("HTTPS server running on https://localhost:8087");
-});
+// const httpsServer = https.createServer(
+//   {
+//     ...httpsOptions,
+//     ciphers: [
+//       "TLS_AES_256_GCM_SHA384",
+//       "TLS_CHACHA20_POLY1305_SHA256",
+//       "TLS_AES_128_GCM_SHA256",
+//     ].join(":"),
+//     minVersion: "TLSv1.3",
+//   },
+//   mainHandler
+// );
+// httpsServer.listen(8087, () => {
+//   console.log("HTTPS server running on https://localhost:8087");
+// });
