@@ -151,7 +151,7 @@ window.getDownloadUrl = function (appType, platform) {
  * 退出登录
  */
 window.logout = function () {
-    localStorage.removeItem('token');
+    localStorage.removeItem('user');
     // 刷新页面以更新按钮状态
     window.location.reload();
 };
