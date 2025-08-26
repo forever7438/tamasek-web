@@ -51,7 +51,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>淡马锡年度报告 - Temasek</title>
+    <title>淡马锡年度报告 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="淡马锡年度报告" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -912,12 +912,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li class="current">
-            <a href="temasek-review">淡马锡年度报告</a>
+            <a href="/zh/our-financials/library/temasek-review">淡马锡年度报告</a>
 
         </li>
 
         <li>
-            <a href="credit-rating-reports">信贷评级报告</a>
+            <a href="/zh/our-financials/library/credit-rating-reports">信贷评级报告</a>
 
         </li>
 

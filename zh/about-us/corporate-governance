@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>公司治理 - Temasek</title>
+    <title>公司治理 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="公司治理" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -299,37 +299,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="temasek-at-a-glance">淡马锡概览</a>
+                        <a class="" href="/zh/about-us/temasek-at-a-glance">淡马锡概览</a>
                     </li>
                     <li>
-                        <a class="" href="our-purpose-charter-values">我们的使命、宪章和价值观</a>
+                        <a class="" href="/zh/about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a>
                     </li>
                     <li>
-                        <a class="" href="our-t2030-strategy">淡马锡2030战略 </a>
+                        <a class="" href="/zh/about-us/our-t2030-strategy">淡马锡2030战略 </a>
                     </li>
                     <li>
-                        <a class="" href="our-board">董事会</a>
+                        <a class="" href="/zh/about-us/our-board">董事会</a>
                     </li>
                     <li>
-                        <a class="" href="our-leadership">领导团队</a>
+                        <a class="" href="/zh/about-us/our-leadership">领导团队</a>
                     </li>
                     <li>
-                        <a class="" href="our-global-advisory-network">淡马锡全球顾问网络</a>
+                        <a class="" href="/zh/about-us/our-global-advisory-network">淡马锡全球顾问网络</a>
                     </li>
                     <li>
-                        <a class="" href="corporate-governance">公司治理</a>
+                        <a class="" href="/zh/about-us/corporate-governance">公司治理</a>
                     </li>
                     <li>
-                        <a class="" href="managing-risks">管理风险</a>
+                        <a class="" href="/zh/about-us/managing-risks">管理风险</a>
                     </li>
                     <li>
-                        <a class="" href="history-of-temasek">淡马锡的历史</a>
+                        <a class="" href="/zh/about-us/history-of-temasek">淡马锡的历史</a>
                     </li>
                     <li>
-                        <a class="" href="careers">职业机会</a>
+                        <a class="" href="/zh/about-us/careers">职业机会</a>
                     </li>
                     <li>
-                        <a class="" href="faqs">常见问题</a>
+                        <a class="" href="/zh/about-us/faqs">常见问题</a>
                     </li>
                 </ul>
             </div></div>
@@ -725,58 +725,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="temasek-at-a-glance">淡马锡概览</a>
-
+            <a href="/zh/about-us/temasek-at-a-glance">淡马锡概览</a>
         </li>
 
         <li>
-            <a href="our-purpose-charter-values">我们的使命、宪章和价值观</a>
-
+            <a href="/zh/about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a>
         </li>
 
         <li>
-            <a href="our-t2030-strategy">淡马锡2030战略 </a>
-
+            <a href="/zh/about-us/our-t2030-strategy">淡马锡2030战略 </a>
         </li>
 
         <li>
-            <a href="our-board">董事会</a>
-
+            <a href="/zh/about-us/our-board">董事会</a>
         </li>
 
         <li>
-            <a href="our-leadership">领导团队</a>
-
+            <a href="/zh/about-us/our-leadership">领导团队</a>
         </li>
 
         <li>
-            <a href="our-global-advisory-network">淡马锡全球顾问网络</a>
-
+            <a href="/zh/about-us/our-global-advisory-network">淡马锡全球顾问网络</a>
         </li>
 
         <li class="current">
-            <a href="corporate-governance">公司治理</a>
-
+            <a href="/zh/about-us/corporate-governance">公司治理</a>
         </li>
 
         <li>
-            <a href="managing-risks">管理风险</a>
-
+            <a href="/zh/about-us/managing-risks">管理风险</a>
         </li>
 
         <li>
-            <a href="history-of-temasek">淡马锡的历史</a>
-
+            <a href="/zh/about-us/history-of-temasek">淡马锡的历史</a>
         </li>
 
         <li>
-            <a href="careers">职业机会</a>
-
+            <a href="/zh/about-us/careers">职业机会</a>
         </li>
 
         <li>
-            <a href="faqs">常见问题</a>
-
+            <a href="/zh/about-us/faqs">常见问题</a>
         </li>
 
 
@@ -1769,11 +1758,11 @@ input[type="checkbox"] {
     <nav class="footer-links">
         <h3><a href="../about-us">关于淡马锡</a></h3>
         <ul>
-            <li><a href="temasek-at-a-glance">淡马锡概览</a></li>
-            <li><a href="our-leadership">领导团队</a></li>
-            <li><a href="our-purpose-charter-values">我们的使命、宪章和价值观</a></li>
-            <li><a href="../our-community">对社群的承诺</a></li>
-            <li><a href="careers">职业机会</a></li>
+            <li><a href="/zh/about-us/temasek-at-a-glance">淡马锡概览</a></li>
+            <li><a href="/zh/about-us/our-leadership">领导团队</a></li>
+            <li><a href="/zh/about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a></li>
+            <li><a href="/zh/our-community">对社群的承诺</a></li>
+            <li><a href="/zh/about-us/careers">职业机会</a></li>
         </ul>
     </nav>
 </div>
@@ -1884,7 +1873,7 @@ input[type="checkbox"] {
             <li><a href="/zh/site-services/terms">使用条款</a></li>
             <li><a href="/zh/site-services/accessibility">便捷使用途径</a></li>
             <li><a href="../site-services/cookies">隐私声明</a></li>
-            <li><a href="faqs">常见问题</a></li>
+            <li><a href="/zh/about-us/faqs">常见问题</a></li>
             <li><a href="/zh/site-services/nictemasek">.淡马锡</a></li>
         </ul>
     </nav>

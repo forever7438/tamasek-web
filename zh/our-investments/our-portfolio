@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>我们的投资组合 - Temasek</title>
+    <title>我们的投资组合 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="我们的投资组合" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -493,13 +493,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="investment-approach">投资理念和策略</a>
+                        <a class="" href="/zh/our-investments/investment-approach">投资理念和策略</a>
                     </li>
                     <li>
-                        <a class="" href="20-year-returns-outlook">20年期投资组合回报展望</a>
+                        <a class="" href="/zh/our-investments/20-year-returns-outlook">20年期投资组合回报展望</a>
                     </li>
                     <li>
-                        <a class="" href="our-portfolio">我们的投资组合</a>
+                        <a class="" href="/zh/our-investments/our-portfolio">我们的投资组合</a>
                     </li>
                 </ul>
             </div></div>
@@ -941,17 +941,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="investment-approach">投资理念和策略</a>
+            <a href="/zh/our-investments/investment-approach">投资理念和策略</a>
 
         </li>
 
         <li>
-            <a href="20-year-returns-outlook">20年期投资组合回报展望</a>
+            <a href="/zh/our-investments/20-year-returns-outlook">20年期投资组合回报展望</a>
 
         </li>
 
         <li class="current">
-            <a href="our-portfolio">我们的投资组合</a>
+            <a href="/zh/our-investments/our-portfolio">我们的投资组合</a>
 
         </li>
 

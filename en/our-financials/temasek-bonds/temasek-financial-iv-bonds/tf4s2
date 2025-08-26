@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>T2026-S$ Temasek Bond - Temasek</title>
+    <title>T2026-S$ Temasek Bond - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="T2026-S$ Temasek Bond" />
     <meta property="og:site_name" content="Temasek Corporate Website English" />

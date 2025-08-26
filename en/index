@@ -42,7 +42,7 @@
 <script src="/etc.clientlibs/temasek-commons/clientlibs/libs/dotdotdot.min.js"></script>
 <script src="/etc.clientlibs/temasek-corporate/components/page/homepage/clientlibs.min.js"></script>
 
-    <title>Temasek</title>
+    <title>Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="Home" />
     <meta property="og:site_name" content="Temasek Corporate Website English" />
@@ -280,14 +280,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <button class="cookie-enable-close"></button>
             <div class="cookie-enable-body">
                 <div class="cookie-on">
-                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="index#">Turn cookies on</a>. </p>
-<p><a></a>View our <a href="site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="/en/index#">Turn cookies on</a>. </p>
+<p><a></a>View our <a href="/en/site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
 
                 </div>
 
                 <div class="cookie-off hidden">
-                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="index#">Turn cookies off.</a> </p>
-<p><a></a>View our <a href="site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
+                    <p>This site uses cookies. By continuing to browse our site, you accept the use of cookies. <a></a><a href="/en/index#">Turn cookies off.</a> </p>
+<p><a></a>View our <a href="/en/site-services/cookies.html" target="_blank">privacy notice</a> for more information</p>
 
                 </div>
             </div>
@@ -344,40 +344,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="about-us/t50">Commemorating 50 Years</a>
+                        <a class="" href="/en/about-us/t50">Commemorating 50 Years</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/temasek-at-a-glance">Temasek at a Glance</a>
+                        <a class="" href="/en/about-us/temasek-at-a-glance">Temasek at a Glance</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+                        <a class="" href="/en/about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/our-t2030-strategy">Our T2030 Strategy</a>
+                        <a class="" href="/en/about-us/our-t2030-strategy">Our T2030 Strategy</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/our-board">Our Board</a>
+                        <a class="" href="/en/about-us/our-board">Our Board</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/our-leadership">Our Leadership</a>
+                        <a class="" href="/en/about-us/our-leadership">Our Leadership</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/our-global-advisory-network">Our Global Advisory Network</a>
+                        <a class="" href="/en/about-us/our-global-advisory-network">Our Global Advisory Network</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/corporate-governance">Corporate Governance</a>
+                        <a class="" href="/en/about-us/corporate-governance">Corporate Governance</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/managing-risks">Managing Risks</a>
+                        <a class="" href="/en/about-us/managing-risks">Managing Risks</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/history-of-temasek">History of Temasek</a>
+                        <a class="" href="/en/about-us/history-of-temasek">History of Temasek</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/careers">Careers</a>
+                        <a class="" href="/en/about-us/careers">Careers</a>
                     </li>
                     <li>
-                        <a class="" href="about-us/faqs">FAQs</a>
+                        <a class="" href="/en/about-us/faqs">FAQs</a>
                     </li>
                 </ul>
             </div></div>
@@ -423,68 +423,68 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+                        <a class="" href="/en/our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
                     </li>
                     <li>
-                        <a class="" href="our-financials/portfolio-performance">Portfolio Performance</a>
+                        <a class="" href="/en/our-financials/portfolio-performance">Portfolio Performance</a>
                     </li>
                     <li>
-                        <a class="" href="our-financials/wealth-added">Wealth Added</a>
+                        <a class="" href="/en/our-financials/wealth-added">Wealth Added</a>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="our-financials/group-financials">Group Financials</a>
+                        <a class="has-third-level-links" href="/en/our-financials/group-financials">Group Financials</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+                            <li><a class="" href="/en/our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+                            <li><a class="" href="/en/our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+                            <li><a class="" href="/en/our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+                            <li><a class="" href="/en/our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+                            <li><a class="" href="/en/our-financials/group-financials/group-income-statements">Group Income Statements​</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+                            <li><a class="" href="/en/our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+                            <li><a class="" href="/en/our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+                            <li><a class="" href="/en/our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
                             
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a class="" href="our-financials/cost-discipline">Cost Discipline​</a>
+                        <a class="" href="/en/our-financials/cost-discipline">Cost Discipline​</a>
                     </li>
                     <li>
-                        <a class="" href="our-financials/credit-profile">Credit Profile</a>
+                        <a class="" href="/en/our-financials/credit-profile">Credit Profile</a>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="our-financials/temasek-bonds">Temasek Bonds</a>
+                        <a class="has-third-level-links" href="/en/our-financials/temasek-bonds">Temasek Bonds</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+                            <li><a class="" href="/en/our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+                            <li><a class="" href="/en/our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+                            <li><a class="" href="/en/our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
                             
                             </li>
-                            <li><a class="has-fourth-level-links" href="our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+                            <li><a class="has-fourth-level-links" href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
                             
                                     <ul class="mega-menu-item-fourth-level-links " style="display:none">
 
-                                        <li><a class="" href="our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+                                        <li><a class="" href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
 
                                        </li>
                                     </ul>
@@ -492,16 +492,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </ul>
                     </li>
                     <li>
-                        <a class="" href="our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+                        <a class="" href="/en/our-financials/euro-commercial-paper">Euro-commercial Paper</a>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="our-financials/library">Investor Library</a>
+                        <a class="has-third-level-links" href="/en/our-financials/library">Investor Library</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="our-financials/library/temasek-review">Temasek Review</a>
+                            <li><a class="" href="/en/our-financials/library/temasek-review">Temasek Review</a>
                             
                             </li>
-                            <li><a class="" href="our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+                            <li><a class="" href="/en/our-financials/library/credit-rating-reports">Credit Rating Reports</a>
                             
                             </li>
                         </ul>
@@ -548,13 +548,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="our-investments/investment-approach">Investment Approach​</a>
+                        <a class="" href="/en/our-investments/investment-approach">Investment Approach​</a>
                     </li>
                     <li>
-                        <a class="" href="our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+                        <a class="" href="/en/our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
                     </li>
                     <li>
-                        <a class="" href="our-investments/our-portfolio">Our Portfolio</a>
+                        <a class="" href="/en/our-investments/our-portfolio">Our Portfolio</a>
                     </li>
                 </ul>
             </div></div>
@@ -607,67 +607,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="has-third-level-links" href="sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-at-the-core">Sustainability at the Core</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+                            <li><a class="" href="/en/sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
                             
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a class="" href="sustainability/key-highlights">Key Highlights</a>
+                        <a class="" href="/en/sustainability/key-highlights">Key Highlights</a>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="sustainability/sustainability-strategy">Sustainability Strategy </a>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-strategy">Sustainability Strategy </a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+                            <li><a class="" href="/en/sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
                             
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a class="" href="sustainability/sustainability-governance"> Sustainability Governance</a>
+                        <a class="" href="/en/sustainability/sustainability-governance"> Sustainability Governance</a>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+                        <a class="has-third-level-links" href="/en/sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
-                            <li><a class="" href="sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
                             
                             </li>
-                            <li><a class="" href="sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+                            <li><a class="" href="/en/sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
                             
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a class="has-third-level-links" href="sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+                        <a class="has-third-level-links" href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
                         <ul class="mega-menu-item-third-level-links" style="display:none">
 
                             <li><a class="" href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance/scenario-analysis-and-resilience">Scenario Analysis and Resilience</a>
@@ -826,10 +826,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a class="" target="_blank" href="/en/news-and-resources/scam-alerts">Scam Alerts</a>
                     </li>
                     <li>
-                        <a class="" href="news-and-resources/stories">Stories</a>
+                        <a class="" href="/en/news-and-resources/stories">Stories</a>
                     </li>
                     <li>
-                        <a class="" href="news-and-resources/resources">Resources</a>
+                        <a class="" href="/en/news-and-resources/resources">Resources</a>
                     </li>
                 </ul>
             </div></div>
@@ -885,7 +885,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li class="current">
-            <a href="index">Home</a>
+            <a href="/en/index">Home</a>
 
         </li>
 
@@ -897,62 +897,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="about-us/t50">Commemorating 50 Years</a>
+            <a href="/en/about-us/t50">Commemorating 50 Years</a>
 
         </li>
 
         <li>
-            <a href="about-us/temasek-at-a-glance">Temasek at a Glance</a>
+            <a href="/en/about-us/temasek-at-a-glance">Temasek at a Glance</a>
 
         </li>
 
         <li>
-            <a href="about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
+            <a href="/en/about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a>
 
         </li>
 
         <li>
-            <a href="about-us/our-t2030-strategy">Our T2030 Strategy</a>
+            <a href="/en/about-us/our-t2030-strategy">Our T2030 Strategy</a>
 
         </li>
 
         <li>
-            <a href="about-us/our-board">Our Board</a>
+            <a href="/en/about-us/our-board">Our Board</a>
 
         </li>
 
         <li>
-            <a href="about-us/our-leadership">Our Leadership</a>
+            <a href="/en/about-us/our-leadership">Our Leadership</a>
 
         </li>
 
         <li>
-            <a href="about-us/our-global-advisory-network">Our Global Advisory Network</a>
+            <a href="/en/about-us/our-global-advisory-network">Our Global Advisory Network</a>
 
         </li>
 
         <li>
-            <a href="about-us/corporate-governance">Corporate Governance</a>
+            <a href="/en/about-us/corporate-governance">Corporate Governance</a>
 
         </li>
 
         <li>
-            <a href="about-us/managing-risks">Managing Risks</a>
+            <a href="/en/about-us/managing-risks">Managing Risks</a>
 
         </li>
 
         <li>
-            <a href="about-us/history-of-temasek">History of Temasek</a>
+            <a href="/en/about-us/history-of-temasek">History of Temasek</a>
 
         </li>
 
         <li>
-            <a href="about-us/careers">Careers</a>
+            <a href="/en/about-us/careers">Careers</a>
 
         </li>
 
         <li>
-            <a href="about-us/faqs">FAQs</a>
+            <a href="/en/about-us/faqs">FAQs</a>
 
         </li>
 
@@ -962,71 +962,71 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="our-financials">Our Financials</a>
+            <a href="/en/our-financials">Our Financials</a>
 
             <ul class="dl-submenu level-0">
                 
 
 
         <li>
-            <a href="our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
+            <a href="/en/our-financials/ins-outs-temasek">Ins &amp; Outs of Temasek</a>
 
         </li>
 
         <li>
-            <a href="our-financials/portfolio-performance">Portfolio Performance</a>
+            <a href="/en/our-financials/portfolio-performance">Portfolio Performance</a>
 
         </li>
 
         <li>
-            <a href="our-financials/wealth-added">Wealth Added</a>
+            <a href="/en/our-financials/wealth-added">Wealth Added</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials">Group Financials</a>
+            <a href="/en/our-financials/group-financials">Group Financials</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
+            <a href="/en/our-financials/group-financials/adopting-international-accounting-standards">Adopting International Accounting Standards​</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
+            <a href="/en/our-financials/group-financials/group-financial-summary">Group Financial Summary</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
+            <a href="/en/our-financials/group-financials/statement-by-auditors">Statement by Auditors​</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
+            <a href="/en/our-financials/group-financials/statement-by-directors">Statement by Directors​</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials/group-income-statements">Group Income Statements​</a>
+            <a href="/en/our-financials/group-financials/group-income-statements">Group Income Statements​</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
+            <a href="/en/our-financials/group-financials/group-balance-sheets">Group Balance Sheets​</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
+            <a href="/en/our-financials/group-financials/group-cash-flow-statements">Group Cash Flow Statements​</a>
 
         </li>
 
         <li>
-            <a href="our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
+            <a href="/en/our-financials/group-financials/group-statements-of-changes-in-equity">Group Statements​ of Changes in Equity​</a>
 
         </li>
 
@@ -1036,46 +1036,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="our-financials/cost-discipline">Cost Discipline​</a>
+            <a href="/en/our-financials/cost-discipline">Cost Discipline​</a>
 
         </li>
 
         <li>
-            <a href="our-financials/credit-profile">Credit Profile</a>
+            <a href="/en/our-financials/credit-profile">Credit Profile</a>
 
         </li>
 
         <li>
-            <a href="our-financials/temasek-bonds">Temasek Bonds</a>
+            <a href="/en/our-financials/temasek-bonds">Temasek Bonds</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
+            <a href="/en/our-financials/temasek-bonds/considerations-before-investing-in-bonds">Considerations Before Investing in Bonds</a>
 
         </li>
 
         <li>
-            <a href="our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
+            <a href="/en/our-financials/temasek-bonds/overview-of-temasek-bonds">Overview of Temasek Bonds</a>
 
         </li>
 
         <li>
-            <a href="our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
+            <a href="/en/our-financials/temasek-bonds/temasek-financial-i-bonds">Temasek Financial (I) Bonds</a>
 
         </li>
 
         <li>
-            <a href="our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
+            <a href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds">Temasek Financial (IV) Bonds</a>
 
             <ul class="dl-submenu level-2">
                 
 
 
         <li>
-            <a href="our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
+            <a href="/en/our-financials/temasek-bonds/temasek-financial-iv-bonds/tf4s2">T2026-S$ Temasek Bond</a>
 
         </li>
 
@@ -1090,24 +1090,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="our-financials/euro-commercial-paper">Euro-commercial Paper</a>
+            <a href="/en/our-financials/euro-commercial-paper">Euro-commercial Paper</a>
 
         </li>
 
         <li>
-            <a href="our-financials/library">Investor Library</a>
+            <a href="/en/our-financials/library">Investor Library</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="our-financials/library/temasek-review">Temasek Review</a>
+            <a href="/en/our-financials/library/temasek-review">Temasek Review</a>
 
         </li>
 
         <li>
-            <a href="our-financials/library/credit-rating-reports">Credit Rating Reports</a>
+            <a href="/en/our-financials/library/credit-rating-reports">Credit Rating Reports</a>
 
         </li>
 
@@ -1122,24 +1122,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="our-investments">Our Investments</a>
+            <a href="/en/our-investments">Our Investments</a>
 
             <ul class="dl-submenu level-0">
                 
 
 
         <li>
-            <a href="our-investments/investment-approach">Investment Approach​</a>
+            <a href="/en/our-investments/investment-approach">Investment Approach​</a>
 
         </li>
 
         <li>
-            <a href="our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
+            <a href="/en/our-investments/20-year-returns-outlook">20-year Returns Outlook​</a>
 
         </li>
 
         <li>
-            <a href="our-investments/our-portfolio">Our Portfolio</a>
+            <a href="/en/our-investments/our-portfolio">Our Portfolio</a>
 
         </li>
 
@@ -1149,36 +1149,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="sustainability">Sustainability</a>
+            <a href="/en/sustainability">Sustainability</a>
 
             <ul class="dl-submenu level-0">
                 
 
 
         <li>
-            <a href="sustainability/sustainability-at-the-core">Sustainability at the Core</a>
+            <a href="/en/sustainability/sustainability-at-the-core">Sustainability at the Core</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
+            <a href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-executive-officer"> Message from Our Chief Executive Officer</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
+            <a href="/en/sustainability/sustainability-at-the-core/message-from-the-chief-sustainability-officer">Message from Our Chief Sustainability Officer</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
+            <a href="/en/sustainability/sustainability-at-the-core/at-the-core-business-sustainability-and-resilience">At the Core: Business Sustainability and Resilience</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
+            <a href="/en/sustainability/sustainability-at-the-core/our-sustainability-journey">Our Sustainability Journey</a>
 
         </li>
 
@@ -1188,34 +1188,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="sustainability/key-highlights">Key Highlights</a>
+            <a href="/en/sustainability/key-highlights">Key Highlights</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-strategy">Sustainability Strategy </a>
+            <a href="/en/sustainability/sustainability-strategy">Sustainability Strategy </a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
+            <a href="/en/sustainability/sustainability-strategy/towards-net-zero-nature-positive-inclusive-growth">Towards Net Zero, Nature Positive, and Inclusive Growth</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
+            <a href="/en/sustainability/sustainability-strategy/beyond-traditional-capital-structures">Beyond Traditional Capital Structures</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
+            <a href="/en/sustainability/sustainability-strategy/sustainability-perspectives-and-insights">Sustainability Perspectives and Insights</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
+            <a href="/en/sustainability/sustainability-strategy/double-materiality-assessment">Double Materiality Assessment</a>
 
         </li>
 
@@ -1225,34 +1225,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="sustainability/sustainability-governance"> Sustainability Governance</a>
+            <a href="/en/sustainability/sustainability-governance"> Sustainability Governance</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
+            <a href="/en/sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a>
 
             <ul class="dl-submenu level-1">
                 
 
 
         <li>
-            <a href="sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
+            <a href="/en/sustainability/sustainability-in-our-investments/investing-with-tomorrow-in-mind">Investing with Tomorrow in Mind</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
+            <a href="/en/sustainability/sustainability-in-our-investments/embedding-esg-as-part-of-our-investment-process">Embedding ESG as Part of Our Investment Process</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
+            <a href="/en/sustainability/sustainability-in-our-investments/engaging-our-portfolio-companies">Engaging Our Portfolio Companies</a>
 
         </li>
 
         <li>
-            <a href="sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
+            <a href="/en/sustainability/sustainability-in-our-investments/engaging-our-fund-managers">Engaging Our Fund Managers</a>
 
         </li>
 
@@ -1262,7 +1262,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
+            <a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a>
 
             <ul class="dl-submenu level-1">
                 
@@ -1348,7 +1348,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="our-community">Our Community</a>
+            <a href="/en/our-community">Our Community</a>
 
             <ul class="dl-submenu level-0">
                 
@@ -1419,12 +1419,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
         <li>
-            <a href="news-and-resources/stories">Stories</a>
+            <a href="/en/news-and-resources/stories">Stories</a>
 
         </li>
 
         <li>
-            <a href="news-and-resources/resources">Resources</a>
+            <a href="/en/news-and-resources/resources">Resources</a>
 
         </li>
 
@@ -1509,7 +1509,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-ipad-image="/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution%20Tablet.jpg"
     data-desktop-image="/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution.jpg"
     style="background-image: url('/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution.jpg');">
-    <a href="our-financials">
+    <a href="/en/our-financials">
         <!-- TSIA按钮 - 悬浮在左上角 -->
         <div class="tsia-buttons-container">
             <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
@@ -1534,7 +1534,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-ipad-image="/content/dam/temasek-corporate/home/banner-images/trusted-steward-mobile.jpg"
     data-desktop-image="/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg"
     style="background-image: url('/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg');">
-    <a href="our-community">
+    <a href="/en/our-community">
         <!-- TSIA按钮 - 悬浮在左上角 -->
         <div class="tsia-buttons-container">
             <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
@@ -2029,11 +2029,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <nav class="footer-links">
         <h3><a href="/en/about-us">About Us</a></h3>
         <ul>
-            <li><a href="about-us/temasek-at-a-glance">Temasek at a Glance</a></li>
-            <li><a href="about-us/our-leadership">Our Leadership</a></li>
-            <li><a href="about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a></li>
-            <li><a href="our-community">Our Community</a></li>
-            <li><a href="about-us/careers">Careers</a></li>
+            <li><a href="/en/about-us/temasek-at-a-glance">Temasek at a Glance</a></li>
+            <li><a href="/en/about-us/our-leadership">Our Leadership</a></li>
+            <li><a href="/en/about-us/our-purpose-charter-values">Our Purpose, Charter &amp; Values</a></li>
+            <li><a href="/en/our-community">Our Community</a></li>
+            <li><a href="/en/about-us/careers">Careers</a></li>
         </ul>
     </nav>
 </div>
@@ -2043,10 +2043,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="footer-links-2 footer-links">
     <div class="footer-links footer-links-default">
     <nav class="footer-links">
-        <h3><a href="our-investments">Our Investments</a></h3>
+        <h3><a href="/en/our-investments">Our Investments</a></h3>
         <ul>
-            <li><a href="our-investments/investment-approach">Investment Approach​</a></li>
-            <li><a href="our-investments/our-portfolio">Our Portfolio</a></li>
+            <li><a href="/en/our-investments/investment-approach">Investment Approach​</a></li>
+            <li><a href="/en/our-investments/our-portfolio">Our Portfolio</a></li>
         </ul>
     </nav>
 </div>
@@ -2056,11 +2056,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="footer-links-3 footer-links">
     <div class="footer-links footer-links-default">
     <nav class="footer-links">
-        <h3><a href="our-financials">Our Financials</a></h3>
+        <h3><a href="/en/our-financials">Our Financials</a></h3>
         <ul>
-            <li><a href="our-financials/portfolio-performance">Portfolio Performance</a></li>
-            <li><a href="our-financials/credit-profile">Credit Profile</a></li>
-            <li><a href="our-financials/library/temasek-review">Temasek Review</a></li>
+            <li><a href="/en/our-financials/portfolio-performance">Portfolio Performance</a></li>
+            <li><a href="/en/our-financials/credit-profile">Credit Profile</a></li>
+            <li><a href="/en/our-financials/library/temasek-review">Temasek Review</a></li>
         </ul>
     </nav>
 </div>
@@ -2070,13 +2070,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="footer-links-4 footer-links">
     <div class="footer-links footer-links-default">
     <nav class="footer-links">
-        <h3><a href="sustainability">Sustainability</a></h3>
+        <h3><a href="/en/sustainability">Sustainability</a></h3>
         <ul>
-            <li><a href="sustainability/sustainability-at-the-core">Sustainability at the Core</a></li>
-            <li><a href="sustainability/key-highlights">Key Highlights</a></li>
-            <li><a href="sustainability/sustainability-strategy">Sustainability Strategy </a></li>
-            <li><a href="sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a></li>
-            <li><a href="sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a></li>
+            <li><a href="/en/sustainability/sustainability-at-the-core">Sustainability at the Core</a></li>
+            <li><a href="/en/sustainability/key-highlights">Key Highlights</a></li>
+            <li><a href="/en/sustainability/sustainability-strategy">Sustainability Strategy </a></li>
+            <li><a href="/en/sustainability/sustainability-in-our-investments">Sustainability in Our Investments</a></li>
+            <li><a href="/en/sustainability/managing-sustainability-and-climate-risk-and-performance">Managing Sustainability and Climate Risk and Performance</a></li>
             <li><a href="/en/sustainability/accelerating-sustainability-through-collaboration">Accelerating Sustainability Through Collaboration</a></li>
         </ul>
     </nav>
@@ -2090,8 +2090,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h3>Stay Informed</h3>
         <ul>
             <li><a href="/en/news-and-resources">News &amp; Resources</a></li>
-            <li><a href="contact-us">Contact Us</a></li>
-            <li><a href="index#news-insights-overlay">Subscribe to our Newsletter</a></li>
+            <li><a href="/en/contact-us">Contact Us</a></li>
+            <li><a href="/en/index#news-insights-overlay">Subscribe to our Newsletter</a></li>
         </ul>
     </nav>
 </div>
@@ -2148,8 +2148,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <ul>
             <li><a href="/en/site-services/terms">Terms Of Use</a></li>
             <li><a href="/en/site-services/accessibility">Accessibility</a></li>
-            <li><a href="site-services/cookies.html">Privacy &amp; Cookies Notice</a></li>
-            <li><a href="about-us/faqs">FAQs</a></li>
+            <li><a href="/en/site-services/cookies.html">Privacy &amp; Cookies Notice</a></li>
+            <li><a href="/en/about-us/faqs">FAQs</a></li>
             <li><a href="/en/site-services/nictemasek">.Temasek</a></li>
             <li><a href="https://vdp.temasek.com.sg/p/Policy">Report a Vulnerability</a></li>
         </ul>
@@ -2236,7 +2236,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <span><input id="consent" name="consent" type="checkbox" /></span>
                         <label for="consent">
                             
-                                <p>By checking this box, I agree to the <a href="site-services/cookies.html" target="_blank">privacy terms</a> on the website.</p>
+                                <p>By checking this box, I agree to the <a href="/en/site-services/cookies.html" target="_blank">privacy terms</a> on the website.</p>
 
                             
                         </label>

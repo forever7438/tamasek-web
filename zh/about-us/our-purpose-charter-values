@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>我们的使命、宪章和价值观 - Temasek</title>
+    <title>我们的使命、宪章和价值观 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="我们的使命、宪章和价值观" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -296,37 +296,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="temasek-at-a-glance">淡马锡概览</a>
+                        <a class="" href="/zh/about-us/temasek-at-a-glance">淡马锡概览</a>
                     </li>
                     <li>
-                        <a class="" href="our-purpose-charter-values">我们的使命、宪章和价值观</a>
+                        <a class="" href="/zh/about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a>
                     </li>
                     <li>
-                        <a class="" href="our-t2030-strategy">淡马锡2030战略 </a>
+                        <a class="" href="/zh/about-us/our-t2030-strategy">淡马锡2030战略 </a>
                     </li>
                     <li>
-                        <a class="" href="our-board">董事会</a>
+                        <a class="" href="/zh/about-us/our-board">董事会</a>
                     </li>
                     <li>
-                        <a class="" href="our-leadership">领导团队</a>
+                        <a class="" href="/zh/about-us/our-leadership">领导团队</a>
                     </li>
                     <li>
-                        <a class="" href="our-global-advisory-network">淡马锡全球顾问网络</a>
+                        <a class="" href="/zh/about-us/our-global-advisory-network">淡马锡全球顾问网络</a>
                     </li>
                     <li>
-                        <a class="" href="corporate-governance">公司治理</a>
+                        <a class="" href="/zh/about-us/corporate-governance">公司治理</a>
                     </li>
                     <li>
-                        <a class="" href="managing-risks">管理风险</a>
+                        <a class="" href="/zh/about-us/managing-risks">管理风险</a>
                     </li>
                     <li>
-                        <a class="" href="history-of-temasek">淡马锡的历史</a>
+                        <a class="" href="/zh/about-us/history-of-temasek">淡马锡的历史</a>
                     </li>
                     <li>
-                        <a class="" href="careers">职业机会</a>
+                        <a class="" href="/zh/about-us/careers">职业机会</a>
                     </li>
                     <li>
-                        <a class="" href="faqs">常见问题</a>
+                        <a class="" href="/zh/about-us/faqs">常见问题</a>
                     </li>
                 </ul>
             </div></div>
@@ -722,57 +722,57 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="temasek-at-a-glance">淡马锡概览</a>
+            <a href="/zh/about-us/temasek-at-a-glance">淡马锡概览</a>
 
         </li>
 
         <li class="current">
-            <a href="our-purpose-charter-values">我们的使命、宪章和价值观</a>
+            <a href="/zh/about-us/our-purpose-charter-values">我们的使命、宪章和价值观</a>
 
         </li>
 
         <li>
-            <a href="our-t2030-strategy">淡马锡2030战略 </a>
+            <a href="/zh/about-us/our-t2030-strategy">淡马锡2030战略 </a>
 
         </li>
 
         <li>
-            <a href="our-board">董事会</a>
+            <a href="/zh/about-us/our-board">董事会</a>
 
         </li>
 
         <li>
-            <a href="our-leadership">领导团队</a>
+            <a href="/zh/about-us/our-leadership">领导团队</a>
 
         </li>
 
         <li>
-            <a href="our-global-advisory-network">淡马锡全球顾问网络</a>
+            <a href="/zh/about-us/our-global-advisory-network">淡马锡全球顾问网络</a>
 
         </li>
 
         <li>
-            <a href="corporate-governance">公司治理</a>
+            <a href="/zh/about-us/corporate-governance">公司治理</a>
 
         </li>
 
         <li>
-            <a href="managing-risks">管理风险</a>
+            <a href="/zh/about-us/managing-risks">管理风险</a>
 
         </li>
 
         <li>
-            <a href="history-of-temasek">淡马锡的历史</a>
+            <a href="/zh/about-us/history-of-temasek">淡马锡的历史</a>
 
         </li>
 
         <li>
-            <a href="careers">职业机会</a>
+            <a href="/zh/about-us/careers">职业机会</a>
 
         </li>
 
         <li>
-            <a href="faqs">常见问题</a>
+            <a href="/zh/about-us/faqs">常见问题</a>
 
         </li>
 
@@ -1220,7 +1220,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<div class="default"><p style="text-align: center;"><a href="our-t2030-strategy">我们实现目标的战略支柱</a></p>
+<div class="default"><p style="text-align: center;"><a href="/zh/about-us/our-t2030-strategy">我们实现目标的战略支柱</a></p>
 <p style="text-align: center;">&nbsp;</p>
 </div>
 
@@ -1232,14 +1232,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <figure id="cq-image-jsp-/content/temasek-corporate/zh/about-us/our-purpose-charter-values/jcr:content/par/image_1411050314_cop" class="img-width-100 default image" data-tooltip-content="null">
 
-        <a href="our-purpose-charter-values#meritt-values"><a href="our-purpose-charter-values#meritt-values"><img src="/content/dam/temasek-corporate/about-us/purpose-and-values/TRH24-CHI_Our_MERITT_Values-rgb.png" alt=" " style="display: block;margin-left: auto;margin-right: auto;" title=" " class="cq-dd-image"></a></a>
+        <a href="/zh/about-us/our-purpose-charter-values#meritt-values"><a href="/zh/about-us/our-purpose-charter-values#meritt-values"><img src="/content/dam/temasek-corporate/about-us/purpose-and-values/TRH24-CHI_Our_MERITT_Values-rgb.png" alt=" " style="display: block;margin-left: auto;margin-right: auto;" title=" " class="cq-dd-image"></a></a>
 
     </figure></div>
 <div class="text parbase section">
 
 
 
-<div class="default"><p style="text-align: center;"><a href="our-purpose-charter-values#meritt-values">我们奉行的价值导向</a></p>
+<div class="default"><p style="text-align: center;"><a href="/zh/about-us/our-purpose-charter-values#meritt-values">我们奉行的价值导向</a></p>
 <p style="text-align: center;">&nbsp;</p>
 </div>
 
@@ -1546,7 +1546,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="teaser-wrapper-content">
 
 
-        <a href="corporate-governance">
+        <a href="/zh/about-us/corporate-governance">
             <div class="teaser-image-wrapper">
 <img src="/content/dam/temasek-corporate/related-links-images-640-320/who-we-are/related-corporate-governance.jpg" alt="related-corporate-governance" title="related-corporate-governance" class="cq-dd-image teaser-image">
             </div>
@@ -1573,7 +1573,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="teaser-wrapper-content">
 
 
-        <a href="our-leadership">
+        <a href="/zh/about-us/our-leadership">
             <div class="teaser-image-wrapper">
 <img src="/content/dam/temasek-corporate/related-links-images-640-320/who-we-are/related-handshake.jpg" alt="related-handshake" title="related-handshake" class="cq-dd-image teaser-image">
             </div>

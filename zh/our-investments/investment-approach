@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>投资理念和策略 - Temasek</title>
+    <title>投资理念和策略 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="投资理念和策略" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -478,13 +478,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul class="mega-menu-item-links">
 
                     <li>
-                        <a class="" href="investment-approach">投资理念和策略</a>
+                        <a class="" href="/zh/our-investments/investment-approach">投资理念和策略</a>
                     </li>
                     <li>
-                        <a class="" href="20-year-returns-outlook">20年期投资组合回报展望</a>
+                        <a class="" href="/zh/our-investments/20-year-returns-outlook">20年期投资组合回报展望</a>
                     </li>
                     <li>
-                        <a class="" href="our-portfolio">我们的投资组合</a>
+                        <a class="" href="/zh/our-investments/our-portfolio">我们的投资组合</a>
                     </li>
                 </ul>
             </div></div>
@@ -1532,7 +1532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="teaser-wrapper-content">
 
 
-        <a href="../about-us/managing-risks">
+        <a href="/zh/about-us/managing-risks">
             <div class="teaser-image-wrapper">
 <img src="/content/dam/temasek-corporate/related-links-images-640-320/what-we-do/related-risks.jpg" alt="related-risks" title="related-risks" class="cq-dd-image teaser-image">
             </div>
@@ -1558,7 +1558,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="teaser-wrapper-content">
 
 
-        <a href="our-portfolio">
+        <a href="/zh/our-investments/our-portfolio">
             <div class="teaser-image-wrapper">
 <img src="/content/dam/temasek-corporate/our-investments/our-portfolio-related-content.jpg" alt="our-portfolio-related-content" title="our-portfolio-related-content" class="cq-dd-image teaser-image">
             </div>

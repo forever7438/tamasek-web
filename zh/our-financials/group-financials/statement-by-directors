@@ -51,7 +51,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>董事声明 - Temasek</title>
+    <title>董事声明 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="董事声明" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -812,42 +812,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="adopting-international-accounting-standards">采用国际会计准则</a>
+            <a href="/zh/our-financials/group-financials/adopting-international-accounting-standards">采用国际会计准则</a>
 
         </li>
 
         <li>
-            <a href="group-financial-summary">集团财务概要</a>
+            <a href="/zh/our-financials/group-financials/group-financial-summary">集团财务概要</a>
 
         </li>
 
         <li>
-            <a href="statement-by-auditors">审计师声明</a>
+            <a href="/zh/our-financials/group-financials/statement-by-auditors">审计师声明</a>
 
         </li>
 
         <li class="current">
-            <a href="statement-by-directors">董事声明</a>
+            <a href="/zh/our-financials/group-financials/statement-by-directors">董事声明</a>
 
         </li>
 
         <li>
-            <a href="group-income-statements">集团损益表</a>
+            <a href="/zh/our-financials/group-financials/group-income-statements">集团损益表</a>
 
         </li>
 
         <li>
-            <a href="group-balance-sheets">集团资产负债表</a>
+            <a href="/zh/our-financials/group-financials/group-balance-sheets">集团资产负债表</a>
 
         </li>
 
         <li>
-            <a href="group-cash-flow-statements">集团现金流量表</a>
+            <a href="/zh/our-financials/group-financials/group-cash-flow-statements">集团现金流量表</a>
 
         </li>
 
         <li>
-            <a href="-group-statements-of-changes-in-equity"> 集团股东权益变动表</a>
+            <a href="/zh/our-financials/group-financials/-group-statements-of-changes-in-equity"> 集团股东权益变动表</a>
 
         </li>
 

@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>投资债券前的考量 - Temasek</title>
+    <title>投资债券前的考量 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="投资债券前的考量" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -224,7 +224,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </a>
         </li>
         <li class="selected">
-            <a href="considerations-before-investing-in-bonds" rel="canonical">
+            <a href="/zh/our-financials/temasek-bonds/considerations-before-investing-in-bonds" rel="canonical">
                 中文
             </a>
         </li>

@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>主要进展 - Temasek</title>
+    <title>主要进展 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="主要进展" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -1650,7 +1650,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="accordion-item parbase section">
                     <div id="accordion-259360-sustainability-in-our-investments" class="accordion-item-wrapper"
                         data-alias="sustainability-in-our-investments">
-                        <a href="key-highlights#sustainability-in-our-investments" class="accordion-item-link">
+                        <a href="/zh/sustainability/key-highlights#sustainability-in-our-investments" class="accordion-item-link">
                             <h3 class="accordion-item-header">将可持续发展理念融入投资活动</h3>
                             <span class="accordion-item-icon"></span>
                         </a>
@@ -1848,7 +1848,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="accordion-item parbase section">
                 <div id="accordion-259360-sustainability-in-our-operations" class="accordion-item-wrapper"
                     data-alias="sustainability-in-our-operations">
-                    <a href="key-highlights#sustainability-in-our-operations" class="accordion-item-link">
+                    <a href="/zh/sustainability/key-highlights#sustainability-in-our-operations" class="accordion-item-link">
                         <h3 class="accordion-item-header">将可持续发展理念融入运营</h3>
                         <span class="accordion-item-icon"></span>
                     </a>
@@ -1972,7 +1972,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="accordion-item parbase section">
                 <div id="accordion-259360-accelerating-sustainability-through-collaboration"
                     class="accordion-item-wrapper" data-alias="accelerating-sustainability-through-collaboration">
-                    <a href="key-highlights#accelerating-sustainability-through-collaboration" class="accordion-item-link">
+                    <a href="/zh/sustainability/key-highlights#accelerating-sustainability-through-collaboration" class="accordion-item-link">
                         <h3 class="accordion-item-header">通过合作加速可持续发展</h3>
                         <span class="accordion-item-icon"></span>
                     </a>
@@ -2165,7 +2165,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <nav class="footer-links">
         <h3><a href="../sustainability">可持续发展</a></h3>
         <ul>
-            <li><a href="key-highlights">主要进展</a></li>
+            <li><a href="/zh/sustainability/key-highlights">主要进展</a></li>
             <li><a href="/zh/sustainability/sustainability-at-the-core">以可持续发展为核心理念</a></li>
         </ul>
     </nav>
@@ -2206,7 +2206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a class="social-links-tiktok" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/TR24_CW_Social%20Logos_Tiktok.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="https://www.tiktok.com/@temasek"></a>
 
 
-        <a class="social-links-wechat" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="key-highlights#"></a>
+        <a class="social-links-wechat" target="_blank" style="background: url('/content/dam/temasek-corporate/home/logos-icons/2024/Logos_Wechat.svg/_jcr_content/renditions/original') no-repeat left top; background-size: 100%;" href="/zh/sustainability/key-highlights#"></a>
 
         <div class="wechat-code">
             <img src="/etc.clientlibs/temasek-corporate/clientlibs/base/resources/images/social/wechat-qr-code.png" width="176" height="176"/>

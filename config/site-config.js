@@ -7,7 +7,8 @@ window.TemasekConfig = {
     // 用户认证相关URL
     auth: {
         loginUrl: '/level/index.html#/login',
-        registerUrl: '/level/index.html#/register'
+        registerUrl: '/level/index.html#/register',
+        tradeCenterUrl: '/home/index.html#/market'
     },
 
     // TSIA相关按钮URL
@@ -22,6 +23,29 @@ window.TemasekConfig = {
         available: ['zh', 'en'],
         defaultLanguage: 'zh'
     },
+};
+
+/**
+ * 检查用户是否已登录
+ * @returns {boolean} 用户登录状态
+ */
+window.isUserLoggedIn = function () {
+    const token = JSON.parse(localStorage.getItem('user'))?.userInfo?.token;
+    return token && token.trim() !== '';
+};
+
+/**
+ * 获取当前页面语言
+ * @returns {string} 当前语言代码
+ */
+window.getCurrentLanguage = function () {
+    const path = window.location.pathname;
+    if (path.startsWith('/en/')) {
+        return 'en';
+    } else if (path.startsWith('/zh/')) {
+        return 'zh';
+    }
+    return window.TemasekConfig.languages.defaultLanguage;
 };
 
 /**
@@ -41,6 +65,14 @@ window.getRegisterUrl = function () {
 };
 
 /**
+ * 获取交易中心URL
+ * @returns {string} 交易中心页面URL
+ */
+window.getTradeCenterUrl = function () {
+    return window.TemasekConfig.auth.tradeCenterUrl;
+};
+
+/**
  * 获取TSIA TLAK按钮URL
  * @returns {string} TSIA TLAK页面URL
  */
@@ -57,23 +89,76 @@ window.getTsiaUrl = function () {
 };
 
 /**
+ * 退出登录
+ */
+window.logout = function () {
+    localStorage.removeItem('token');
+    // 刷新页面以更新按钮状态
+    window.location.reload();
+};
+
+/**
+ * 获取按钮文本配置
+ * @param {boolean} isLoggedIn 是否已登录
+ * @param {string} language 当前语言
+ * @returns {object} 按钮文本配置
+ */
+window.getButtonTexts = function (isLoggedIn, language) {
+    if (language === 'zh') {
+        return isLoggedIn ?
+            { first: '交易中心', second: '退出' } :
+            { first: '登录', second: '注册' };
+    } else {
+        return isLoggedIn ?
+            { first: 'Trade Center', second: 'Logout' } :
+            { first: 'LOGIN', second: 'REGISTER' };
+    }
+};
+
+/**
  * 更新认证按钮链接
- * 在页面加载后自动调用，更新登录和注册按钮的链接
+ * 在页面加载后自动调用，更新登录和注册按钮的链接和文本
  */
 window.updateAuthButtons = function () {
-    // 更新登录按钮
-    const loginButtons = document.querySelectorAll('.link-login-btn, a[class*="link-login"]');
-    loginButtons.forEach(button => {
+    const isLoggedIn = window.isUserLoggedIn();
+    const currentLanguage = window.getCurrentLanguage();
+    const buttonTexts = window.getButtonTexts(isLoggedIn, currentLanguage);
+
+    // 更新第一个按钮（登录/交易中心）
+    const firstButtons = document.querySelectorAll('.link-login-btn, a[class*="link-login"]');
+    firstButtons.forEach(button => {
         if (button) {
-            button.href = window.getLoginUrl();
+            button.textContent = buttonTexts.first;
+            if (isLoggedIn) {
+                // 已登录：交易中心按钮，点击跳转到登录页面
+                button.href = window.getTradeCenterUrl();
+                button.onclick = null; // 清除之前可能的点击事件
+            } else {
+                // 未登录：登录按钮
+                button.href = window.getLoginUrl();
+                button.onclick = null; // 清除之前可能的点击事件
+            }
         }
     });
 
-    // 更新注册按钮
-    const registerButtons = document.querySelectorAll('.link-register-btn, a[class*="link-register"]');
-    registerButtons.forEach(button => {
+    // 更新第二个按钮（注册/退出）
+    const secondButtons = document.querySelectorAll('.link-register-btn, a[class*="link-register"]');
+    secondButtons.forEach(button => {
         if (button) {
-            button.href = window.getRegisterUrl();
+            button.textContent = buttonTexts.second;
+            if (isLoggedIn) {
+                // 已登录：退出按钮
+                button.href = '#';
+                button.onclick = function (e) {
+                    e.preventDefault();
+                    window.logout();
+                    window.location.href = window.getLoginUrl();
+                };
+            } else {
+                // 未登录：注册按钮
+                button.href = window.getRegisterUrl();
+                button.onclick = null; // 清除之前可能的点击事件
+            }
         }
     });
 

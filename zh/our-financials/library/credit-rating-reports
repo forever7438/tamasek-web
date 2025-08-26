@@ -52,7 +52,7 @@
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.en.js"></script>
 <script src="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/js/i18n/datepicker.zh.js"></script>
 <link rel="stylesheet" href="/etc/designs/temasek-corporate/libs/datepicker_clientlibs/css/datepicker.min.css" type="text/css" media="all"/>
-    <title>信贷评级报告 - Temasek</title>
+    <title>信贷评级报告 - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="信贷评级报告" />
     <meta property="og:site_name" content="Temasek Corporate Website 中文" />
@@ -224,7 +224,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </a>
         </li>
         <li class="selected">
-            <a href="credit-rating-reports" rel="canonical">
+            <a href="/zh/our-financials/library/credit-rating-reports" rel="canonical">
                 中文
             </a>
         </li>
@@ -236,13 +236,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <button class="cookie-enable-close"></button>
             <div class="cookie-enable-body">
                 <div class="cookie-on">
-                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a></a><a href="credit-rating-reports#">开启cookies</a><a href="../../site-services/cookies" target="_blank"></a></p>
+                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a></a><a href="/zh/our-financials/library/credit-rating-reports#">开启cookies</a><a href="../../site-services/cookies" target="_blank"></a></p>
 <p><a></a>浏览我们的<a href="https://www.temasekreview.com.sg/zh/privacy.html">隐私声明</a>，了解更多信息。</p>
 
                 </div>
 
                 <div class="cookie-off hidden">
-                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a href="credit-rating-reports#">关闭</a><a>cookies</a></p>
+                    <p>本网站使用cookies。继续浏览我们的网站，即表示您同意使用cookies。<a href="/zh/our-financials/library/credit-rating-reports#">关闭</a><a>cookies</a></p>
 <p><a></a>浏览我们的<a href="../../site-services/cookies" target="_blank">隐私声明</a>，了解更多信息。</p>
 <p> </p>
 
@@ -914,12 +914,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
         <li>
-            <a href="temasek-review">淡马锡年度报告</a>
+            <a href="/zh/our-financials/library/temasek-review">淡马锡年度报告</a>
 
         </li>
 
         <li class="current">
-            <a href="credit-rating-reports">信贷评级报告</a>
+            <a href="/zh/our-financials/library/credit-rating-reports">信贷评级报告</a>
 
         </li>
 
@@ -1285,7 +1285,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <ul>
             <li><a href="../portfolio-performance">投资组合表现</a></li>
             <li><a href="../credit-profile">信用概览</a></li>
-            <li><a href="temasek-review">淡马锡年度报告</a></li>
+            <li><a href="/zh/our-financials/library/temasek-review">淡马锡年度报告</a></li>
         </ul>
     </nav>
 </div>

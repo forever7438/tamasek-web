@@ -46,7 +46,7 @@
 <script src="/etc.clientlibs/temasek-commons/components/functional/page-spinner/clientlibs.min.js"></script>
 <script src="/etc.clientlibs/temasek-corporate/components/page/news/news-overview-page/clientlibs.min.js"></script>
 
-    <title>Newsroom - Temasek</title>
+    <title>Newsroom - Temasek Securities Investment Advisory</title>
 
     <meta property="og:title" content="Newsroom" />
     <meta property="og:site_name" content="Temasek Corporate Website English" />
