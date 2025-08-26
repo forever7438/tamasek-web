@@ -17,6 +17,20 @@ window.TemasekConfig = {
         tsiaUrl: 'https://example.com/tsia'           // TSIA按钮链接
     },
 
+    // 应用下载链接配置
+    downloads: {
+        // TSIA TLAK应用下载链接
+        tsiaTlak: {
+            android: 'https://play.google.com/store/apps/details?id=com.temasek.tsiatlak',
+            ios: 'https://apps.apple.com/app/tsia-tlak/id123456789'
+        },
+        // TSIA应用下载链接
+        tsia: {
+            android: 'https://play.google.com/store/apps/details?id=com.temasek.tsia',
+            ios: 'https://apps.apple.com/app/tsia/id987654321'
+        }
+    },
+
     // 语言配置
     languages: {
         current: 'zh',
@@ -40,12 +54,10 @@ window.isUserLoggedIn = function () {
  */
 window.getCurrentLanguage = function () {
     const path = window.location.pathname;
-    if (path.startsWith('/en/')) {
-        return 'en';
-    } else if (path.startsWith('/zh/')) {
+    if (path.startsWith('/zh/')) {
         return 'zh';
     }
-    return window.TemasekConfig.languages.defaultLanguage;
+    return 'en';
 };
 
 /**
@@ -86,6 +98,53 @@ window.getTsiaTlakUrl = function () {
  */
 window.getTsiaUrl = function () {
     return window.TemasekConfig.tsia.tsiaUrl;
+};
+
+/**
+ * 获取TSIA TLAK Android下载链接
+ * @returns {string} TSIA TLAK Android下载URL
+ */
+window.getTsiaTlakAndroidUrl = function () {
+    return window.TemasekConfig.downloads.tsiaTlak.android;
+};
+
+/**
+ * 获取TSIA TLAK iOS下载链接
+ * @returns {string} TSIA TLAK iOS下载URL
+ */
+window.getTsiaTlakIosUrl = function () {
+    return window.TemasekConfig.downloads.tsiaTlak.ios;
+};
+
+/**
+ * 获取TSIA Android下载链接
+ * @returns {string} TSIA Android下载URL
+ */
+window.getTsiaAndroidUrl = function () {
+    return window.TemasekConfig.downloads.tsia.android;
+};
+
+/**
+ * 获取TSIA iOS下载链接
+ * @returns {string} TSIA iOS下载URL
+ */
+window.getTsiaIosUrl = function () {
+    return window.TemasekConfig.downloads.tsia.ios;
+};
+
+/**
+ * 获取应用下载链接
+ * @param {string} appType 应用类型 ('tsiaTlak' 或 'tsia')
+ * @param {string} platform 平台类型 ('android' 或 'ios')
+ * @returns {string} 下载链接URL
+ */
+window.getDownloadUrl = function (appType, platform) {
+    const downloads = window.TemasekConfig.downloads;
+    if (downloads[appType] && downloads[appType][platform]) {
+        return downloads[appType][platform];
+    }
+    console.warn(`Download URL not found for ${appType} ${platform}`);
+    return '#';
 };
 
 /**

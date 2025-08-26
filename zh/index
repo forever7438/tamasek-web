@@ -1644,6 +1644,153 @@
                             font-size: 12px;
                         }
                     }
+
+                    /* TSIA模态框样式 */
+                    .tsia-modal {
+                        display: none;
+                        position: fixed;
+                        z-index: 10000;
+                        left: 0;
+                        top: 0;
+                        width: 100%;
+                        height: 100%;
+                        background-color: rgba(0, 0, 0, 0.6);
+                        backdrop-filter: blur(5px);
+                    }
+
+                    .tsia-modal.show {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+
+                    .tsia-modal-content {
+                        background: linear-gradient(135deg, #fff 0%, #f8f9fa 100%);
+                        padding: 30px;
+                        border-radius: 20px;
+                        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+                        text-align: center;
+                        position: relative;
+                        max-width: 450px;
+                        width: 90%;
+                        animation: modalSlideIn 0.3s ease-out;
+                        border: 2px solid rgba(255, 255, 255, 0.8);
+                    }
+
+                    .tsia-modal-close {
+                        position: absolute;
+                        top: 15px;
+                        right: 20px;
+                        font-size: 28px;
+                        font-weight: bold;
+                        color: #666;
+                        cursor: pointer;
+                        transition: all 0.2s ease;
+                    }
+
+                    .tsia-modal-close:hover {
+                        color: #333;
+                        transform: scale(1.1);
+                    }
+
+                    .tsia-modal h2 {
+                        margin: 0 0 10px 0;
+                        color: #333;
+                        font-size: 24px;
+                        font-weight: 700;
+                    }
+
+                    .tsia-modal p {
+                        margin: 0 0 25px 0;
+                        color: #666;
+                        font-size: 16px;
+                        line-height: 1.5;
+                    }
+
+                    .download-links {
+                        display: flex;
+                        gap: 15px;
+                        justify-content: center;
+                        flex-wrap: wrap;
+                    }
+
+                    .download-btn {
+                        display: flex;
+                        align-items: center;
+                        gap: 10px;
+                        padding: 12px 24px;
+                        border-radius: 12px;
+                        text-decoration: none;
+                        font-weight: 600;
+                        transition: all 0.3s ease;
+                        min-width: 150px;
+                        justify-content: center;
+                        border: 2px solid transparent;
+                    }
+
+                    .android-btn {
+                        background: linear-gradient(135deg, #34A853 0%, #2E7D32 100%);
+                        color: white;
+                    }
+
+                    .android-btn:hover {
+                        transform: translateY(-3px);
+                        box-shadow: 0 10px 25px rgba(52, 168, 83, 0.4);
+                        border-color: rgba(255, 255, 255, 0.3);
+                    }
+
+                    .ios-btn {
+                        background: linear-gradient(135deg, #007AFF 0%, #0051D5 100%);
+                        color: white;
+                    }
+
+                    .ios-btn:hover {
+                        transform: translateY(-3px);
+                        box-shadow: 0 10px 25px rgba(0, 122, 255, 0.4);
+                        border-color: rgba(255, 255, 255, 0.3);
+                    }
+
+                    .download-btn img {
+                        width: 20px;
+                        height: 20px;
+                        filter: brightness(0) invert(1);
+                    }
+
+                    @keyframes modalSlideIn {
+                        from {
+                            opacity: 0;
+                            transform: scale(0.7) translateY(-50px);
+                        }
+                        to {
+                            opacity: 1;
+                            transform: scale(1) translateY(0);
+                        }
+                    }
+
+                    @media (max-width: 768px) {
+                        .tsia-modal-content {
+                            padding: 25px 20px;
+                            margin: 20px;
+                            width: calc(100% - 40px);
+                        }
+
+                        .tsia-modal h2 {
+                            font-size: 20px;
+                        }
+
+                        .tsia-modal p {
+                            font-size: 14px;
+                        }
+
+                        .download-btn {
+                            width: 100%;
+                            margin-bottom: 10px;
+                        }
+
+                        .download-links {
+                            flex-direction: column;
+                        }
+                    }
                 </style>
             </div>
 
@@ -1651,6 +1798,43 @@
 
 
 
+
+        <!-- TSIA模态框 -->
+        <div id="tsia-tlak-modal" class="tsia-modal">
+            <div class="tsia-modal-content">
+                <span class="tsia-modal-close" data-modal="tsia-tlak-modal">&times;</span>
+                <h2>TSIA TLAK应用</h2>
+                <p>选择您的设备类型下载应用：</p>
+                <div class="download-links">
+                    <a href="https://play.google.com/store/apps/details?id=com.temasek.tsiatlak" class="download-btn android-btn" target="_blank">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE3LjUgOUwxMiAzLjVMNi41IDlWMjBIMTdWOVoiIGZpbGw9IiMzNEE4NTMiLz4KPC9zdmc+" alt="Android" />
+                        Android下载
+                    </a>
+                    <a href="https://apps.apple.com/app/tsia-tlak/id123456789" class="download-btn ios-btn" target="_blank">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyQzIgMTcuNTIgNi40OCAyMiAxMiAyMkMxNy41MiAyMiAyMiAxNy41MiAyMiAxMkMyMiA2LjQ4IDE3LjUyIDIgMTIgMloiIGZpbGw9IiMwMDdBRkYiLz4KPC9zdmc+" alt="iOS" />
+                        iOS下载
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div id="tsia-modal" class="tsia-modal">
+            <div class="tsia-modal-content">
+                <span class="tsia-modal-close" data-modal="tsia-modal">&times;</span>
+                <h2>TSIA应用</h2>
+                <p>选择您的设备类型下载应用：</p>
+                <div class="download-links">
+                    <a href="https://play.google.com/store/apps/details?id=com.temasek.tsia" class="download-btn android-btn" target="_blank">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE3LjUgOUwxMiAzLjVMNi41IDlWMjBIMTdWOVoiIGZpbGw9IiMzNEE4NTMiLz4KPC9zdmc+" alt="Android" />
+                        Android下载
+                    </a>
+                    <a href="https://apps.apple.com/app/tsia/id987654321" class="download-btn ios-btn" target="_blank">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyQzIgMTcuNTIgNi40OCAyMiAxMiAyMkMxNy41MiAyMiAyMiAxNy41MiAyMiAxMkMyMiA2LjQ4IDE3LjUyIDIgMTIgMloiIGZpbGw9IiMwMDdBRkYiLz4KPC9zdmc+" alt="iOS" />
+                        iOS下载
+                    </a>
+                </div>
+            </div>
+        </div>
 
         <footer>
             <div id="footer-icons">
@@ -1966,6 +2150,23 @@
 
     <!-- TSIA按钮事件处理脚本 -->
     <script>
+        // 模态框控制函数
+        function showModal(modalId) {
+            const modal = document.getElementById(modalId);
+            if (modal) {
+                modal.classList.add('show');
+                document.body.style.overflow = 'hidden'; // 防止背景滚动
+            }
+        }
+
+        function hideModal(modalId) {
+            const modal = document.getElementById(modalId);
+            if (modal) {
+                modal.classList.remove('show');
+                document.body.style.overflow = ''; // 恢复滚动
+            }
+        }
+
         // TSIA TLAK按钮点击事件
         function handleTsiaTlakClick() {
             // 防止事件冒泡，避免触发父元素的链接跳转
@@ -1974,15 +2175,10 @@
             
             console.log('TSIA TLAK 按钮被点击');
             
-            // 显示提示信息
-            alert('TSIA TLAK 功能即将上线，敬请期待！');
+            // 显示TSIA TLAK模态框
+            showModal('tsia-tlak-modal');
             
-            // 这里可以添加更多功能，比如：
-            // - 跳转到特定页面
-            // - 打开模态框
-            // - 发送统计数据等
-            
-            // 示例：统计点击事件
+            // 统计点击事件
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
                     'event_category': 'TSIA',
@@ -1999,15 +2195,10 @@
             
             console.log('TSIA 按钮被点击');
             
-            // 显示提示信息
-            alert('TSIA 功能即将上线，敬请期待！');
+            // 显示TSIA模态框
+            showModal('tsia-modal');
             
-            // 这里可以添加更多功能，比如：
-            // - 跳转到特定页面：window.open('https://tsia.example.com', '_blank');
-            // - 打开模态框
-            // - 发送统计数据等
-            
-            // 示例：统计点击事件
+            // 统计点击事件
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
                     'event_category': 'TSIA',
@@ -2015,10 +2206,10 @@
                 });
             }
         }
-        
-        // 为所有TSIA按钮添加点击效果
+
+        // DOM加载完成后的初始化
         document.addEventListener('DOMContentLoaded', function() {
-            // 添加额外的交互效果
+            // 为所有TSIA按钮添加交互效果
             const tsiaButtons = document.querySelectorAll('.tsia-tlak-btn, .tsia-btn');
             
             tsiaButtons.forEach(button => {
@@ -2038,6 +2229,83 @@
                         e.preventDefault();
                         this.click();
                     }
+                });
+            });
+            
+            // 模态框关闭功能
+            const closeButtons = document.querySelectorAll('.tsia-modal-close');
+            closeButtons.forEach(closeBtn => {
+                closeBtn.addEventListener('click', function() {
+                    const modalId = this.getAttribute('data-modal');
+                    hideModal(modalId);
+                });
+            });
+            
+            // 点击模态框外部关闭
+            const modals = document.querySelectorAll('.tsia-modal');
+            modals.forEach(modal => {
+                modal.addEventListener('click', function(e) {
+                    if (e.target === this) {
+                        hideModal(this.id);
+                    }
+                });
+            });
+            
+            // ESC键关闭模态框
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') {
+                    const openModal = document.querySelector('.tsia-modal.show');
+                    if (openModal) {
+                        hideModal(openModal.id);
+                    }
+                }
+            });
+
+            // 下载链接点击事件处理
+            const downloadBtns = document.querySelectorAll('.download-btn');
+            downloadBtns.forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    
+                    const isAndroid = this.classList.contains('android-btn');
+                    const modalId = this.closest('.tsia-modal').id;
+                    const appType = modalId === 'tsia-tlak-modal' ? 'TSIA TLAK' : 'TSIA';
+                    const platform = isAndroid ? 'android' : 'ios';
+                    
+                    // 获取配置文件中的下载链接
+                    let downloadUrl = '#';
+                    
+                    // 检查配置文件是否已加载
+                    if (typeof window.getDownloadUrl === 'function') {
+                        const configAppType = modalId === 'tsia-tlak-modal' ? 'tsiaTlak' : 'tsia';
+                        downloadUrl = window.getDownloadUrl(configAppType, platform);
+                    } else {
+                        console.warn('配置文件未加载，使用默认链接');
+                        // 后备链接逻辑
+                        if (modalId === 'tsia-tlak-modal') {
+                            downloadUrl = isAndroid 
+                                ? 'https://play.google.com/store/apps/details?id=com.temasek.tsiatlak'
+                                : 'https://apps.apple.com/app/tsia-tlak/id123456789';
+                        } else {
+                            downloadUrl = isAndroid
+                                ? 'https://play.google.com/store/apps/details?id=com.temasek.tsia'
+                                : 'https://apps.apple.com/app/tsia/id987654321';
+                        }
+                    }
+                    
+                    // 更新下载链接
+                    this.href = downloadUrl;
+                    
+                    // 统计下载事件
+                    if (typeof gtag !== 'undefined') {
+                        gtag('event', 'app_download', {
+                            'event_category': 'App Download',
+                            'event_label': `${appType} - ${platform}`,
+                            'app_type': appType,
+                            'platform': platform
+                        });
+                    }
+                    
+                    console.log(`下载 ${appType} ${platform} 版本: ${downloadUrl}`);
                 });
             });
             

@@ -1464,10 +1464,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-desktop-image="/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/image-with-text/tr25-kv-carousel-desktop-2736x1450.png"
     style="background-image: url('/content/dam/temasek-corporate/home/carousel-images/tr2025-kv/image-with-text/tr25-kv-carousel-desktop-2736x1450.png');">
     <a href="https://temasekreview.com.sg/">
-        <!-- TSIA按钮 - 悬浮在左上角 -->
+        <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleDownloadClick()">DOWNLOAD</button>
+            <button type="button" class="tsia-btn" onclick="handleViewClick()">VIEW ONLINE</button>
         </div>
 
         <div class="link-text-button"> </div>
@@ -1485,10 +1485,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-desktop-image="/content/dam/temasek-corporate/home/banner-images/a-generational-investor.jpg"
     style="background-image: url('/content/dam/temasek-corporate/home/banner-images/a-generational-investor.jpg');">
     <a href="/en/about-us">
-        <!-- TSIA按钮 - 悬浮在左上角 -->
+        <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleDownloadClick()">DOWNLOAD</button>
+            <button type="button" class="tsia-btn" onclick="handleViewClick()">VIEW ONLINE</button>
         </div>
         
                 <div class="image-carousel-text"><h1>A Generational Investor</h1>
@@ -1510,10 +1510,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-desktop-image="/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution.jpg"
     style="background-image: url('/content/dam/temasek-corporate/home/archive/banner-images/Forward%20looking%20institution.jpg');">
     <a href="/en/our-financials">
-        <!-- TSIA按钮 - 悬浮在左上角 -->
+        <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleDownloadClick()">DOWNLOAD</button>
+            <button type="button" class="tsia-btn" onclick="handleViewClick()">VIEW ONLINE</button>
         </div>
         
                 <div class="image-carousel-text"><h1>A Forward Looking Institution</h1>
@@ -1535,10 +1535,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-desktop-image="/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg"
     style="background-image: url('/content/dam/temasek-corporate/home/banner-images/trusted-steward.jpg');">
     <a href="/en/our-community">
-        <!-- TSIA按钮 - 悬浮在左上角 -->
+        <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleDownloadClick()">DOWNLOAD</button>
+            <button type="button" class="tsia-btn" onclick="handleViewClick()">VIEW ONLINE</button>
         </div>
         
                 <div class="image-carousel-text"><h1>A Trusted Steward</h1>
@@ -1560,10 +1560,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-desktop-image="/content/dam/temasek-corporate/home/carousel-images/t50-anniversary/T50-Book_Homepage-Banner_Desktop_FINAL.jpg"
     style="background-image: url('/content/dam/temasek-corporate/home/carousel-images/t50-anniversary/T50-Book_Homepage-Banner_Desktop_FINAL.jpg');">
     <a href="http://www.storyof.temasek/?utm_source=homepage&amp;utm_medium=corpsite&amp;utm_campaign=T50-online">
-        <!-- TSIA按钮 - 悬浮在左上角 -->
+        <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleDownloadClick()">DOWNLOAD</button>
+            <button type="button" class="tsia-btn" onclick="handleViewClick()">VIEW ONLINE</button>
         </div>
 
         <div class="link-text-button">      </div>
@@ -1581,10 +1581,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     data-desktop-image="/content/dam/temasek-corporate/home/carousel-images/ecosperity-2025/ecosperity-week-2025-homepage-banner-desktop.png"
     style="background-image: url('/content/dam/temasek-corporate/home/carousel-images/ecosperity-2025/ecosperity-week-2025-homepage-banner-desktop.png');">
     <a href="https://www.ecosperity.sg/">
-        <!-- TSIA按钮 - 悬浮在左上角 -->
+        <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleDownloadClick()">DOWNLOAD</button>
+            <button type="button" class="tsia-btn" onclick="handleViewClick()">VIEW ONLINE</button>
         </div>
 
     </a>
@@ -1940,7 +1940,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         }
                     }
 
-                    /* TSIA按钮样式 */
+                    /* Download button styles */
                     .tsia-buttons-container {
                         position: absolute;
                         top: 25%;
@@ -2275,75 +2275,66 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1754896371409820&amp;ev=PageView&amp;noscript=1"/></noscript>
 <noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif"/></noscript>
 
-    <!-- TSIA按钮事件处理脚本 -->
+    <!-- Download Button Event Handlers -->
     <script>
-        // TSIA TLAK按钮点击事件
-        function handleTsiaTlakClick() {
-            // 防止事件冒泡，避免触发父元素的链接跳转
+        // Download button click event
+        function handleDownloadClick() {
+            // Prevent event bubbling to avoid triggering parent link navigation
             event.preventDefault();
             event.stopPropagation();
             
-            console.log('TSIA TLAK button clicked');
+            console.log('Download button clicked');
             
-            // 显示提示信息
-            alert('TSIA TLAK feature coming soon!');
+            // Trigger download functionality
+            // You can add actual download link here
+            window.open('https://temasekreview.com.sg/download', '_blank');
             
-            // 这里可以添加更多功能，比如：
-            // - 跳转到特定页面
-            // - 打开模态框
-            // - 发送统计数据等
-            
-            // 示例：统计点击事件
+            // Track click event
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
-                    'event_category': 'TSIA',
-                    'event_label': 'TSIA TLAK Button'
+                    'event_category': 'Download',
+                    'event_label': 'Download Button'
                 });
             }
         }
         
-        // TSIA按钮点击事件
-        function handleTsiaClick() {
-            // 防止事件冒泡，避免触发父元素的链接跳转
+        // View Online button click event
+        function handleViewClick() {
+            // Prevent event bubbling to avoid triggering parent link navigation
             event.preventDefault();
             event.stopPropagation();
             
-            console.log('TSIA button clicked');
+            console.log('View Online button clicked');
             
-            // 显示提示信息
-            alert('TSIA feature coming soon!');
+            // Open online view in new window
+            window.open('https://temasekreview.com.sg/', '_blank');
             
-            // 这里可以添加更多功能，比如：
-            // - 跳转到特定页面：window.open('https://tsia.example.com', '_blank');
-            // - 打开模态框
-            // - 发送统计数据等
-            
-            // 示例：统计点击事件
+            // Track click event
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
-                    'event_category': 'TSIA',
-                    'event_label': 'TSIA Button'
+                    'event_category': 'View',
+                    'event_label': 'View Online Button'
                 });
             }
         }
         
-        // 为所有TSIA按钮添加点击效果
+        // Add interactive effects to all download buttons
         document.addEventListener('DOMContentLoaded', function() {
-            // 添加额外的交互效果
-            const tsiaButtons = document.querySelectorAll('.tsia-tlak-btn, .tsia-btn');
+            // Add additional interactive effects
+            const downloadButtons = document.querySelectorAll('.tsia-tlak-btn, .tsia-btn');
             
-            tsiaButtons.forEach(button => {
-                // 鼠标进入效果
+            downloadButtons.forEach(button => {
+                // Mouse enter effect
                 button.addEventListener('mouseenter', function() {
                     this.style.transform = 'translateY(-2px) scale(1.05)';
                 });
                 
-                // 鼠标离开效果
+                // Mouse leave effect
                 button.addEventListener('mouseleave', function() {
                     this.style.transform = 'translateY(0) scale(1)';
                 });
                 
-                // 键盘访问支持
+                // Keyboard accessibility support
                 button.addEventListener('keydown', function(e) {
                     if (e.key === 'Enter' || e.key === ' ') {
                         e.preventDefault();
@@ -2352,7 +2343,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 });
             });
             
-            console.log('TSIA buttons initialized, found', tsiaButtons.length, 'buttons');
+            console.log('Download buttons initialized, found', downloadButtons.length, 'buttons');
         });
     </script>
 
