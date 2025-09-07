@@ -22,12 +22,12 @@ window.TemasekConfig = {
         // TSIA TLAK应用下载链接
         tsiaTlak: {
             android: 'https://play.google.com/store/apps/details?id=com.temasek.tsiatlak',
-            ios: 'https://apps.apple.com/app/tsia-tlak/id123456789'
+            ios: 'https://apps.apple.com/us/app/tsia-talk/id6751618294'
         },
         // TSIA应用下载链接
         tsia: {
             android: 'https://play.google.com/store/apps/details?id=com.temasek.tsia',
-            ios: 'https://apps.apple.com/app/tsia/id987654321'
+            ios: 'https://apps.apple.com/us/app/tsiainfinity/id6751827801'
         }
     },
 
