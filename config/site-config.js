@@ -207,12 +207,27 @@ window.updateAuthButtons = function () {
             button.textContent = buttonTexts.second;
             if (isLoggedIn) {
                 // 已登录：退出按钮
-                button.href = '#';
-                button.onclick = function (e) {
-                    e.preventDefault();
-                    window.logout();
-                    window.location.href = window.getLoginUrl();
-                };
+                const loginUrl = window.getLoginUrl();
+                if (button.tagName && button.tagName.toLowerCase() === 'a') {
+                    // 对于 <a>，使用原生跳转，避免移动端阻止默认行为导致无反应
+                    button.href = loginUrl;
+                    button.onclick = function () {
+                        window.logout();
+                        // 不阻止默认行为，交给 <a> 完成跳转
+                    };
+                } else {
+                    // 非 <a> 元素，显式处理跳转，并兼容触控事件
+                    const handler = function (e) {
+                        if (e && e.preventDefault) e.preventDefault();
+                        if (e && e.stopPropagation) e.stopPropagation();
+                        window.logout();
+                        window.location.href = loginUrl;
+                    };
+                    button.onclick = handler;
+                    if (button.addEventListener) {
+                        button.addEventListener('touchend', handler, { passive: false });
+                    }
+                }
             } else {
                 // 未登录：注册按钮
                 button.href = window.getRegisterUrl();
