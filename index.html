@@ -1465,7 +1465,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/">
         <!-- TSIA Buttons - Floating in top-left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
             <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
         </div>
 
@@ -1486,7 +1486,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/en/about-us">
         <!-- TSIA Buttons - Floating in top-left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
             <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
         </div>
         
@@ -1511,7 +1511,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/en/our-financials">
         <!-- TSIA Buttons - Floating in top-left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
             <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
         </div>
         
@@ -1536,7 +1536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/en/our-community">
         <!-- TSIA Buttons - Floating in top-left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
             <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
         </div>
         
@@ -1561,7 +1561,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/">
         <!-- TSIA Buttons - Floating in top-left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
             <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
         </div>
 
@@ -1582,7 +1582,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/">
         <!-- TSIA Buttons - Floating in top-left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
             <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
         </div>
 
@@ -2437,7 +2437,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="tsia-tlak-modal" class="tsia-modal">
         <div class="tsia-modal-content">
             <span class="tsia-modal-close" data-modal="tsia-tlak-modal">&times;</span>
-            <h2>TSIA TLAK App</h2>
+            <h2>TSIA TALK App</h2>
             <p>Choose your device type to download the app:</p>
             <div class="download-links">
                 <a href="https://play.google.com/store/apps/details?id=com.temasek.tsiatlak" class="download-btn android-btn" target="_blank">
@@ -2489,22 +2489,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             }
         }
 
-        // TSIA TLAK button click event
+        // TSIA TALK button click event
         function handleTsiaTlakClick() {
             // Prevent event bubbling and avoid triggering parent link navigation
             event.preventDefault();
             event.stopPropagation();
             
-            console.log('TSIA TLAK button clicked');
+            console.log('TSIA TALK button clicked');
             
-            // Show TSIA TLAK modal
+            // Show TSIA TALK modal
             showModal('tsia-tlak-modal');
             
             // Track click event
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
                     'event_category': 'TSIA',
-                    'event_label': 'TSIA TLAK Button'
+                    'event_label': 'TSIA TALK Button'
                 });
             }
         }
@@ -2591,7 +2591,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     
                     const isAndroid = this.classList.contains('android-btn');
                     const modalId = this.closest('.tsia-modal').id;
-                    const appType = modalId === 'tsia-tlak-modal' ? 'TSIA TLAK' : 'TSIA';
+                    const appType = modalId === 'tsia-tlak-modal' ? 'TSIA TALK' : 'TSIA';
                     const platform = isAndroid ? 'android' : 'ios';
                     
                     // Get download link from config file

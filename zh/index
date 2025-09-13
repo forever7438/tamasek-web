@@ -1219,7 +1219,7 @@
                             <a href="https://temasekreview.com.sg/zh">
                             <!-- TSIA按钮 - 悬浮在左上角 -->
                             <div class="tsia-buttons-container">
-                                <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
                                 <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
                             </div>
                                 <div class="link-text-button"> </div>
@@ -1243,7 +1243,7 @@
                             <a href="/zh/about-us">
                                 <!-- TSIA按钮 - 悬浮在左上角 -->
                                 <div class="tsia-buttons-container">
-                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
                                     <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
                                 </div>
                                 <div class="image-carousel-text">
@@ -1272,7 +1272,7 @@
                             <a href="/zh/our-financials">
                                 <!-- TSIA按钮 - 悬浮在左上角 -->
                                 <div class="tsia-buttons-container">
-                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
                                     <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
                                 </div>
                                 <div class="image-carousel-text">
@@ -1301,7 +1301,7 @@
                             <a href="/zh/our-community">
                                 <!-- TSIA按钮 - 悬浮在左上角 -->
                                 <div class="tsia-buttons-container">
-                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TLAK</button>
+                                    <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
                                     <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
                                 </div>
                                 <div class="image-carousel-text">
@@ -2173,7 +2173,7 @@
             event.preventDefault();
             event.stopPropagation();
             
-            console.log('TSIA TLAK 按钮被点击');
+            console.log('TSIA TALK 按钮被点击');
             
             // 显示TSIA TLAK模态框
             showModal('tsia-tlak-modal');
@@ -2182,7 +2182,7 @@
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
                     'event_category': 'TSIA',
-                    'event_label': 'TSIA TLAK Button'
+                    'event_label': 'TSIA TALK Button'
                 });
             }
         }
@@ -2268,7 +2268,7 @@
                     
                     const isAndroid = this.classList.contains('android-btn');
                     const modalId = this.closest('.tsia-modal').id;
-                    const appType = modalId === 'tsia-tlak-modal' ? 'TSIA TLAK' : 'TSIA';
+                    const appType = modalId === 'tsia-tlak-modal' ? 'TSIA TALK' : 'TSIA';
                     const platform = isAndroid ? 'android' : 'ios';
                     
                     // 获取配置文件中的下载链接

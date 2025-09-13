@@ -21,12 +21,12 @@ window.TemasekConfig = {
     downloads: {
         // TSIA TLAK应用下载链接
         tsiaTlak: {
-            android: 'https://play.google.com/store/apps/details?id=com.tsiatalk.tsiatlak',
+            android: 'https://play.google.com/store/apps/details?id=com.tsiatalk.tsia',
             ios: 'https://apps.apple.com/us/app/tsia-talk/id6751618294'
         },
         // TSIA应用下载链接
         tsia: {
-            android: 'https://play.google.com/store/apps/details?id=com.tsiatalk.tsia',
+            android: 'https://play.google.com/store/apps/details?id=com.TSIAInfinity.www',
             ios: 'https://apps.apple.com/us/app/tsiainfinity/id6751827801'
         }
     },
@@ -102,7 +102,7 @@ window.getTsiaUrl = function () {
 
 /**
  * 获取TSIA TLAK Android下载链接
- * @returns {string} TSIA TLAK Android下载URL
+ * @returns {string} TSIA TALK Android下载URL
  */
 window.getTsiaTlakAndroidUrl = function () {
     return window.TemasekConfig.downloads.tsiaTlak.android;
@@ -110,7 +110,7 @@ window.getTsiaTlakAndroidUrl = function () {
 
 /**
  * 获取TSIA TLAK iOS下载链接
- * @returns {string} TSIA TLAK iOS下载URL
+ * @returns {string} TSIA TALK iOS下载URL
  */
 window.getTsiaTlakIosUrl = function () {
     return window.TemasekConfig.downloads.tsiaTlak.ios;
