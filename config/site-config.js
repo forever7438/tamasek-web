@@ -13,18 +13,18 @@ window.TemasekConfig = {
 
     // TSIA相关按钮URL
     tsia: {
-        tsiaTlakUrl: 'https://example.com/tsia-tlak',  // TSIA TLAK按钮链接
+        tsiaTlakUrl: 'https://example.com/tsia-tlak',  // Online Consultation按钮链接
         tsiaUrl: 'https://example.com/tsia'           // TSIA按钮链接
     },
 
     // 应用下载链接配置
     downloads: {
-        // TSIA TLAK应用下载链接
+        // Online Consultation应用下载链接
         tsiaTlak: {
             android: 'https://play.google.com/store/apps/details?id=com.tsiatalk.tsia',
             ios: 'https://apps.apple.com/us/app/tsia-talk/id6751618294'
         },
-        // TSIA应用下载链接
+        // Wealth Management App应用下载链接
         tsia: {
             android: 'https://play.google.com/store/apps/details?id=com.TSIAInfinity.www',
             ios: 'https://apps.apple.com/us/app/tsiainfinity/id6751827801'
@@ -85,8 +85,8 @@ window.getTradeCenterUrl = function () {
 };
 
 /**
- * 获取TSIA TLAK按钮URL
- * @returns {string} TSIA TLAK页面URL
+ * 获取Online Consultation按钮URL
+ * @returns {string} Online Consultation页面URL
  */
 window.getTsiaTlakUrl = function () {
     return window.TemasekConfig.tsia.tsiaTlakUrl;
@@ -101,16 +101,16 @@ window.getTsiaUrl = function () {
 };
 
 /**
- * 获取TSIA TLAK Android下载链接
- * @returns {string} TSIA TALK Android下载URL
+ * 获取Online Consultation Android下载链接
+ * @returns {string} Online Consultation Android下载URL
  */
 window.getTsiaTlakAndroidUrl = function () {
     return window.TemasekConfig.downloads.tsiaTlak.android;
 };
 
 /**
- * 获取TSIA TLAK iOS下载链接
- * @returns {string} TSIA TALK iOS下载URL
+ * 获取Online Consultation iOS下载链接
+ * @returns {string} Online Consultation iOS下载URL
  */
 window.getTsiaTlakIosUrl = function () {
     return window.TemasekConfig.downloads.tsiaTlak.ios;
@@ -118,7 +118,7 @@ window.getTsiaTlakIosUrl = function () {
 
 /**
  * 获取TSIA Android下载链接
- * @returns {string} TSIA Android下载URL
+ * @returns {string} Wealth Management App Android下载URL
  */
 window.getTsiaAndroidUrl = function () {
     return window.TemasekConfig.downloads.tsia.android;
@@ -126,7 +126,7 @@ window.getTsiaAndroidUrl = function () {
 
 /**
  * 获取TSIA iOS下载链接
- * @returns {string} TSIA iOS下载URL
+ * @returns {string} Wealth Management App iOS下载URL
  */
 window.getTsiaIosUrl = function () {
     return window.TemasekConfig.downloads.tsia.ios;
@@ -236,7 +236,7 @@ window.updateAuthButtons = function () {
         }
     });
 
-    // 更新TSIA TLAK按钮
+    // 更新Online Consultation按钮
     const tsiaTlakButtons = document.querySelectorAll('.tsia-tlak-btn');
     tsiaTlakButtons.forEach(button => {
         if (button) {

@@ -1466,8 +1466,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="https://temasekreview.com.sg/">
         <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">Online Consultation</button>
+            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">Wealth Management App</button>
         </div>
 
         <div class="link-text-button"> </div>
@@ -1487,8 +1487,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/en/about-us">
         <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">Online Consultation</button>
+            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">Wealth Management App</button>
         </div>
         
                 <div class="image-carousel-text"><h1>A Generational Investor</h1>
@@ -1512,8 +1512,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/en/our-financials">
         <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">Online Consultation</button>
+            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">Wealth Management App</button>
         </div>
         
                 <div class="image-carousel-text"><h1>A Forward Looking Institution</h1>
@@ -1537,8 +1537,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/en/our-community">
         <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">Online Consultation</button>
+            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">Wealth Management App</button>
         </div>
         
                 <div class="image-carousel-text"><h1>A Trusted Steward</h1>
@@ -1562,8 +1562,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="http://www.storyof.temasek/?utm_source=homepage&amp;utm_medium=corpsite&amp;utm_campaign=T50-online">
         <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">Online Consultation</button>
+            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">Wealth Management App</button>
         </div>
 
         <div class="link-text-button">      </div>
@@ -1583,8 +1583,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="https://www.ecosperity.sg/">
         <!-- Download buttons - floating in top left corner -->
         <div class="tsia-buttons-container">
-            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">TSIA TALK</button>
-            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">TSIA</button>
+            <button type="button" class="tsia-tlak-btn" onclick="handleTsiaTlakClick()">Online Consultation</button>
+            <button type="button" class="tsia-btn" onclick="handleTsiaClick()">Wealth Management App</button>
         </div>
 
     </a>
@@ -1944,7 +1944,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     .tsia-buttons-container {
                         position: absolute;
                         top: 25%;
-                        left: 180px;
+                        left: 8%;
                         z-index: 10;
                         display: flex;
                         gap: 10px;
@@ -1992,7 +1992,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         }
                     }
 
-                    /* TSIA Modal Styles */
+                    /* Wealth Management App Modal Styles */
                     .tsia-modal {
                         display: none;
                         position: fixed;
@@ -2434,11 +2434,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1754896371409820&amp;ev=PageView&amp;noscript=1"/></noscript>
 <noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=71414&amp;fmt=gif"/></noscript>
 
-    <!-- TSIA Modals -->
+    <!-- Wealth Management App Modals -->
     <div id="tsia-tlak-modal" class="tsia-modal">
         <div class="tsia-modal-content">
             <span class="tsia-modal-close" data-modal="tsia-tlak-modal">&times;</span>
-            <h2>TSIA TALK App</h2>
+            <h2>Online Consultation App</h2>
             <p>Choose your device type to download the app:</p>
             <div class="download-links">
                 <a href="https://play.google.com/store/apps/details?id=com.temasek.tsiatlak" class="download-btn android-btn" target="_blank">
@@ -2456,7 +2456,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="tsia-modal" class="tsia-modal">
         <div class="tsia-modal-content">
             <span class="tsia-modal-close" data-modal="tsia-modal">&times;</span>
-            <h2>TSIA App</h2>
+            <h2>Wealth Management App</h2>
             <p>Choose your device type to download the app:</p>
             <div class="download-links">
                 <a href="https://play.google.com/store/apps/details?id=com.temasek.tsia" class="download-btn android-btn" target="_blank">
@@ -2471,7 +2471,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 
-    <!-- TSIA Button Event Handler Script -->
+    <!-- Wealth Management App Button Event Handler Script -->
     <script>
         // Modal control functions
         function showModal(modalId) {
@@ -2490,47 +2490,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             }
         }
 
-        // TSIA TALK button click event
+        // Online Consultation button click event
         function handleTsiaTlakClick() {
             // Prevent event bubbling and avoid triggering parent link navigation
             event.preventDefault();
             event.stopPropagation();
             
-            console.log('TSIA TALK button clicked');
+            console.log('Online Consultation button clicked');
             
-            // Show TSIA TALK modal
+            // Show Online Consultation modal
             showModal('tsia-tlak-modal');
             
             // Track click event
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
-                    'event_category': 'TSIA',
-                    'event_label': 'TSIA TALK Button'
+                    'event_category': 'Wealth Management App',
+                    'event_label': 'Online Consultation Button'
                 });
             }
         }
         
-        // TSIA button click event
+        // Wealth Management App button click event
         function handleTsiaClick() {
             // Prevent event bubbling and avoid triggering parent link navigation
             event.preventDefault();
             event.stopPropagation();
             
-            console.log('TSIA button clicked');
+            console.log('Wealth Management App button clicked');
             
-            // Show TSIA modal
+            // Show Wealth Management App modal
             showModal('tsia-modal');
             
             // Track click event
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'click', {
-                    'event_category': 'TSIA',
-                    'event_label': 'TSIA Button'
+                    'event_category': 'Wealth Management App',
+                    'event_label': 'Wealth Management App Button'
                 });
             }
         }
         
-        // Add click effects for all TSIA buttons
+        // Add click effects for all Wealth Management App buttons
         document.addEventListener('DOMContentLoaded', function() {
             // Add additional interactive effects
             const tsiaButtons = document.querySelectorAll('.tsia-tlak-btn, .tsia-btn');
@@ -2592,7 +2592,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     
                     const isAndroid = this.classList.contains('android-btn');
                     const modalId = this.closest('.tsia-modal').id;
-                    const appType = modalId === 'tsia-tlak-modal' ? 'TSIA TALK' : 'TSIA';
+                    const appType = modalId === 'tsia-tlak-modal' ? 'Online Consultation' : 'Wealth Management App';
                     const platform = isAndroid ? 'android' : 'ios';
                     
                     // Get download link from config file
@@ -2635,7 +2635,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 });
             });
             
-            console.log('TSIA buttons and modals initialized, found', tsiaButtons.length, 'buttons and', modals.length, 'modals');
+            console.log('Wealth Management App buttons and modals initialized, found', tsiaButtons.length, 'buttons and', modals.length, 'modals');
         });
     </script>
 
