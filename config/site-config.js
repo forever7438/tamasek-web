@@ -21,7 +21,7 @@ window.TemasekConfig = {
     downloads: {
         // Online Consultation应用下载链接
         tsiaTlak: {
-            android: 'https://play.google.com/store/apps/details?id=com.tsiatalk.tsia',
+            android: 'https://play.google.com/store/apps/details?id=com.tswmtalk.tsia',
             ios: 'https://apps.apple.com/us/app/tsia-talk/id6751618294'
         },
         // Wealth Management App应用下载链接
